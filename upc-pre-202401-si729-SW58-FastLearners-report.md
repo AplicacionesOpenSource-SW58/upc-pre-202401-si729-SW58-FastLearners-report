@@ -166,10 +166,10 @@ Ocupación: _____
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 **Segmento 1:** Desarrolladores principiantes con dificultades de encontrar respuestas de expertos en el tema.  
-![Imagen User Persona 1](../assets/UserPersona1)
+![Imagen User Persona 1](../assets/UserPersona1.jpg)
 
 **Segmento 2:** Desarrolladores experimentados con las ganas de poder ayudar a los principiantes en su campo.
-![Imagen User Persona 2](../assets/UserPersona2)
+![Imagen User Persona 2](../assets/UserPersona2.jpg)
 
 ### 2.3.2. User Task Matrix.
 **Segmento 1:** 
