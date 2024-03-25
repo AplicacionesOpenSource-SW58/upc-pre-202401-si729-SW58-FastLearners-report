@@ -118,10 +118,10 @@ Quora es una plataforma de preguntas y respuestas donde los usuarios pueden hace
 
 |Competidores ->|  | FastLearners | Stack Overflow | Quora |
 |-|-|-|-|-|
-| Análisis SWOT | Fortalezas | lorem | Lorem | lorem |
-|| Debilidades   | lorem | lorem | lorem | lorem | 
-|| Oportunidades | lorem | lorem | lorem | lorem | 
-|| Amenazas      | lorem | lorem | lorem | lorem |
+| Análisis SWOT | Fortalezas | Enfoque especifico en el aprendizaje colaborativo para programadores e ingenieros de software | Comunidad activa y diversa de desarrolladores con alta experiencia técnica | Extensa variedad de temas expuestos, dando libertad al usuario de descubrir |
+|| Debilidades   | lorem | Dependencia de la participacion activa de la comunidad de desarrolladores para mantener la utilidad del contenido | La experiencia de usuario puede variar dependiendo de la calidad y relevancia de las respuestas hechas por la comunidad | Usuarios pueden utilizarla para promover intereses personales, lo que puede disminuir la calidad del producto | 
+|| Oportunidades | lorem | Colaboraciones con empresas y universidades para ofrecer contenido exclusivo y certficaciones en linea | Expansión hacia otros campos técnicos más allá del desarrollo de software | Mejora de experiencia de usuario, por medio de implementacion de caracteristicas adicionales | 
+|| Amenazas      | lorem | Competencia creciente de otras empresas y startups que ofrecen servicios similares | Riesgo de contenido desactualizado que pueda afectar la credibilidad de la plataforma | Riesgo de contenido controvertido que pueda dañar la reputacion de la plataforma |
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
