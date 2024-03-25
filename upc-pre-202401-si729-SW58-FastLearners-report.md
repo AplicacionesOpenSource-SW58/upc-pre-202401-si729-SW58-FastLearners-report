@@ -91,11 +91,17 @@ Texto
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.
+# Stack Overflow
+Stack Overflow es una plataforma de preguntas y respuestas para desarrolladores de software. Permite a los usuarios hacer preguntas sobre programación y recibir respuestas de la comunidad. La plataforma está organizada por categorías y etiquetas, facilitando la búsqueda de soluciones.
+
+# Quora
+Quora es una plataforma de preguntas y respuestas donde los usuarios pueden hacer preguntas sobre una amplia gama de temas y recibir respuestas de la comunidad. Las preguntas y respuestas son organizadas por temas y los usuarios pueden seguir temas y personas para personalizar su experiencia. Quora también permite a los usuarios escribir respuestas largas y detalladas, fomentando el intercambio de conocimientos y experiencias.
+
 ### 2.1.1. Análisis competitivo.
 
 | Competitive Analysis Landscape                          |  |
 | ------------------------------------------------------- | -|
-| ¿Por qué llevar a cabo este análisis?                   | -- |
+| ¿Por qué llevar a cabo este análisis?                   | LLevamos a cabo este analisis competitivo, para poder darnos cuenta de nuestras ventajas y desventajas dentro del mercado con competidores que cuentan con un modelo de negocio similiar o parecido al nuestro. |
 
 
 | |  | FastLearners | Stack Overflow  | Quora |
@@ -103,10 +109,10 @@ Texto
 | PERFIL| Overview | Somos una plataforma de aprendizaje en la que distintos programadores e ingenieros de software pueden colaborar entre sí para aprender a través de repositorios, documentacion o videos educativos. El modelo de negocio es freemium, en el cual se podrán desbloquear distintas características como acceder a nuevos repositorios, videos o documentacion, todo esto con una suscripcion mensual. | Stack Overflow es una plataforma de preguntas y respuestas para desarrolladores de software. Permite a los usuarios hacer preguntas sobre programacion y recibir respuestas de la comunidad. | Quora es una plataforma de preguntas y respuestas donde los usuarios pueden hacer preguntas sobre una amplia gama de temas y recibir respuestas de la comunidad. |
 || Ventaja competitiva ¿Qué valor ofrece a los clientes? |  Enfoque especifico en el aprendizaje colaborativo entre programadores e ingenieros de software | Sistema de reputacion y gamificación motivando a la participación y calidad de respuestas | Abarca variedad de temas más allá de la programación, lo que permite a los usuarios explorar diversos temas |
 || Mercado Objetivo                                        | Programadores e ingenieros de software, que busquen mejorar sus habilidades tecnicas | Desarrolladores de software y programadores de todos los niveles de experiencia | Usuarios interesados en el intercambio de conocimientos y experiencias en diversos temas |
-| Perfil de marketing                                     | Estrategia de Marketing | Redes Sociales | Redes Sociales | Televisión, Redes Sociales |
-| Perfil del producto                                     | Productos y servicios | Elementos Gráficos Interactivos Enseñanza de Matemáticas Lúdica y Autodidacta Educación matemática interactiva Ámbito Freemium | Educación matemática interactiva Mas de 100 cursos en 28 idiomas diferentes | Educación general interactiva Contratos con Movistar |
-|| Precios y costos                                        | Freemium (Cuenta Premium permite personalizar los juegos) Gratis | Gratuito | Gratuito |
-|| Canales de distribución (Web y/o Móvil)                 | Web y Móvil Web | Móvil Web | Web y móvil Web |
+| Perfil de marketing                                     | Estrategia de Marketing | Redes Sociales y Publicidad Web | Publicidad dirigida y Patrocinios y asociaciones | Contenido Patrocinado y Participacion en la comunidad |
+| Perfil del producto                                     | Productos y servicios | Plataforma de aprendizaje para desarrolladores principiantes, con modelo de negocio Freemium | PLataforma de Q&A para programadores de todo nivel de experiencia en temas de tecnologia | Plataforma de Q&A para personas interesadas en variados temas en campos variados |
+|| Precios y costos                                        | Freemium (Cuenta Premium permite visualizar material de aprendizaje extra) Gratis | Gratuito | Gratuito |
+|| Canales de distribución (Web y/o Móvil)                 | Web y Móvil Web | Web y Móvil Web | Web y móvil Web |
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
 
