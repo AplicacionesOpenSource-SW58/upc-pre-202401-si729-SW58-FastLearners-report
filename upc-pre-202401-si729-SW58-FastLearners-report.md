@@ -98,9 +98,9 @@ Texto
 | ¿Por qué llevar a cabo este análisis?                   | -- |
 
 
-| |  | (Nosotros) | Competidor  | Comptdor |
+| |  | FastLearners | Stack Overflow  | Quora |
 |-|-|-|-|-|
-| PERFIL| Overview | lorem | ipsum | lorem |
+| PERFIL| Overview | Somos una plataforma de aprendizaje en la que distintos  | ipsum | lorem |
 || Ventaja competitiva ¿Qué valor ofrece a los clientes? |  ipsu | impuz |
 || Mercado Objetivo                                        | Jeda | asa | asa2 |
 | Perfil de marketing                                     | Estrategia de Marketing | Redes Sociales | Redes Sociales | Televisión, Redes Sociales |
