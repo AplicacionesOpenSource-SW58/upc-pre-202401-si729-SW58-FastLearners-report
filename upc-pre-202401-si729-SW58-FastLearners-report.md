@@ -110,7 +110,7 @@ Texto
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
 
-|Competidores ->|  | Nosotros | Competidor2| Competidor3|
+|Competidores ->|  | FastLearners | Stack Overflow | Quora |
 |-|-|-|-|-|
 | Análisis SWOT | Fortalezas | lorem | Lorem | lorem |
 || Debilidades   | lorem | lorem | lorem | lorem | 
