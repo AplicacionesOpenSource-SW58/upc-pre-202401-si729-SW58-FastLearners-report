@@ -100,7 +100,7 @@ Texto
 
 | |  | FastLearners | Stack Overflow  | Quora |
 |-|-|-|-|-|
-| PERFIL| Overview | Somos una plataforma de aprendizaje en la que distintos  | ipsum | lorem |
+| PERFIL| Overview | Somos una plataforma de aprendizaje en la que distintos programadores e ingenieros de software pueden colaborar entre sí para aprender a través de repositorios, documentacion o videos educativos. El modelo de negocio es freemium, en el cual se podrán desbloquear distintas características como acceder a nuevos repositorios, videos o documentacion, todo esto con una suscripcion mensual. | Stack Overflow es una plataforma de preguntas y respuestas para desarrolladores de software. Permite a los usuarios hacer preguntas sobre programacion y recibir respuestas de la comunidad. | Quora es una plataforma de preguntas y respuestas donde los usuarios pueden hacer preguntas sobre una amplia gama de temas y recibir respuestas de la comunidad. |
 || Ventaja competitiva ¿Qué valor ofrece a los clientes? |  ipsu | impuz |
 || Mercado Objetivo                                        | Jeda | asa | asa2 |
 | Perfil de marketing                                     | Estrategia de Marketing | Redes Sociales | Redes Sociales | Televisión, Redes Sociales |
