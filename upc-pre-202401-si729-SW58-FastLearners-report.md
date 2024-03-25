@@ -126,23 +126,23 @@ Quora es una plataforma de preguntas y respuestas donde los usuarios pueden hace
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
 **Preguntas generales:**
-
 1. ¿Cuál es su nombre? 
 2. ¿Qué edad tiene? 
 3. ¿A qué se dedica? 
-4. ¿[Opinion de idea de propuesta]? 
+4. ¿Sabes o has intentado aprender algun lenguaje de programacion? 
 
-**Entrevistas usuario segmento 2**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?  
+**Entrevistas Desarrollador Principiante**
+1. ¿Estas o has estado interesado en aprender algun lenguaje de programacion?
+2. ¿Cuando buscas informacion sobre un lenguaje, te es facil buscarla? Y si, sí ¿Es de fiar?
+3. ¿Crees que se te facilitaria el aprendizaje, si fuera de manera cooperativa?
+4. ¿Conoces alguna plataforma que te facilite el aprendizaje cooperativo?  
    
-**Entrevistas usuario segmento 2**
-1. ¿Lorem? 
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem? 
+**Entrevistas Desarrollador Experto**
+1. ¿Que tecnologicas tienes bajo tu entendimiento? 
+2. ¿Te fue fácil aprender en su momento?
+3. ¿Estarias interesado en compartir tu experiencia en distintas tecnologias con un publico abierto?
+4. ¿Conoces alguna plataforma que facilite el aprendizaje cooperativo?
+
 ### 2.2.2. Registro de entrevistas.
 **Segmento 1**  
 Nombre: _____
@@ -165,10 +165,10 @@ Ocupación: _____
 {texto}
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
-**Segmento 1:** Clientes que requieren de un plan para soporte técnico que brinde garantía y soluciones a sus productos electrónicos vendidos.  
+**Segmento 1:** Desarrolladores principiantes con dificultades de encontrar respuestas de expertos en el tema.  
 ![Imagen User Persona 1](../assets/requirements-images/user_persona_user.png)
 
-**Segmento 2:** Técnicos especializados en reparación, mantenimiento y soporte técnico de productos electrónicos.
+**Segmento 2:** Desarrolladores experimentados con las ganas de poder ayudar a los principiantes en su campo.
 ![Imagen User Persona 1](../assets/requirements-images/user_persona_tecnico.png)
 
 ### 2.3.2. User Task Matrix.
