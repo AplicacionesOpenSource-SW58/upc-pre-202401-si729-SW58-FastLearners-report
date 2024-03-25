@@ -4,24 +4,23 @@
 ---
 # UPC
 # INGENIERÍA DE SISTEMAS DE SOFTWARE
-## CURSO: SI730 Aplicacioes Web | SECCIÓN SW56
+## CURSO: SI729 Aplicacioes Open Source | SECCIÓN SW58
  Profesor: Efrain Ricardo Bautista Ubillus
 # Informe de TB1
 "Startup"
-NexLibery
+FastLearners
 ### Integrantes:
-- xxx - U202xx
-- xxx - U202xxx
-- Quispe Erasmo, Raúl Ronaldo - U20211B682
-- Ramirez Ramirez, Marcelo Sebastian - U202210582
 - Javier Murillo, Mathias - U202022211
+- xxx - U202xxx
+- xxx - U202xxx
+- xxx - U202xxx
 - xxa - U2022xxx 
 
 ---
 # Registro de Versiones del Informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 24/03/2024 |Grupo 8 |Se crea el documento |
+| 0.0 | 25/03/2024 |Grupo 4 |Se crea el documento |
 
 # Project Report Collaboration Insights
 [URL del repositorio](xxx)
@@ -37,17 +36,17 @@ NexLibery
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
-#### NexaLibery
+#### FastLearners
 
 - **Misión:** 
 - **Visión:** 
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-| 
-|Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%;">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
+|Javier Murillo, Mathias <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%;">|U202212096|Ingenieria de software|C++, SQL, React, Python, Javascript|
 |Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
 |Ramirez Ramirez, Marcelo Sebastian <img src="../assets/members-profile/perfil.jpeg" alt="Imagen del compañer" style="width:60%">|U202210582|Ingenieria de software|C++, python, HTML5, CSS3, Javascript, SQL|
-|Javier Murillo, Mathias <img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:60%">|U202022211|Ingenieria de software|C++, SQL, React, Python, Javascript|
+|Ramirez Ramirez, Marcelo Sebastian <img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:60%">|U202022211|Ingenieria de software|C++, python, HTML5, CSS3, Javascript, SQL|
 |Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
 |Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
 <!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
