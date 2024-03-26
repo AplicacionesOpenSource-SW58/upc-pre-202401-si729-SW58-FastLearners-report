@@ -1,7 +1,3 @@
----
-
----
----
 # UPC
 # INGENIERÍA DE SISTEMAS DE SOFTWARE
 ## CURSO: SI729 Aplicacioes Open Source | SECCIÓN SW58
@@ -11,7 +7,7 @@
 FastLearners
 ### Integrantes:
 - Javier Murillo, Mathias - U202022211
-- xxx - U202xxx
+- Orrego Noriega, Jorge David - U201921734
 - xxx - U202xxx
 - xxx - U202xxx
 - xxa - U2022xxx 
@@ -44,7 +40,7 @@ FastLearners
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-| 
 |Javier Murillo, Mathias <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%;">|U202212096|Ingenieria de software|C++, SQL, React, Python, Javascript|
-|Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
+|Orrego Noriega, Jorge David <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U201921734|Ingenieria de software|C++, Python, SQL y Java|
 |Ramirez Ramirez, Marcelo Sebastian <img src="../assets/members-profile/perfil.jpeg" alt="Imagen del compañer" style="width:60%">|U202210582|Ingenieria de software|C++, python, HTML5, CSS3, Javascript, SQL|
 |Ramirez Ramirez, Marcelo Sebastian <img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:60%">|U202022211|Ingenieria de software|C++, python, HTML5, CSS3, Javascript, SQL|
 |Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
