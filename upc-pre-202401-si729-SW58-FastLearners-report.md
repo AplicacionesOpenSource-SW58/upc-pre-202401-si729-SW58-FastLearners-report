@@ -172,15 +172,15 @@ Ocupación: _____
 ![Imagen User Persona 2](upc-pre-202401-si729-SW58-FastLearners-report/assets/UserPersona2.jpg)
 
 ### 2.3.2. User Task Matrix.
-**Segmento 1:** 
+**Desarrolladores principiantes:** 
 |  |  User 1  | User 2 | User 3  | User 4 |
 | --- | ----------- | ------------ | ----------- | ---------- |
-| Es dueño o vende productos electrónicos  | <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#FFC700; font-weight:bold">POCO</span>| <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#90D26D; font-weight:bold">SI</span> |
-| Cuenta con un equipo de soporte técnico para brindar garantía | <span style="color:#FFC700; font-weight:bold">POCO</span> | <span style="color:#E72929; font-weight:bold">NO</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#E72929; font-weight:bold">NO</span>       |
-| Contrata a técnicos externos para temas en específico | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       | 
-| Brinda soporte técnico a sus clientes como parte de garantía a sus productos vendidos | <span style="color:#FFC700; font-weight:bold">POCO</span> | <span style="color:#FFC700; font-weight:bold">POCO</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#E72929; font-weight:bold">NO</span>       |
+| Sabe màs de un lenguaje de programaciòn  | <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#FFC700; font-weight:bold">POCO</span>| <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#90D26D; font-weight:bold">SI</span> |
+| Conoce plataformas de aprendizaje cooperativo | <span style="color:#FFC700; font-weight:bold">POCO</span> | <span style="color:#E72929; font-weight:bold">NO</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#E72929; font-weight:bold">NO</span>       |
+| Tiene contancto con desarrolladores experimentados en su campo | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       | 
+| Tiene donde hacer sus consultas y espera respuestas de expertos | <span style="color:#FFC700; font-weight:bold">POCO</span> | <span style="color:#FFC700; font-weight:bold">POCO</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#E72929; font-weight:bold">NO</span>       |
 
-**Segmento 2:** 
+**Desarrolladores expertos:** 
 |  |  User 1  | User 2 | User 3  | User 4 |
 | --- | ----------- | ------------ | ----------- | ---------- |
 | Es técnico de especialidad  | <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#90D26D; font-weight:bold">SI</span>| <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#90D26D; font-weight:bold">SI</span> |
