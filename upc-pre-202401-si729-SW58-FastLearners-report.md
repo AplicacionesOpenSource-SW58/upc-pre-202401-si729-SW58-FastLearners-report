@@ -166,7 +166,7 @@ Ocupación: _____
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 **Segmento 1:** Desarrolladores principiantes con dificultades de encontrar respuestas de expertos en el tema.  
-![Imagen User Persona 1](upc-pre-202401-si729-SW58-FastLearners-report/assets/UserPersona1.jpg)
+![Imagen User Persona 1]<img src="upc-pre-202401-si729-SW58-FastLearners-report/assets/images/UserPersona1.jpg" alt="User Persona 1" style="width:60%;">
 
 **Segmento 2:** Desarrolladores experimentados con las ganas de poder ayudar a los principiantes en su campo.
 ![Imagen User Persona 2](upc-pre-202401-si729-SW58-FastLearners-report/assets/UserPersona2.jpg)
