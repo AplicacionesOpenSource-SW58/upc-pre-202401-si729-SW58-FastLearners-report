@@ -162,10 +162,10 @@ Ocupación: _____
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 **Segmento 1:** Desarrolladores principiantes con dificultades de encontrar respuestas de expertos en el tema.  
-![Imagen User Persona 1]<img src="upc-pre-202401-si729-SW58-FastLearners-report/assets/images/UserPersona1.jpg" alt="User Persona 1" style="width:60%;">
+<img src="assets/images/UserPersona1.jpg" alt="Mapa de impacto" style="width:100%;">
 
 **Segmento 2:** Desarrolladores experimentados con las ganas de poder ayudar a los principiantes en su campo.
-![Imagen User Persona 2](upc-pre-202401-si729-SW58-FastLearners-report/assets/UserPersona2.jpg)
+<img src="assets/images/UserPersona2.jpg" alt="Mapa de impacto" style="width:100%;">
 
 ### 2.3.2. User Task Matrix.
 **Desarrolladores principiantes:** 
@@ -186,28 +186,28 @@ Ocupación: _____
 ### 2.3.3. User Journey Mapping.
 **Registration:**
 Why would they trust us?
-- s
-- s
-- s
+- Investigan sobre la plataforma
+- Leen opiniones o testimonios
+- Verifican la credibilidad de lo que proporcionamos
   
 **Onboarding and first use:**
 How can they feel successful?
-- s
-- s
-- s  
+- Completan el proceso de incorporacion claro y facil de usar
+- Navegan facilmente sobre la plataforma
+- Reciben orientacion inmediata o tutoriales sobre lo basico 
   
 **Sharing:**
 Why would they invite others?
-- s
-- s
-- s
+- Encuentran caracteristicas que mejoran la colaboracion o interaccion social
+- Encuentran valor sobre el contenido de la plataforma
+- Reciben incentivos o recompensas por invitar a otros
 
 ### 2.3.4. Empathy Mapping.
 **Segmento 1:**
-![Empathy Map Segmento1](image.jpg)
+<img src="assets/images/Empathy Map Desarrollador Principiante.png" alt="Mapa de impacto" style="width:100%;">
 
 **Segmento 2:**
-![Empathy Map Segmento1](image.jpg)
+<img src="assets/images/Empathy Map Desarrollador Experto.png" alt="Mapa de impacto" style="width:100%;">
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
