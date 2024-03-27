@@ -39,7 +39,7 @@ FastLearners
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-| 
-|Javier Murillo, Mathias <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%;">|U202212096|Ingenieria de software|C++, SQL, React, Python, Javascript|
+|Javier Murillo, Mathias <img src="assets/pictures-profiles/Mathias Javier Murillo.jpg" alt="Imagen del compañero" style="width:60%;">|U202212096|Ingenieria de software|C++, SQL, React, Python, Javascript|
 |Orrego Noriega, Jorge David <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U201921734|Ingenieria de software|C++, Python, SQL y Java|
 |Ramirez Ramirez, Marcelo Sebastian <img src="../assets/members-profile/perfil.jpeg" alt="Imagen del compañer" style="width:60%">|U202210582|Ingenieria de software|C++, python, HTML5, CSS3, Javascript, SQL|
 |Ramirez Ramirez, Marcelo Sebastian <img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:60%">|U202022211|Ingenieria de software|C++, python, HTML5, CSS3, Javascript, SQL|
