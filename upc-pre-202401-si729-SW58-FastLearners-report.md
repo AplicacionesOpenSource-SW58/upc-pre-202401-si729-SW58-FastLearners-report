@@ -203,32 +203,32 @@ Why would they invite others?
 - Reciben incentivos o recompensas por invitar a otros
 
 ### 2.3.4. Empathy Mapping.
-**Segmento 1:**
+**Desarrollador Principiante:**
 <img src="assets/images/Empathy Map Desarrollador Principiante.png" alt="Mapa de impacto" style="width:100%;">
 
-**Segmento 2:**
+**Desarrollador Experto:**
 <img src="assets/images/Empathy Map Desarrollador Experto.png" alt="Mapa de impacto" style="width:100%;">
 ### 2.3.5. As-is Scenario Mapping.
 
-**Segmento 1**  
-Escenario: {escenario}
+**Desarrollador Principiante**  
+Escenario: El desarrollador principiante esta aprendiendo a desarrollar aplicaciones web utilizando HTML, CSS y JavaScript mediante un curso en linea
 
 As Is:
 | Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
 | -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
+| Doing | Viendo videos de introduccion a HTML| Practicando HTML basico | Aprendiendo sobre diferentes estilos con CSS | Completando ejercicios de JavaScript|
+| Thinking | "¿Como puedo armar correctamente una pagina web con HTML?"| "¿Que elementos debo usar para mi pagina web?" | "¿Como puedo hacer mi web responsive?" | "¿Como puedo utilizar funciones en JavaSript?" |
+| Feeling  | Emocionado por aprender desarrollo web| Intrigado por las posibilidades de diseño con CSS | Confundido por la dificultad de CSS | Motivado por enteder JavaScript |
 
-**Segmento 2**  
-Escenario: Dificultad para entender Matemáticas
+**Desarrollador Experto**  
+Escenario: El desarrollador experto esta liderando el desarrollo de una aplicacion movil para una empresa importante
 
 As Is:
 | Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
 | -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
+| Doing | Revisando los requisitos del proyecto y estableciendo objetivos| Diseñando la estructura de la aplicacion y estableciendo APIs | Dirigiendo al equipo, implementando funcionalidades | Realizando pruebas y depuracion del codigo |
+| Thinking | "¿Como podemos garantizar que la aplicacion cumpla con las expectativas del cliente?" | "¿Cual es la mejor manera de garantizar la estabilidad y eficiencia?" | "¿Como podemos optimizar el rendimiento de la aplicacion?" | "¿Que estrategias de prueba y depuracion utilizaremos?" |
+| Feeling  | Comprometido con el exito del proyecto | Concentrado en encontrar soluciones rapidas | Confianza en el equipo para cumplir con los plazos | Determinado a superar cualquier problema |
 ## 2.4. Ubiquitous Language.
 ```
 Texto ubiquo: Definicion de este
