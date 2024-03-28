@@ -41,7 +41,7 @@ FastLearners
 |-|-|-|-| 
 |Javier Murillo, Mathias <img src="/assets/pictures profiles/Mathias Javier Murillo.jpg" alt="Imagen del compañero" style="width:60%;">|U202212096|Ingenieria de software|C++, SQL, React, Python, Javascript|
 |Orrego Noriega, Jorge David <img src="/assets/pictures profiles/JorgeOrrego.png" alt="Imagen del compañero" style="width:60%">|U201921734|Ingenieria de software|C++, Python, SQL y Java|
-|Pachas Chavez, Alejandro Alberto <img src="../assets/members-profile/AlejandroPachas.jpeg" alt="Imagen del compañero" style="width:60%">|U201917598|Ingenieria de software|C++, React, Laravel,HTML5, CSS3, Javascript, SQL, Docker|
+|Pachas Chavez, Alejandro Alberto <img src="/assets/pictures profiles/AlejandroPachas.jpeg" alt="Imagen del compañero" style="width:60%">|U201917598|Ingenieria de software|C++, React, Laravel,HTML5, CSS3, Javascript, SQL, Docker|
 |Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
 |Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
 <!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
