@@ -8,7 +8,7 @@ FastLearners
 ### Integrantes:
 - Javier Murillo, Mathias - U202022211
 - Orrego Noriega, Jorge David - U201921734
-- xxx - U202xxx
+- Carlos Alberto Ochoa Colonio - U202315945
 - xxx - U202xxx
 - xxa - U2022xxx 
 
@@ -31,7 +31,9 @@ FastLearners
 |Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Compañero1:<br> *TB1:*  Su texto<br> *TB2:* texto etc.. |Su texto de conclusion|
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
+A continuación presentaremos el perfil de la Start Up y los perfiles de los integrantes
 ### 1.1.1. Descripción de la Startup
+Nuestra Start Up, llamada FastLearners
 #### FastLearners
 
 - **Misión:** 
