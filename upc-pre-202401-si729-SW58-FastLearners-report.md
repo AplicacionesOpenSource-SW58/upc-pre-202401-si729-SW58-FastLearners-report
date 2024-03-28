@@ -8,7 +8,7 @@ FastLearners
 ### Integrantes:
 - Javier Murillo, Mathias - U202022211
 - Orrego Noriega, Jorge David - U201921734
-- xxx - U202xxx
+- Pachas Chavez, Alejandro Alberto - U201917598
 - xxx - U202xxx
 - xxa - U2022xxx 
 
@@ -42,7 +42,7 @@ FastLearners
 |Javier Murillo, Mathias <img src="/assets/pictures profiles/Mathias Javier Murillo.jpg" alt="Imagen del compañero" style="width:60%;">|U202212096|Ingenieria de software|C++, SQL, React, Python, Javascript|
 |Orrego Noriega, Jorge David <img src="/assets/pictures profiles/JorgeOrrego.png" alt="Imagen del compañero" style="width:60%">|U201921734|Ingenieria de software|C++, Python, SQL y Java|
 |Ramirez Ramirez, Marcelo Sebastian <img src="../assets/members-profile/perfil.jpeg" alt="Imagen del compañer" style="width:60%">|U202210582|Ingenieria de software|C++, python, HTML5, CSS3, Javascript, SQL|
-|Ramirez Ramirez, Marcelo Sebastian <img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:60%">|U202022211|Ingenieria de software|C++, python, HTML5, CSS3, Javascript, SQL|
+|Ramirez Ramirez, Marcelo Sebastian <img src="../assets/members-profile/AlejandroPachas.png" alt="Imagen del compañero" style="width:60%">|U201917598|Ingenieria de software|C++, React, Laravel,HTML5, CSS3, Javascript, SQL, Docker|
 |Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
 |Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
 <!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
@@ -243,9 +243,9 @@ Segmento 1:
 
 | Fases    |  fase 1 as is | fase 2| fase 3|
 | -------- | ------- | ---- | ---------------- |
-| Doing    | | texto| texto | texto| texto|
-| Thinking | | texto| texto | texto| texto|
-| Feeling  | | texto| texto | texto| texto|
+| Doing    |Los programadores e ingenieros de software se registran en la plataforma de aprendizaje y exploran los repositorios disponibles. | Algunos usuarios deciden desbloquear características premium y se suscriben mensualmente para acceder a contenido exclusivo. |Los usuarios colaboran entre sí en proyectos, comparten conocimientos y resuelven problemas juntos utilizando la documentación y los videos educativos disponibles.|
+| Thinking |Los usuarios se sienten motivados al ver el progreso en sus habilidades de programación y desarrollo de software.| Aquellos que optan por la suscripción premium valoran la calidad del contenido exclusivo y consideran que vale la pena la inversión.| Los usuarios se sienten satisfechos al poder colaborar con otros profesionales de la industria y aprender de su experiencia. | texto| texto|
+| Feeling  |Los usuarios experimentan un sentido de comunidad y pertenencia al colaborar con otros en la plataforma.|Se sienten empoderados al tener acceso a recursos educativos de alta calidad que les permiten mejorar sus habilidades y avanzar en sus carreras. | En general, los usuarios se sienten entusiasmados y motivados por el proceso de aprendizaje continuo que ofrece la plataforma. | texto| texto|
 
 Segmento 2:
 | Fases    |  fase 1 as is | fase 2| fase 3|
@@ -256,9 +256,15 @@ Segmento 2:
 
 ## 3.2. User Stories.
 
-| HU0X | Historia Usuario | "Descripcion"  |
-|-|-|-|
-
+| HU0X | Historia Usuario | Descripcion  |
+|------|------------------|----------------|
+|HU01|Como usuario nuevo, quiero poder registrarme en la plataforma para acceder a los recursos educativos.|Los usuarios nuevos podrán crear una cuenta en la plataforma proporcionando su nombre, dirección de correo electrónico y una contraseña.|
+|HU02|Como usuario registrado, quiero poder explorar los repositorios disponibles en la plataforma para encontrar contenido relevante.|Los usuarios podrán navegar por los repositorios disponibles y ver una breve descripción de cada uno, así como la cantidad de contenido disponible en cada uno.|
+|HU03|Como usuario, quiero poder suscribirme mensualmente para acceder a contenido premium en la plataforma.|Los usuarios podrán optar por una suscripción mensual que les permitirá acceder a contenido premium, como videos educativos exclusivos y documentación detallada.|
+|HU04|Como usuario registrado, quiero poder colaborar con otros usuarios en proyectos para aprender y resolver problemas juntos.|Los usuarios podrán unirse a proyectos existentes o crear nuevos proyectos en los que otros usuarios puedan participar. Podrán compartir código, documentos y recursos para trabajar en equipo.|
+|HU05|Como usuario suscrito, quiero poder acceder a contenido exclusivo que no está disponible para usuarios no suscritos.| usuarios con una suscripción mensual podrán acceder a contenido exclusivo, como videos educativos avanzados, tutoriales detallados y proyectos prácticos.|
+|HU06|Como usuario, quiero poder valorar el contenido de la plataforma para ayudar a otros usuarios a encontrar material de calidad.|Los usuarios podrán valorar positiva o negativamente el contenido de la plataforma y dejar comentarios para compartir su opinión con otros usuarios.|
+|HU07|Como usuario, quiero poder hacer un seguimiento de mi progreso en la plataforma para ver cómo estoy mejorando en mis habilidades.|Los usuarios podrán ver estadísticas y métricas relacionadas con su uso de la plataforma, como la cantidad de contenido consumido, los proyectos completados y las habilidades desarrolladas.|
 ## 3.3. Impact Mapping.
 
 ![Impact Mapping](image.jpg)
