@@ -11,7 +11,6 @@ FastLearners
 - Carlos Alberto Ochoa Colonio - U202315945
 - Pachas Chavez, Alejandro Alberto - U201917598
 - xxx - U202xxx
-- xxa - U2022xxx 
 
 ---
 # Registro de Versiones del Informe
@@ -24,12 +23,12 @@ FastLearners
 
 (Imagenes de los commits cada entrega)
 
-
 # Student Outcome
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
 |Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Compañero1:<br> *TB1:*  Su texto *TB2:* texto etc.. |Su texto de conclusion|
 |Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Compañero1:<br> *TB1:*  Su texto<br> *TB2:* texto etc.. |Su texto de conclusion|
+
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 A continuación presentaremos el perfil de la Start Up y los perfiles de los integrantes
@@ -280,28 +279,61 @@ Segmento 2:
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
-Descripcion del porque estos elementos seran importantes
 
-**Color:** (Descripcion de los colores escogidos y porque)  
-![Colores generales](image.jpg)
+**Branding** 
 
-**Tipografia:** (Descripcion de la tipografia escogida para el proyecto y porque)
-![Tipografias generales](image.jpg)
-**Branding** (Describir logotipo y porque)
-![Branding general](image.jpg)
+**Brand Overview:**
+
+Nuestra startup de nombre FastLearners está enfocada en ofrecer una solución que ayudar a desarrolladores novatos a aprender de una manera más dinámica y con el apoyo de profesionales. Para lograr esto se implementará una plataforma o sitio web en el cual se podrán encontrar material educativo (videos, repositorios, documentación, etc.) además de foros para fomentar la colaboración y el aprendizaje en conjunto de los usuarios. 
+
+**Misión:** Por llenar, aparece en el capítulo 1
+
+**Visión:** Por llenar, aparece en el capítulo 1
+
+**Brand name:** 
+
+El nombre de nuestra solución es FastLearners, que en español estaría traducido como “estudiantes o aprendices rápidos” por la intención de querer agilizar y dinamizar la tarea de aprender sobre el mundo del desarrollo de software. 
+
+**Logo:** 
+
+Hemos decidido utilizar un búho sentado en un libro dado que este animal es un símbolo de sabiduría, por lo cual queremos reflejar que nuestra plataforma es apta para adquirir y divulgar conocimientos. 
+
+<img src="/assets/images/Logo.png" alt="Logo de la empresa" style="width:40%;">
+
+**Colores:**
+
+<img src="/assets/images/ColorPalette.png" alt="Logo de la empresa" style="width:50%;">
+
+**Enlace:** [Color Palette](https://coolors.co/495867-577399-bdd5ea-f7f7ff-fe5f55)
+
+**Colores principales:**
+
+Hemos decidido que los colores principales de la aplicación sean Glaucous (577399) y Ghost White (F7F7FF), con el objetivo de representar visualmente que FastLearners es una plataforma confiable para aprender y que a su vez ha sido desarrollada de la mejor manera posible. Lo que queremos transmitir en nuestros usuarios es que pueden confiar en nosotros en que la calidad del contenido y del funcionamiento del sitio web va a ser impecable. 
+
+**Colores secundarios:** 
+
+Como parte de los colores secundarios hemos elegido el Payne’s gray (495867), Columbia blue (BDD5EA) y Bittersweet (FE5F55). Los dos primeros los elegimos para complementar al color principal Glaucous y el último, dado su semejanza con el color rojo, lo elegimos para darle una vista más energética y estimulante a nuestros usuarios para aprender. 
+
+**Tipografía:**
+
+* Andada/Andada Pro
+
+<img src="/assets/images/Fonts.png" alt="Logo de la empresa" style="width:50%;">
+
 ### 4.1.2. Web Style Guidelines.
-Descripcion de los elementos que se utilizaran en el web app
 
-**Background:** (primary, secondary, terniary)  
-![Background Preview web](image.jpg)
-**Text Styles:** (H1, H2, p, a,)  
-![Text Style Preview web](image.jpg)
-**Button Styles:** (Button, dropdowns, Switches)
-![Button Preview web](image.jpg)
-**Icons:** (Fondo blanco con los iconos que vamos a usar)
-![Icons Preview web](image.jpg)
-**Misc** (Cosas como nav var o slideshows que pensemos usar)
-![Miscellaneos preview web](image.jpg)
+**Elementos visuales (Imágenes y videos):**
+
+Se van a incluir imágenes y videos con objetivos distintos. Las imágenes pueden variar desde íconos en un menú de opciones hasta la foto de perfil de un usuario. Los videos se van a implementar como una parte del contenido didáctico de la plataforma, el cual se podrá encontrar en una página dedicada al material audiovisual. 
+
+**Botones:**
+
+Como parte de la interacción del usuario con nuestro sitio web, es necesario implementar botones para confirmar o realizar una acción. Su diseño va a seguir lo impuesto en el apartado de General Style Guidelines, y se tendrán que distinguir fácilmente de otros apartados gráficos en las páginas web de la aplicación. Se van a poder encontrar en toda la implementación de la aplicación web, ya sea al final de un formulario o dentro de un menú de opciones. 
+
+**Formularios:**
+
+También se utilizarán formularios en páginas dedicadas al inicio de sesión, registro de usuario, subir documentos, etc. Estos se van a implementar de acuerdo al tipo de usuario que se ha identificado, que en nuestro caso sería un desarrollador principiante y uno experimentado. 
+
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
