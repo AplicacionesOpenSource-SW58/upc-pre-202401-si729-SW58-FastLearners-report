@@ -1,16 +1,19 @@
 # UPC
+
 # INGENIERÍA DE SISTEMAS DE SOFTWARE
+
 ## CURSO: SI729 Aplicacioes Open Source | SECCIÓN SW58
  Profesor: Efrain Ricardo Bautista Ubillus
+
 # Informe de TB1
-"Startup"
-FastLearners
+**Startup:** FastLearners
+
 ### Integrantes:
-- Javier Murillo, Mathias - U202022211
-- Orrego Noriega, Jorge David - U201921734
-- Carlos Alberto Ochoa Colonio - U202315945
-- Pachas Chavez, Alejandro Alberto - U201917598
-- xxx - U202xxx
+- Javier Murillo, Mathias - u202022211
+- Orrego Noriega, Jorge David - u201921734
+- Carlos Alberto Ochoa Colonio - u202315945
+- Pachas Chavez, Alejandro Alberto - u201917598
+- Mendez Rosales, Marco Aurelio - u202xxx
 
 ---
 # Registro de Versiones del Informe
@@ -30,24 +33,29 @@ FastLearners
 |Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Compañero1:<br> *TB1:*  Su texto<br> *TB2:* texto etc.. |Su texto de conclusion|
 
 # Capítulo I: Introducción
+
 ## 1.1. Startup Profile
 A continuación presentaremos el perfil de la Start Up y los perfiles de los integrantes
+
 ### 1.1.1. Descripción de la Startup
 Nuestra Start Up, llamada FastLearners
-#### FastLearners
 
+#### FastLearners
 - **Misión:** 
-- **Visión:** 
+- **Visión:**
+
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-| 
-|Javier Murillo, Mathias <img src="/assets/pictures profiles/Mathias Javier Murillo.jpg" alt="Imagen del compañero" style="width:60%;">|U202212096|Ingenieria de software|C++, SQL, React, Python, Javascript|
+|Javier Murillo, Mathias <img src="/assets/pictures profiles/Mathias Javier Murillo.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, SQL, React, Python, Javascript|
 |Orrego Noriega, Jorge David <img src="/assets/pictures profiles/JorgeOrrego.png" alt="Imagen del compañero" style="width:60%">|U201921734|Ingenieria de software|C++, Python, SQL y Java|
 |Pachas Chavez, Alejandro Alberto <img src="/assets/pictures profiles/AlejandroPachas.jpeg" alt="Imagen del compañero" style="width:60%">|U201917598|Ingenieria de software|C++, React, Laravel,HTML5, CSS3, Javascript, SQL, Docker|
 |Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
 |Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
 <!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
+
 ## 1.2. Solution Profile
+
 ### 1.2.1 Antecedentes y problemática
 
 - **¿Qué?**
@@ -336,58 +344,82 @@ También se utilizarán formularios en páginas dedicadas al inicio de sesión, 
 
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
-Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
-"Hierarchical. This structures advices to present the content in a way to distinguish the level of importance by making use of physical differences, such as size, colour, contrast, alignment etc.
 
-Sequential. Guide users to follow a specific path towards their goal and provide content step-by-step based on the current step. 
+Para mostrar el contenido de nuestra plataforma hemos decidido utilizar una estructura jerárquica y secuencial, lo cual dependerá de la necesidad sobre cómo presentar la información al usuario. Por ejemplo, para el inicio de sesión y el registro del usuario se tendrá que hacer más énfasis en el formulario para ingresar los datos de registro y de ingreso, además de los botones para confirmar la acción. 
+Por otra parte, las actividades principales o el “core” del negocio tendrán utilizar una estructura secuencial. Esto se puede evidenciar más en la funcionalidad del foro, ya que el usuario tiene que seguir una serie de pasos en específico para interactuar con la aplicación (crear un nuevo post, escribir un comentario en un post, calificar el comentario de un usuario, etc.).  Esta lógica es casi la misma con las demás funcionalidades de nuestra aplicación web como el manejo de repositorios compartidos (código o documentación) y la subida y consumo del material multimedia.
 
-Matrix. You can always give the users the option to choose the type of navigation they prefer, i.e. Alphabetical, Chronological, by topic."
+<img src="assets/images/OrgSystems.jpg" alt="Organizational Systems" style="width:100%;">
+
 ### 4.2.2. Labeling Systems.
-The labeling system aims at uniting the data effectively and represent them in simple way and avoid confusing great amount of information. A widely adopted way to achieve this is by creating the labels which represent loads of data in few words. 
 
-Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
+Como parte del diseño de la aplicación, se utilizarán etiquetas en la parte superior de la página web para indicar cuál es el contenido que está viendo. Además, se podrá interactuar con ellas para acceder a las demás secciones y funcionalidades de la aplicación. 
+
+**Etiquetas antes de iniciar sesión:** Iniciar sesión, Acerca de nosotros, Regístrate. 
+
+**Etiquetas después de iniciar sesión:** Foro estudiantil, Buscar repositorios y/o documentación, Videos educativos, Configuración de la cuenta.
+
 ### 4.2.3. SEO Tags and Meta Tags
 
-**Meta & SEO (Search Engine Optimization) Tags:**  sirven para que la pagina web sea encontrada facilmente es lo que sale al encontrar la pagina en el buscador (se ponen en el <"head">)
-* Titulo: ```<title> ___ </title> ```
-* Descripcion: ```<meta name = "description" content = "texto descipcion"/> ```
-* Palabras Clave: ```<meta name = "keyword" content = "keyword1, 2 3"/> ```
+**Meta & SEO (Search Engine Optimization) Tags:** 
+
+Los SEO (Search Engine Optimization) y Meta tags son datos que sirven para identificar nuestro sitio web, los cuales solo son leídos por los navegadores web o los rastreadores web. Además, ayudan a que nuestro sitio pueda ser visualizado en buscadores web como Google o Bing. 
+
+**Título:**  ```<title> FastLearners ¡Aprende a codear con nosotros! </title>```
+
+**Codificación:** ```<meta charset=”utf-8”>```
+
+**Descripción:** ```<meta name=”descripcion” content=”FastLearners es una aplicación web que te permitirá aprender más sobre el mundo del desarrollo de software con expertos en el campo ¡Regístrate ya!” />```
+
+**Meta Robots Tag:** ```<meta name= “robots” content=“index,follow”>```
+
+**Meta Keywords Tag:** ```<meta name="keywords" content="learning, software, software development, forum, video, repository, programming, programming languages, engineering” />```
+
+**Meta Author Tag:** 
+* ```<meta name= “autor” content=“FastLearners”>```
+* ```<meta name="copyright" content="Copyright FastLearners Group" />```
 
 ### 4.2.4. Searching Systems.
-**Que se busca?:** Que buscara el usuario  
-**Que resultados se mostraran?:** Que se mostrara  
-**Interface de busqueda:** Descripcion de como ayuda a encontrar lo deseado 
-![Search interface preview web](image.jpg)
+
+Los usuarios podrán buscar el tipo de contenido que deseen por medio de un menú que se presentará en la página principal del sitio luego de haber iniciado sesión. En esta encontrará las opciones entrar a los foros, buscar repositorios y/o documentación de cualquier tema, buscar videos relevantes y también poder modificar los datos de su cuenta. En cada uno de los tres primeros ítems se podrá filtrar la información en base al el tema de desarrollo, las herramientas de desarrollo utilizadas (lenguaje de programación, frameworks, etc.), la fecha de publicación, los tags y el autor del material.
+
 
 ### 4.2.5. Navigation Systems.
-Basicamente aqui definimos como funciona la navegacion del web app
-**Hierarchical Navigation System:** Main page a destination pages.
-**Global Navigation Systems** (Complemento del Hierachical) Movimiento vertical (te mueves por la pagina)con nav(debe poder regresar a la principal)
-**Local Navigation Systems** (vas a otras paginas) (complemento del global nav sistem sub-site) Usas otras paginas
+
+El sistema de navegación de nuestro sitio web consta de menús de navegación superior e inferior dentro de la landing page, en los cuales podrás elegir las opciones de inicio de sesión, registrarse, leer sobre el equipo de desarrollo y las suscripciones disponibles. También se podrá desplazar verticalmente por las páginas del sitio para mostrar más información. 
+
+Luego de haber iniciado sesión, el usuario accederá a un menú de carácter jerárquico en el cual se mostrarán las opciones principales de la aplicación (Foro estudiantil, Buscar repositorios y/o documentación, Videos educativos, Configuración de la cuenta). Cada una de estas opciones te llevará a su respectiva página, de la cual podrás regresar al menú anterior seleccionando una opción de regresar a la siguiente página. Cada menú del sitio cuenta con botones que pueden ser distinguidos con facilidad de otros objetos en la interfaz, lo cual ayudará de una manera significativa con la navegación. 
+
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 la pagina donde te registras y ves info del web app (te manda al web app)
 
 Wireframe es todo lo funcional de la pagina
 ![Landing page Wireframe](image.jpg)
+
 ### 4.3.2. Landing Page Mock-up.
 Mockup es todo lo relacionado al diseño de la pagina
 ![Landing page mockup](image.jpg)
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 lo funcional de cada aspecto del wireframe 
 ![Web Aplication Wireframe](image.jpg)
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
 ![Web Aplication Wireflow](image.jpg)
+
 ### 4.4.2. Web Applications Mock-ups.
 Diseño en todo aspecto
 ![Web Aplication Mockup](image.jpg)
+
 ### 4.4.3. Web Applications User Flow Diagrams.
 un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
 ![Web Aplication User Flow Diagram](image.jpg)
+
 ## 4.5. Web Applications Prototyping.
 [URL del Prototipo (Hecho en figma)](https://www.example.com)
+
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
