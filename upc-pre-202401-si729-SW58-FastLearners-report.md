@@ -11,7 +11,7 @@
 ### Integrantes:
 - Javier Murillo, Mathias - u202022211
 - Orrego Noriega, Jorge David - u201921734
-- Carlos Alberto Ochoa Colonio - u202315945
+- Ochoa Colonio, Carlos Alberto - u202315945
 - Pachas Chavez, Alejandro Alberto - u201917598
 - Mendez Rosales, Marco Aurelio - u202xxx
 
@@ -47,11 +47,11 @@ Nuestra Start Up, llamada FastLearners
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-| 
-|Javier Murillo, Mathias <img src="/assets/pictures profiles/Mathias Javier Murillo.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, SQL, React, Python, Javascript|
-|Orrego Noriega, Jorge David <img src="/assets/pictures profiles/JorgeOrrego.png" alt="Imagen del compañero" style="width:60%">|U201921734|Ingenieria de software|C++, Python, SQL y Java|
-|Pachas Chavez, Alejandro Alberto <img src="/assets/pictures profiles/AlejandroPachas.jpeg" alt="Imagen del compañero" style="width:60%">|U201917598|Ingenieria de software|C++, React, Laravel,HTML5, CSS3, Javascript, SQL, Docker|
-|Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
-|Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
+|Javier Murillo, Mathias <img src="assets/pictures profiles/Mathias Javier Murillo.jpg" alt="Imagen del compañero" style="width:60%">|u202212096|Ingenieria de software|C++, SQL, React, Python, Javascript|
+|Orrego Noriega, Jorge David <img src="assets/pictures profiles/JorgeOrrego.png" alt="Imagen del compañero" style="width:60%">|u201921734|Ingenieria de software|C++, Python, SQL y Java|
+|Pachas Chavez, Alejandro Alberto <img src="assets/pictures profiles/AlejandroPachas.jpeg" alt="Imagen del compañero" style="width:60%">|u201917598|Ingenieria de software|C++, React, Laravel,HTML5, CSS3, Javascript, SQL, Docker|
+|Ochoa Colonio, Carlos Alberto <img src="assets/members-profile/CarlosOchoa.jpg" alt="Imagen del compañero" style="width:60%">|u202315945|Ingenieria de software|C++, Python, persistente y amigable|
+|Mendez Rosales, Marco Aurelio <img src="assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|u202212096|Ingenieria de software|C++, Python, persistente y amigable|
 <!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
 
 ## 1.2. Solution Profile
@@ -306,11 +306,11 @@ El nombre de nuestra solución es FastLearners, que en español estaría traduci
 
 Hemos decidido utilizar un búho sentado en un libro dado que este animal es un símbolo de sabiduría, por lo cual queremos reflejar que nuestra plataforma es apta para adquirir y divulgar conocimientos. 
 
-<img src="/assets/images/Logo.png" alt="Logo de la empresa" style="width:40%;">
+<img src="assets/images/Logo.png" alt="Logo de la empresa" style="width:40%;">
 
 **Colores:**
 
-<img src="/assets/images/ColorPalette.png" alt="Logo de la empresa" style="width:50%;">
+<img src="assets/images/ColorPalette.png" alt="Logo de la empresa" style="width:50%;">
 
 **Enlace:** [Color Palette](https://coolors.co/495867-577399-bdd5ea-f7f7ff-fe5f55)
 
@@ -326,7 +326,7 @@ Como parte de los colores secundarios hemos elegido el Payne’s gray (495867), 
 
 * Andada/Andada Pro
 
-<img src="/assets/images/Fonts.png" alt="Logo de la empresa" style="width:50%;">
+<img src="assets/images/Fonts.png" alt="Logo de la empresa" style="width:50%;">
 
 ### 4.1.2. Web Style Guidelines.
 
