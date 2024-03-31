@@ -11,7 +11,7 @@
 ### Integrantes:
 - Javier Murillo, Mathias - u202022211
 - Orrego Noriega, Jorge David - u201921734
-- Carlos Alberto Ochoa Colonio - u202315945
+- Ochoa Colonio, Carlos Alberto - u202315945
 - Pachas Chavez, Alejandro Alberto - u201917598
 - Mendez Rosales, Marco Aurelio - u202xxx
 
@@ -49,12 +49,12 @@ Nuestra visión es convertirnos en el principal recurso y comunidad en línea pa
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-| 
-|Javier Murillo, Mathias <img src="/assets/pictures profiles/Mathias Javier Murillo.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, SQL, React, Python, Javascript|
-|Orrego Noriega, Jorge David <img src="/assets/pictures profiles/JorgeOrrego.png" alt="Imagen del compañero" style="width:60%">|U201921734|Ingenieria de software|C++, Python, SQL y Java|
-|Pachas Chavez, Alejandro Alberto <img src="/assets/pictures profiles/AlejandroPachas.jpeg" alt="Imagen del compañero" style="width:60%">|U201917598|Ingenieria de software|C++, React, Laravel,HTML5, CSS3, Javascript, SQL, Docker|
-|Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
-|Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
-|Ochoa Colonio, Carlos Alberto <img src="../assets/members-profile/CarlosOchoa.jpg" alt="Imagen del compañero" style="width:60%"> |U202315945|Ingenieria de software|C++, Python, creativo e intuitivo|
+
+|Javier Murillo, Mathias <img src="assets/pictures profiles/Mathias Javier Murillo.jpg" alt="Imagen del compañero" style="width:60%">|u202212096|Ingenieria de software|C++, SQL, React, Python, Javascript|
+|Orrego Noriega, Jorge David <img src="assets/pictures profiles/JorgeOrrego.png" alt="Imagen del compañero" style="width:60%">|u201921734|Ingenieria de software|C++, Python, SQL y Java|
+|Pachas Chavez, Alejandro Alberto <img src="assets/pictures profiles/AlejandroPachas.jpeg" alt="Imagen del compañero" style="width:60%">|u201917598|Ingenieria de software|C++, React, Laravel,HTML5, CSS3, Javascript, SQL, Docker|
+|Ochoa Colonio, Carlos Alberto <img src="assets/members-profile/CarlosOchoa.jpg" alt="Imagen del compañero" style="width:60%">|u202315945|Ingenieria de software|C++, Python, creativo y amigable|
+|Mendez Rosales, Marco Aurelio <img src="assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|u202212096|Ingenieria de software|C++, Python, persistente y amigable|
 <!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
 
 ## 1.2. Solution Profile
@@ -165,25 +165,25 @@ Quora es una plataforma de preguntas y respuestas donde los usuarios pueden hace
 4. ¿Conoces alguna plataforma que facilite el aprendizaje cooperativo?
 
 ### 2.2.2. Registro de entrevistas.
-**Segmento 1**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
+**Desarrollador Principiante**  
+Nombre: Pablo Cieza de Leon
+Edad: 23 años 
+Ocupación: Desarrollador de Software en JavaScript
+<img src="assets/images/Entrevista1.png" alt="Mapa de impacto" style="width:100%;">
 
-**Segmento 2**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
+
+**Desarrollador Experto**  
+Nombre: Rodrigo Castillo
+Edad: 30 años 
+Ocupación: Desarrollador de Software en C++ 
+<img src="assets/images/Entrevista2.png" alt="Mapa de impacto" style="width:100%;">
 
 ### 2.2.3. Análisis de entrevistas.
-**Segmento 1:**
-{texto}
-**Segmento 2:**
-{texto}
+**Desarrollador Principiante:**
+En esta entrevista tuvimos la oportunidad de entrevistar a Andres, el es un desarrollador de software en JavaScript, en este momento esta haciendo sus practicas en una empresa de desarrollo, como el nos comenta es principiante en el desarrollo en JS. El nos comenta que es muy complicado encontrar alguna plataforma en la cual pueda encontrar documentos multimedia, con los cuales poder mejorar sus habilidades. Tambien nos dice que estaria interesado en poder encontrar algun foro en el cual se pueda hacer consultas a desarrolladores expertos, sobre sus problemas o dudas. 
+**Desarrollador Experto:**
+En esta ocasion tuvimos el placer de conversar con Rodrigo, el cuenta con mas de 8 años desarrollando software con el lenguaje C++, el nos comenta que en sus inicios le fue muy complicado encontrar donde aprender o mejorar sus habilidades y que le gusta la idea de contar con una plataforma en la cual pueda compartir los documentos que cree que le pueden subir a sus compañeros desarrolladores principiantes o menos experimentados y al mismo tiempo poder poder resolver sus consultas. 
+
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 **Segmento 1:** Desarrolladores principiantes con dificultades de encontrar respuestas de expertos en el tema.  
@@ -256,7 +256,13 @@ As Is:
 | Feeling  | Comprometido con el exito del proyecto | Concentrado en encontrar soluciones rapidas | Confianza en el equipo para cumplir con los plazos | Determinado a superar cualquier problema |
 ## 2.4. Ubiquitous Language.
 ```
-Texto ubiquo: Definicion de este
+Desarrollador principiante:
+
+Persona interesada en nuestra aplicacion para poder aprender a mejorar sus habilidades en la programacion y diferentes tecnologias.
+
+Desarrollador experto:
+
+Persona interesada en nuestra aplicacion para poder compartir su experiencia, trucos y/o material multimedia que ellos usaron y recomiendan para mejorar en su campo de trabajo. 
 ```
 
 ---
@@ -322,11 +328,11 @@ El nombre de nuestra solución es FastLearners, que en español estaría traduci
 
 Hemos decidido utilizar un búho sentado en un libro dado que este animal es un símbolo de sabiduría, por lo cual queremos reflejar que nuestra plataforma es apta para adquirir y divulgar conocimientos. 
 
-<img src="/assets/images/Logo.png" alt="Logo de la empresa" style="width:40%;">
+<img src="assets/images/Logo.png" alt="Logo de la empresa" style="width:40%;">
 
 **Colores:**
 
-<img src="/assets/images/ColorPalette.png" alt="Logo de la empresa" style="width:50%;">
+<img src="assets/images/ColorPalette.png" alt="Logo de la empresa" style="width:50%;">
 
 **Enlace:** [Color Palette](https://coolors.co/495867-577399-bdd5ea-f7f7ff-fe5f55)
 
@@ -342,7 +348,7 @@ Como parte de los colores secundarios hemos elegido el Payne’s gray (495867), 
 
 * Andada/Andada Pro
 
-<img src="/assets/images/Fonts.png" alt="Logo de la empresa" style="width:50%;">
+<img src="assets/images/Fonts.png" alt="Logo de la empresa" style="width:50%;">
 
 ### 4.1.2. Web Style Guidelines.
 
