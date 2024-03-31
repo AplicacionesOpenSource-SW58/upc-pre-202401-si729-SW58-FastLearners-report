@@ -240,7 +240,12 @@ As Is:
 | Feeling  | Comprometido con el exito del proyecto | Concentrado en encontrar soluciones rapidas | Confianza en el equipo para cumplir con los plazos | Determinado a superar cualquier problema |
 ## 2.4. Ubiquitous Language.
 ```
-Texto ubiquo: Definicion de este
+Desarrollador principiante:
+Persona interesada en nuestra aplicacion para poder aprender a mejorar sus habilidades en la programacion y diferentes tecnologias.
+
+Desarrollador experto:
+
+Persona interesada en nuestra aplicacion para poder compartir su experiencia, trucos y/o material multimedia que ellos usaron y recomiendan para mejorar en su campo de trabajo. 
 ```
 
 ---
