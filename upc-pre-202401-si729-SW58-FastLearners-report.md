@@ -38,42 +38,58 @@
 A continuación presentaremos el perfil de la Start Up y los perfiles de los integrantes
 
 ### 1.1.1. Descripción de la Startup
-Nuestra Start Up, llamada FastLearners
+Nuestra Start Up, llamada FastLearners, es una startup innovadora en el ámbito del aprendizaje tecnológico, diseñada para facilitar una plataforma de aprendizaje colaborativo exclusiva para programadores e ingenieros de software. A través de nuestra plataforma, los usuarios pueden compartir y acceder a una amplia gama de recursos educativos, como repositorios de código, documentación técnica y videos educativos. Nuestro enfoque se centra en la colaboración y el intercambio de conocimientos, permitiendo a los usuarios tanto aprender de forma autónoma como contribuir al aprendizaje colectivo. Adoptamos un modelo de negocio freemium, que permite a los usuarios acceder gratuitamente a una serie de recursos, con la opción de desbloquear características adicionales, como acceso a repositorios exclusivos, videos avanzados y documentación especializada, mediante una suscripción mensual. FastLearners se compromete a mantenerse a la vanguardia del desarrollo tecnológico, ofreciendo constantemente contenido actualizado y relevante para nuestra comunidad de aprendizaje en constante expansión.
 
 #### FastLearners
-- **Misión:** 
+- **Misión:**
+La misión de FastLearners es democratizar el acceso al conocimiento tecnológico, proporcionando una plataforma colaborativa donde programadores e ingenieros de software de todos los niveles puedan mejorar sus habilidades, compartir su experiencia y avanzar en sus carreras. Nos esforzamos por crear un entorno inclusivo y accesible, donde la pasión por el aprendizaje y el desarrollo de software se cultive y celebre. A través de nuestra oferta de recursos educativos de alta calidad y la promoción de una comunidad de aprendizaje activa, nos comprometemos a empoderar a los individuos para que alcancen su máximo potencial en el mundo tecnológico.
 - **Visión:**
+Nuestra visión es convertirnos en el principal recurso y comunidad en línea para el aprendizaje colaborativo de programación y desarrollo de software. Aspiramos a ser reconocidos a nivel mundial como la plataforma de elección para programadores e ingenieros de software que buscan mejorar sus habilidades, descubrir las últimas tendencias tecnológicas y colaborar en proyectos innovadores. En FastLearners, nos proponemos liderar la transformación en la educación tecnológica, eliminando barreras para el acceso al conocimiento y fomentando una cultura de aprendizaje continuo y colaboración. Nuestra visión a largo plazo incluye la expansión de nuestra oferta de recursos y herramientas educativas, asegurando que todos, desde principiantes hasta expertos, tengan las oportunidades y el apoyo necesarios para prosperar en la era digital.
 
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-| 
+
 |Javier Murillo, Mathias <img src="assets/pictures profiles/Mathias Javier Murillo.jpg" alt="Imagen del compañero" style="width:60%">|u202212096|Ingenieria de software|C++, SQL, React, Python, Javascript|
 |Orrego Noriega, Jorge David <img src="assets/pictures profiles/JorgeOrrego.png" alt="Imagen del compañero" style="width:60%">|u201921734|Ingenieria de software|C++, Python, SQL y Java|
 |Pachas Chavez, Alejandro Alberto <img src="assets/pictures profiles/AlejandroPachas.jpeg" alt="Imagen del compañero" style="width:60%">|u201917598|Ingenieria de software|C++, React, Laravel,HTML5, CSS3, Javascript, SQL, Docker|
-|Ochoa Colonio, Carlos Alberto <img src="assets/members-profile/CarlosOchoa.jpg" alt="Imagen del compañero" style="width:60%">|u202315945|Ingenieria de software|C++, Python, persistente y amigable|
+|Ochoa Colonio, Carlos Alberto <img src="assets/members-profile/CarlosOchoa.jpg" alt="Imagen del compañero" style="width:60%">|u202315945|Ingenieria de software|C++, Python, creativo y amigable|
 |Mendez Rosales, Marco Aurelio <img src="assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|u202212096|Ingenieria de software|C++, Python, persistente y amigable|
 <!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
 
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
+En el ámbito del aprendizaje tecnológico, existen barreras significativas para el acceso a educación de calidad en programación y desarrollo de software. Estos desafíos se ven agravados por la carencia de plataformas que faciliten un aprendizaje colaborativo y eficiente entre programadores e ingenieros de software. La tradicional dependencia de recursos educativos costosos o inaccesibles limita severamente la capacidad de los individuos para avanzar en sus conocimientos y habilidades técnicas
 
 - **¿Qué?**
+El problema central es la ineficiencia y limitaciones en el acceso a educación tecnológica especializada y colaborativa. Existe una necesidad crítica de plataformas que puedan ofrecer recursos educativos de calidad, posibilidades de interacción en tiempo real y un ambiente de aprendizaje colaborativo para facilitar el desarrollo de habilidades en programación y software
 
 - **¿Quién?**
+Los principales afectados son:
+
+- Programadores e ingenieros de software en todos los niveles de habilidad, buscando mejorar o actualizar sus conocimientos.
+- Estudiantes de tecnología y ciencias de la computación que requieren recursos adicionales fuera del aula.
+- Profesionales de tecnología en transición a nuevas especializaciones o actualizando sus competencias.
 
 - **¿Por qué?**
+La causa radica en la carencia de plataformas educativas tecnológicas que integren de manera eficiente el aprendizaje colaborativo, recursos actualizados y accesibles, y herramientas interactivas para una educación técnica de calidad
 
 - **¿Dónde?**
+El desafío se encuentra en el ámbito global del aprendizaje tecnológico, afectando particularmente a aquellos en comunidades con menos recursos o acceso a educación tecnológica de calidad. La problemática se extiende a través de diversos entornos, desde la educación autodidacta hasta la formación formal en instituciones educativas
 
 - **¿Cuándo?**
+Este problema es persistente y se manifiesta a lo largo de toda la carrera profesional de los programadores e ingenieros de software, especialmente cuando buscan actualizar sus habilidades o expandir su conocimiento en nuevas tecnologías y metodologías de desarroll
 
 - **¿Cómo?**
+La situación actual es el resultado de un modelo educativo que no ha evolucionado al mismo ritmo que la tecnología, manteniendo barreras de entrada económicas y geográficas, y no fomentando suficientemente el aprendizaje colaborativo y la actualización constante de conocimientos
 
 - **¿Cuánto?**
+Aunque no se dispone de datos específicos, es evidente que la brecha en la educación tecnológica limita significativamente las oportunidades de desarrollo profesional y contribuye a la escasez de talento en áreas críticas de la tecnología, impactando negativamente en la innovación y el crecimiento económico a nivel global
 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
+
 
 #### 1.2.2.2. Lean UX Assumptions.
 |Business Assumptions|User Assumptions|
