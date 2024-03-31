@@ -149,19 +149,18 @@ Quora es una plataforma de preguntas y respuestas donde los usuarios pueden hace
 4. ¿Conoces alguna plataforma que facilite el aprendizaje cooperativo?
 
 ### 2.2.2. Registro de entrevistas.
-**Segmento 1**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
+**Desarrollador Principiante**  
+Nombre: Pablo Cieza de Leon
+Edad: 23 años 
+Ocupación: Desarrollador de Software en JavaScript
+<img src="assets/images/UserPersona1.jpg" alt="Mapa de impacto" style="width:100%;">
 
-**Segmento 2**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
+
+**Desarrollador Experto**  
+Nombre: Rodrigo Castillo
+Edad: 30 años 
+Ocupación: Desarrollador de Software en C++ 
+<img src="assets/images/UserPersona1.jpg" alt="Mapa de impacto" style="width:100%;">
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento 1:**
@@ -241,6 +240,7 @@ As Is:
 ## 2.4. Ubiquitous Language.
 ```
 Desarrollador principiante:
+
 Persona interesada en nuestra aplicacion para poder aprender a mejorar sus habilidades en la programacion y diferentes tecnologias.
 
 Desarrollador experto:
