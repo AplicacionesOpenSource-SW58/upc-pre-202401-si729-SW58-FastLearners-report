@@ -153,20 +153,21 @@ Quora es una plataforma de preguntas y respuestas donde los usuarios pueden hace
 Nombre: Pablo Cieza de Leon
 Edad: 23 años 
 Ocupación: Desarrollador de Software en JavaScript
-<img src="assets/images/UserPersona1.jpg" alt="Mapa de impacto" style="width:100%;">
+<img src="assets/images/Entrevista1.png" alt="Mapa de impacto" style="width:100%;">
 
 
 **Desarrollador Experto**  
 Nombre: Rodrigo Castillo
 Edad: 30 años 
 Ocupación: Desarrollador de Software en C++ 
-<img src="assets/images/UserPersona1.jpg" alt="Mapa de impacto" style="width:100%;">
+<img src="assets/images/Entrevista2.png" alt="Mapa de impacto" style="width:100%;">
 
 ### 2.2.3. Análisis de entrevistas.
-**Segmento 1:**
-{texto}
-**Segmento 2:**
-{texto}
+**Desarrollador Principiante:**
+En esta entrevista tuvimos la oportunidad de entrevistar a Andres, el es un desarrollador de software en JavaScript, en este momento esta haciendo sus practicas en una empresa de desarrollo, como el nos comenta es principiante en el desarrollo en JS. El nos comenta que es muy complicado encontrar alguna plataforma en la cual pueda encontrar documentos multimedia, con los cuales poder mejorar sus habilidades. Tambien nos dice que estaria interesado en poder encontrar algun foro en el cual se pueda hacer consultas a desarrolladores expertos, sobre sus problemas o dudas. 
+**Desarrollador Experto:**
+En esta ocasion tuvimos el placer de conversar con Rodrigo, el cuenta con mas de 8 años desarrollando software con el lenguaje C++, el nos comenta que en sus inicios le fue muy complicado encontrar donde aprender o mejorar sus habilidades y que le gusta la idea de contar con una plataforma en la cual pueda compartir los documentos que cree que le pueden subir a sus compañeros desarrolladores principiantes o menos experimentados y al mismo tiempo poder poder resolver sus consultas. 
+
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 **Segmento 1:** Desarrolladores principiantes con dificultades de encontrar respuestas de expertos en el tema.  
