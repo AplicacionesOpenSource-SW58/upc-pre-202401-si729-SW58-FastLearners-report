@@ -53,7 +53,7 @@ Nuestra visión es convertirnos en el principal recurso y comunidad en línea pa
 |Orrego Noriega, Jorge David <img src="assets/pictures profiles/JorgeOrrego.png" alt="Imagen del compañero" style="width:60%">|u201921734|Ingenieria de software|C++, Python, SQL y Java|
 |Pachas Chavez, Alejandro Alberto <img src="assets/pictures profiles/AlejandroPachas.jpeg" alt="Imagen del compañero" style="width:60%">|u201917598|Ingenieria de software|C++, React, Laravel,HTML5, CSS3, Javascript, SQL, Docker|
 |Ochoa Colonio, Carlos Alberto <img src="assets/members-profile/CarlosOchoa.jpg" alt="Imagen del compañero" style="width:60%">|u202315945|Ingenieria de software|C++, Python, creativo y amigable|
-|Mendez Rosales, Marco Aurelio <img src="assets/members-profile/marco.png" alt="Imagen del compañero" style="width:60%">|u202212096|Ingenieria de software|C++, Python, SQL, Azure, Trabajador|
+|Mendez Rosales, Marco Aurelio <img src = "assets/pictures profiles/marco.png" alt="Imagen del compañero" style="width:60%">|u202212096|Ingenieria de software|C++, Python, SQL, Azure, Trabajador|
 <!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
 
 ## 1.2. Solution Profile
