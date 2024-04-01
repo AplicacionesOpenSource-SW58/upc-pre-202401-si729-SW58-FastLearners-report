@@ -53,7 +53,7 @@ Nuestra visión es convertirnos en el principal recurso y comunidad en línea pa
 |Orrego Noriega, Jorge David <img src="assets/pictures profiles/JorgeOrrego.png" alt="Imagen del compañero" style="width:60%">|u201921734|Ingenieria de software|C++, Python, SQL y Java|
 |Pachas Chavez, Alejandro Alberto <img src="assets/pictures profiles/AlejandroPachas.jpeg" alt="Imagen del compañero" style="width:60%">|u201917598|Ingenieria de software|C++, React, Laravel,HTML5, CSS3, Javascript, SQL, Docker|
 |Ochoa Colonio, Carlos Alberto <img src="assets/members-profile/CarlosOchoa.jpg" alt="Imagen del compañero" style="width:60%">|u202315945|Ingenieria de software|C++, Python, creativo y amigable|
-|Mendez Rosales, Marco Aurelio <img src="assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|u202212096|Ingenieria de software|C++, Python, persistente y amigable|
+|Mendez Rosales, Marco Aurelio <img src="assets/members-profile/Marco.png" alt="Imagen del compañero" style="width:60%">|u202212096|Ingenieria de software|C++, Python, persistente y amigable|
 <!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
 
 ## 1.2. Solution Profile
@@ -448,18 +448,18 @@ El objetivo del Domain Driven Design (DDD) es alcanzar una comprensión mutua de
 se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 
 2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que encapsula palabras clave en los procesos para poder diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock(gestion) y otro enfocado en los proveedores (suministros)]) Se hace como un brainstorm y se ve en que pueden conectarse o comunicarse [se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis)]
-<img src="assets/pictures profiles/Context_diagram.png" alt="ContextDiagram" style="width:90%">
+<img src="assets/images/Context_diagram.png" alt="ContextDiagram" style="width:90%">
    
 ### 4.6.2. Software Architecture Container Diagrams.
 1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP) 
-<img src="assets/pictures profiles/Container_diagram.png" alt="ContainerDiagram" style="width:90%">
+<img src="assets/images/Container_diagram.png" alt="ContainerDiagram" style="width:90%">
 ### 4.6.3. Software Architecture Components Diagrams.
 1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
-<img src="assets/pictures profiles/Component_diagram.png" alt="ComponentDiagram" style="width:90%">
+<img src="assets/images/Component_diagram.png" alt="ComponentDiagram" style="width:90%">
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 Un diagrama de clases es una representación visual de las clases de un sistema de software y las relaciones entre ellas. 
-<img src="assets/pictures profiles/Class_diagram.png" alt="ClassDiagram" style="width:90%">
+<img src="assets/images/Class_diagram.png" alt="ClassDiagram" style="width:90%">
 ### 4.7.2. Class Dictionary.
 Para el diccionario de clases, se presentan las más importantes
 # User
@@ -588,7 +588,7 @@ Membership representa la clase del tipo de membresía.
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
 Un diagrama de base de datos es una herramienta visual que representa la estructura y relaciones de una base de datos. Consta de tablas (entidades), donde cada tabla tiene columnas (atributos) que representan los diferentes tipos de datos que almacena.
-<img src="assets/pictures profiles/db_diagram.png" alt="DatabaseDiagram" style="width:90%">
+<img src="assets/images/db_diagram.png" alt="DatabaseDiagram" style="width:90%">
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
