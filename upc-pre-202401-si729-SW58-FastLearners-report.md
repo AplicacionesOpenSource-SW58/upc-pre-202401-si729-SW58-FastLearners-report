@@ -13,7 +13,7 @@
 - Orrego Noriega, Jorge David - u201921734
 - Ochoa Colonio, Carlos Alberto - u202315945
 - Pachas Chavez, Alejandro Alberto - u201917598
-- Mendez Rosales, Marco Aurelio - u202xxx
+- Mendez Rosales, Marco Aurelio - u202018273
 
 ---
 # Registro de Versiones del Informe
@@ -442,29 +442,153 @@ un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 [URL del Prototipo (Hecho en figma)](https://www.example.com)
 
 ## 4.6. Domain-Driven Software Architecture.
+El objetivo del Domain Driven Design (DDD) es alcanzar una comprensión mutua del ámbito del problema, fomentando una visión compartida del dominio en cuestión. Al adoptar un enfoque diferente, DDD facilita una colaboración más efectiva entre los desarrolladores y los expertos en el dominio, al tiempo que promueve el uso de un lenguaje común. Además de esto, DDD implica la aplicación de una serie de procedimientos, patrones y diagramas de arquitectura para alinear el software con el dominio y fortalecer su enfoque.
 ### 4.6.1. Software Architecture Context Diagram.
 1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
 se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 
 2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que encapsula palabras clave en los procesos para poder diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock(gestion) y otro enfocado en los proveedores (suministros)]) Se hace como un brainstorm y se ve en que pueden conectarse o comunicarse [se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis)]
+<img src="assets/pictures profiles/Context_diagram.png" alt="ContextDiagram" style="width:90%">
    
 ### 4.6.2. Software Architecture Container Diagrams.
 1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP) 
-
+<img src="assets/pictures profiles/Container_diagram.png" alt="ContainerDiagram" style="width:90%">
 ### 4.6.3. Software Architecture Components Diagrams.
 1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
+<img src="assets/pictures profiles/Component_diagram.png" alt="ComponentDiagram" style="width:90%">
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-Esta yaselasaben (diagrama de clases)
-Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributos(Correo, edad,nombre como valor, ID)
+Un diagrama de clases es una representación visual de las clases de un sistema de software y las relaciones entre ellas. 
+<img src="assets/pictures profiles/Class_diagram.png" alt="ClassDiagram" style="width:90%">
 ### 4.7.2. Class Dictionary.
-Inherit (ave(superclase) -> (subclase)canario )
-Polymorphism (Ej. funcion de persona hablar() -> Peruano hablar() , Gringo hablar() todos tienen una funcion que contiene persona y van cambiando sus formas)
-Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usada que uso app en la base de datos (fuera de vista))
-Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en Private y Public )
+Para el diccionario de clases, se presentan las más importantes
+# User
+
+User representa los datos que el usuario debe completar con su información para registrarse.
+
+| Atributo     | Descripción                              |
+|--------------|------------------------------------------|
+| Id           | int - Identificador único del usuario   |
+| Name         | string - Nombre del usuario             |
+| LastName     | string - Apellido del usuario           |
+| Password     | string - Contraseña del usuario         |
+| Email        | string - Correo del Usuario             |
+| PremiumUser  | bool - Usuario Premium o No             |
+
+## Métodos
+
+| Método                           | Descripción                                                    |
+|---------------------------------|----------------------------------------------------------------|
+| changePassword(newPassword)     | void - Este método permite cambiar la contraseña del usuario   |
+| ChangeEmail(newEmail)           | void - Este método permite cambiar el correo del usuario       |
+| UpgradePremium(PremiumUser)     | void - Este método permite cambiar el estado del premium del usuario |
+
+# Organization
+
+Organization representa los datos de la organización creada por un usuario.
+
+| Atributo       | Descripción                                        |
+|----------------|----------------------------------------------------|
+| Id             | int - Identificador único de la organización      |
+| Name           | string - Nombre de la organización                 |
+| CreationDate   | date - Fecha de creación de la organización        |
+| TopicName      | String - Nombre del tema de la organización        |
+| Users          | int - Cantidad de usuarios en la organización      |
+| Supervisor     | String - Nombre del supervisor de la organización  |
+
+## Métodos
+
+| Método                                | Descripción                                                         |
+|--------------------------------------|---------------------------------------------------------------------|
+| addUser(newUser)                     | Void - Agrega un nuevo usuario a la organización                    |
+| removeUser(in User)                  | void - Elimina un usuario de la organización                        |
+| uploadContent()                      | void - Sube contenido a la organización                              |
+| deleteContent(in content)            | void - Elimina contenido de la organización                          |
+| uploadQuestion(in question, in content) | void - Sube una pregunta sobre un contenido específico             |
+| answerQuestion(in question, in content, in answer) | void - Responde a una pregunta de un contenido específico     |
+| closeQuestion(in idQuestion)         | void - Cierra una pregunta específica                                |
+| upVoteQuestion(in question:Question) | void - Vota positivamente por una pregunta específica               |
+| downVoteQuestion(in question:Question) | void - Vota negativamente por una pregunta específica             |
+| SuperviseContent(in content:Content) | bool - Supervisa un contenido específico                            |
+
+# Question
+
+Question representa la clase de pregunta sobre un contenido específico.
+
+| Atributo      | Descripción                                            |
+|---------------|--------------------------------------------------------|
+| Id            | string - Identificador único de la pregunta           |
+| CreationDate  | date - Fecha de creación de la pregunta              |
+| Title         | string - Título de la pregunta                        |
+| Body          | string - Cuerpo o contenido de la pregunta            |
+| Author        | User - Usuario que ha creado la pregunta              |
+
+## Métodos
+
+| Método                               | Descripción                                                        |
+|-------------------------------------|--------------------------------------------------------------------|
+| editQuestion(in newBody:String)     | void - Edita el cuerpo de la pregunta con el nuevo contenido proporcionado |
+| addAnswer(in answer:Answer)         | void - Agrega una respuesta a la pregunta                         |
+
+# NotificationManager
+
+NotificationManager representa la clase de control de las notificaciones.
+
+| Atributo       | Descripción                                                          |
+|----------------|----------------------------------------------------------------------|
+| notification   | Notification - Objeto de tipo Notification que representa la notificación |
+| author         | User - Usuario (objeto de tipo User) que creó la notificación       |
+| creationDate   | date - Fecha de creación de la notificación                         |
+
+## Métodos
+
+| Método                                | Descripción                                                      |
+|--------------------------------------|------------------------------------------------------------------|
+| sendNotification()                   | void - Envía la notificación                                    |
+| createNotification(in User, in title, in content, in date) | void - Crea una notificación con los parámetros especificados |
+
+# Notification
+
+Notification representa la clase de notificaciones.
+
+| Atributo       | Descripción                                            |
+|----------------|--------------------------------------------------------|
+| id             | int - Identificador único de la notificación          |
+| title          | string - Título de la notificación                     |
+| content        | string - Contenido o mensaje de la notificación       |
+| date           | date - Fecha de la notificación                        |
+
+# PaymentCard
+
+PaymentCard representa la clase del método de pago.
+
+| Atributo       | Descripción                                            |
+|----------------|--------------------------------------------------------|
+| id             | int - Identificador único del método de pago          |
+| cardNumber     | String - Número de la tarjeta de pago                 |
+| expireDate     | String - Fecha de vencimiento de la tarjeta de pago   |
+| SecurityCode   | int - Código de seguridad de la tarjeta de pago       |
+
+## Métodos
+
+| Método                | Descripción                                          |
+|-----------------------|------------------------------------------------------|
+| pay()                 | void - Realiza un pago utilizando esta tarjeta de pago |
+| assignToPayment()     | void - Asigna esta tarjeta de pago a un método de pago |
+
+# Membership
+
+Membership representa la clase del tipo de membresía.
+
+| Atributo  | Descripción                              |
+|-----------|------------------------------------------|
+| Basic     | Representa la membresía básica           |
+| Pro       | Representa la membresía Pro              |
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
+Un diagrama de base de datos es una herramienta visual que representa la estructura y relaciones de una base de datos. Consta de tablas (entidades), donde cada tabla tiene columnas (atributos) que representan los diferentes tipos de datos que almacena.
+<img src="assets/pictures profiles/db_diagram.png" alt="DatabaseDiagram" style="width:90%">
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
