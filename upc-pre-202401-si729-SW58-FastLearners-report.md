@@ -52,7 +52,7 @@ Nuestra visión es convertirnos en el principal recurso y comunidad en línea pa
 |Javier Murillo, Mathias <img src="assets/pictures profiles/Mathias Javier Murillo.jpg" alt="Imagen del compañero" style="width:60%">|u202212096|Ingenieria de software|C++, SQL, React, Python, Javascript|
 |Orrego Noriega, Jorge David <img src="assets/pictures profiles/JorgeOrrego.png" alt="Imagen del compañero" style="width:60%">|u201921734|Ingenieria de software|C++, Python, SQL y Java|
 |Pachas Chavez, Alejandro Alberto <img src="assets/pictures profiles/AlejandroPachas.jpeg" alt="Imagen del compañero" style="width:60%">|u201917598|Ingenieria de software|C++, React, Laravel,HTML5, CSS3, Javascript, SQL, Docker|
-|Ochoa Colonio, Carlos Alberto <img src="assets/members-profile/CarlosOchoa.jpg" alt="Imagen del compañero" style="width:60%">|u202315945|Ingenieria de software|C++, Python, creativo y amigable|
+|Ochoa Colonio, Carlos Alberto <img src="assets/pictures profiles/CarlosOchoa.jpg" alt="Imagen del compañero" style="width:60%">|u202315945|Ingenieria de software|C++, Python, creativo y amigable|
 |Mendez Rosales, Marco Aurelio <img src = "assets/pictures profiles/marco.png" alt="Imagen del compañero" style="width:60%">|u202018273|Ingenieria de software|C++, Python, SQL, Azure, Trabajador|
 <!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
 
@@ -84,11 +84,21 @@ Este problema es persistente y se manifiesta a lo largo de toda la carrera profe
 La situación actual es el resultado de un modelo educativo que no ha evolucionado al mismo ritmo que la tecnología, manteniendo barreras de entrada económicas y geográficas, y no fomentando suficientemente el aprendizaje colaborativo y la actualización constante de conocimientos
 
 - **¿Cuánto?**
-Aunque no se dispone de datos específicos, es evidente que la brecha en la educación tecnológica limita significativamente las oportunidades de desarrollo profesional y contribuye a la escasez de talento en áreas críticas de la tecnología, impactando negativamente en la innovación y el crecimiento económico a nivel global
+Es evidente que la brecha en la educación tecnológica limita significativamente las oportunidades de desarrollo profesional y contribuye a la escasez de talento en áreas críticas de la tecnología, impactando negativamente en la innovación y el crecimiento económico a nivel global
 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
+Usuario objetivo: Programadores e ingenieros de software de todos los niveles, desde principiantes hasta avanzados, que buscan mejorar sus habilidades técnicas y conocimientos en programación y desarrollo de software.
 
+Necesidad/Problema: Nuestros usuarios necesitan una plataforma de aprendizaje colaborativo que ofrezca acceso a recursos educativos de calidad, como tutoriales interactivos, documentación técnica y videos educativos, en un ambiente que fomente la colaboración y el intercambio de conocimientos entre pares. A menudo se encuentran con que los recursos disponibles son dispersos, obsoletos o no facilitan la interacción con otros aprendices o expertos en el campo, lo que limita su capacidad para aprender de manera efectiva y mantenerse al día con las tecnologías emergentes.
+
+Contexto: En el ámbito del desarrollo de software y la programación, el aprendizaje continuo es crucial debido al rápido avance de las tecnologías y metodologías. Sin embargo, la falta de un ecosistema de aprendizaje unificado y colaborativo hace que sea difícil para los individuos encontrar y aprovechar recursos de aprendizaje que sean relevantes, actuales y aplicables a sus proyectos y objetivos profesionales.
+
+Obstáculo: Los usuarios se enfrentan a la fragmentación de los recursos educativos, la ausencia de una comunidad de aprendizaje activa y la dificultad para acceder a contenido educativo que sea al mismo tiempo avanzado, aplicable y en el contexto de proyectos reales. Esto se traduce en una experiencia de aprendizaje que puede ser frustrante, ineficiente y aislada.
+
+Impacto: La incapacidad de acceder a un aprendizaje efectivo y colaborativo no solo afecta el desarrollo profesional y personal de los usuarios, sino que también contribuye a la brecha de habilidades en la industria tecnológica, limitando el potencial de innovación y desarrollo de nuevos productos y soluciones.
+
+Solución (implícita): La creación de FastLearners busca abordar estas necesidades al ofrecer una plataforma que centralice recursos educativos de alta calidad y fomente una comunidad activa de aprendizaje colaborativo, permitiendo a los usuarios no solo mejorar sus habilidades técnicas, sino también colaborar y aprender unos de otros, manteniéndose a la vanguardia de las tendencias tecnológicas.
 
 #### 1.2.2.2. Lean UX Assumptions.
 |Business Assumptions|User Assumptions|
