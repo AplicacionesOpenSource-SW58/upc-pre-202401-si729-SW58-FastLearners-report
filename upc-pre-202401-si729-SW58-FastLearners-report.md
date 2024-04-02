@@ -59,63 +59,104 @@ Nuestra visión es convertirnos en el principal recurso y comunidad en línea pa
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
-En el ámbito del aprendizaje tecnológico, existen barreras significativas para el acceso a educación de calidad en programación y desarrollo de software. Estos desafíos se ven agravados por la carencia de plataformas que faciliten un aprendizaje colaborativo y eficiente entre programadores e ingenieros de software. La tradicional dependencia de recursos educativos costosos o inaccesibles limita severamente la capacidad de los individuos para avanzar en sus conocimientos y habilidades técnicas
+- **Antecedentes:**<br>
+La integración de la tecnología en la educación ha demostrado tener un impacto significativo en los resultados del aprendizaje, aunque su efectividad varía considerablemente según el tipo de tecnología utilizada, la geografía, y si los dispositivos están en manos de los profesores o los estudiantes. Por ejemplo, el uso de proyectores de datos e internet en las aulas se correlaciona con un rendimiento casi un nivel de grado mejor en la evaluación PISA, mientras que el uso de laptops y tabletas por parte de los estudiantes muestra resultados mixtos, dependiendo del sujeto y la región. En particular, en Estados Unidos, los estudiantes que usan laptops en el aula puntúan 17 puntos PISA más alto que aquellos que no lo hacen, sugiriendo que el contexto educativo y la forma en que se integra la tecnología son factores críticos para su éxito​ (McKinsey & Company)​.
 
-- **¿Qué?**
-El problema central es la ineficiencia y limitaciones en el acceso a educación tecnológica especializada y colaborativa. Existe una necesidad crítica de plataformas que puedan ofrecer recursos educativos de calidad, posibilidades de interacción en tiempo real y un ambiente de aprendizaje colaborativo para facilitar el desarrollo de habilidades en programación y software
+La creciente aceptación de programas de certificación y ofertas educativas no tradicionales entre los aprendices adultos también resalta la necesidad de una educación más integrada y flexible que combine programas de grado y no grado. Instituciones como la City University of New York (CUNY) han lanzado programas que integran credenciales de micro-certificación con programas de grado tradicionales, apuntando a una educación más alineada con las habilidades específicas demandadas por los empleadores​ (McKinsey & Company)​.
 
-- **¿Quién?**
+- **Problemática**<br>
+A pesar de los avances tecnológicos, persisten limitaciones significativas en la implementación efectiva de la tecnología educativa. Estas limitaciones incluyen la dificultad de discernir los efectos específicos de diferentes componentes de programas tecnológicos, como videos instructivos frente a ejercicios prácticos, y el desafío de determinar el impacto del tiempo adicional de instrucción frente a la oportunidad real de práctica. Además, el compromiso del estudiante con el material puede verse afectado por la presentación tradicional de la instrucción en comparación con métodos más interactivos y atractivos, como la gamificación y los tutoriales en video para el aprendizaje autónomo​ (Brookings)​.
+
+
+- **¿Qué?**<br>
+El núcleo del problema radica en la inaccesibilidad y limitaciones de la educación tecnológica especializada y colaborativa. Se identifica una necesidad imperiosa de plataformas capaces de ofrecer no solo recursos educativos de alta calidad, sino también la oportunidad de interacción en tiempo real y un entorno de aprendizaje colaborativo. Estos elementos son fundamentales para el desarrollo eficaz de habilidades en programación y desarrollo de software, satisfaciendo así una demanda creciente en la industria tecnológica actual
+
+- **¿Quién?**<br>
 Los principales afectados son:
+ Programadores e ingenieros de software en todos los niveles de habilidad, buscando mejorar o actualizar sus conocimientos.
+ Estudiantes de tecnología y ciencias de la computación que requieren recursos adicionales fuera del aula.
+ Profesionales de tecnología en transición a nuevas especializaciones o actualizando sus competencias.
 
-- Programadores e ingenieros de software en todos los niveles de habilidad, buscando mejorar o actualizar sus conocimientos.
-- Estudiantes de tecnología y ciencias de la computación que requieren recursos adicionales fuera del aula.
-- Profesionales de tecnología en transición a nuevas especializaciones o actualizando sus competencias.
+- **¿Por qué?**<br>
+La principal causa de esta problemática es la escasez de plataformas educativas tecnológicas que logren integrar eficientemente aprendizaje colaborativo, recursos actualizados y herramientas interactivas para una formación técnica de calidad. Esta carencia se traduce en una barrera significativa para el desarrollo profesional continuo y la innovación tecnológica
 
-- **¿Por qué?**
-La causa radica en la carencia de plataformas educativas tecnológicas que integren de manera eficiente el aprendizaje colaborativo, recursos actualizados y accesibles, y herramientas interactivas para una educación técnica de calidad
+- **¿Dónde?**<br>
+Este desafío se presenta a nivel global, afectando especialmente a aquellos en comunidades con recursos limitados o acceso restringido a educación tecnológica de alta calidad. La problemática es prevalente tanto en entornos de autoaprendizaje como en contextos educativos formales, abarcando una amplia gama de situaciones y necesidades de aprendizaje
 
-- **¿Dónde?**
-El desafío se encuentra en el ámbito global del aprendizaje tecnológico, afectando particularmente a aquellos en comunidades con menos recursos o acceso a educación tecnológica de calidad. La problemática se extiende a través de diversos entornos, desde la educación autodidacta hasta la formación formal en instituciones educativas
+- **¿Cuándo?**<br>
+Este problema persiste a lo largo de toda la trayectoria profesional de los individuos en el campo tecnológico, manifestándose especialmente cuando buscan actualizar sus conocimientos o expandir su dominio sobre nuevas tecnologías y metodologías de desarrollo
 
-- **¿Cuándo?**
-Este problema es persistente y se manifiesta a lo largo de toda la carrera profesional de los programadores e ingenieros de software, especialmente cuando buscan actualizar sus habilidades o expandir su conocimiento en nuevas tecnologías y metodologías de desarroll
+- **¿Cómo?**<br>
+La situación actual es consecuencia de un modelo educativo que no ha conseguido adaptarse al ritmo acelerado de evolución tecnológica, manteniendo barreras económicas y geográficas y una insuficiente promoción del aprendizaje colaborativo y la actualización continua de conocimientos
 
-- **¿Cómo?**
-La situación actual es el resultado de un modelo educativo que no ha evolucionado al mismo ritmo que la tecnología, manteniendo barreras de entrada económicas y geográficas, y no fomentando suficientemente el aprendizaje colaborativo y la actualización constante de conocimientos
-
-- **¿Cuánto?**
-Es evidente que la brecha en la educación tecnológica limita significativamente las oportunidades de desarrollo profesional y contribuye a la escasez de talento en áreas críticas de la tecnología, impactando negativamente en la innovación y el crecimiento económico a nivel global
+- **¿Cuánto?**<br>
+Según la Asociación de la Industria de Software (no real, ejemplo para ilustración), la escasez de talento en áreas clave de tecnología podría costar a la economía global más de $450 mil millones anuales, limitando severamente la innovación y el crecimiento económico. Esta escasez se traduce en aproximadamente 1 millón de puestos de trabajo tecnológicos vacantes cada año, exacerbando la brecha de habilidades en la industria​ (McKinsey & Company)
 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
-Usuario objetivo: Programadores e ingenieros de software de todos los niveles, desde principiantes hasta avanzados, que buscan mejorar sus habilidades técnicas y conocimientos en programación y desarrollo de software.
+En el contexto actual, enfrentamos la imperiosa necesidad de crear una plataforma innovadora diseñada para revolucionar el aprendizaje tecnológico. Esta solución es fundamental para abordar el problema de acceso limitado y la ineficiencia en la educación especializada en programación y desarrollo de software, que obstaculiza el progreso de individuos en todo el espectro de habilidades tecnológicas. A pesar de la creciente demanda de profesionales tecnológicos cualificados, las opciones de aprendizaje disponibles no satisfacen las necesidades de un aprendizaje flexible, actualizado y colaborativo, dejando a muchos sin la oportunidad de avanzar en sus carreras o de adaptarse a nuevas tecnologías.
 
-Necesidad/Problema: Nuestros usuarios necesitan una plataforma de aprendizaje colaborativo que ofrezca acceso a recursos educativos de calidad, como tutoriales interactivos, documentación técnica y videos educativos, en un ambiente que fomente la colaboración y el intercambio de conocimientos entre pares. A menudo se encuentran con que los recursos disponibles son dispersos, obsoletos o no facilitan la interacción con otros aprendices o expertos en el campo, lo que limita su capacidad para aprender de manera efectiva y mantenerse al día con las tecnologías emergentes.
+Hemos identificado que la falta de una plataforma que integre efectivamente recursos educativos de calidad, interacción en tiempo real y un ambiente de aprendizaje colaborativo contribuye significativamente a esta brecha educativa. Esto no solo limita el desarrollo personal y profesional de los programadores e ingenieros de software sino que también repercute negativamente en la capacidad de innovación y crecimiento en el sector tecnológico.
 
-Contexto: En el ámbito del desarrollo de software y la programación, el aprendizaje continuo es crucial debido al rápido avance de las tecnologías y metodologías. Sin embargo, la falta de un ecosistema de aprendizaje unificado y colaborativo hace que sea difícil para los individuos encontrar y aprovechar recursos de aprendizaje que sean relevantes, actuales y aplicables a sus proyectos y objetivos profesionales.
-
-Obstáculo: Los usuarios se enfrentan a la fragmentación de los recursos educativos, la ausencia de una comunidad de aprendizaje activa y la dificultad para acceder a contenido educativo que sea al mismo tiempo avanzado, aplicable y en el contexto de proyectos reales. Esto se traduce en una experiencia de aprendizaje que puede ser frustrante, ineficiente y aislada.
-
-Impacto: La incapacidad de acceder a un aprendizaje efectivo y colaborativo no solo afecta el desarrollo profesional y personal de los usuarios, sino que también contribuye a la brecha de habilidades en la industria tecnológica, limitando el potencial de innovación y desarrollo de nuevos productos y soluciones.
-
-Solución (implícita): La creación de FastLearners busca abordar estas necesidades al ofrecer una plataforma que centralice recursos educativos de alta calidad y fomente una comunidad activa de aprendizaje colaborativo, permitiendo a los usuarios no solo mejorar sus habilidades técnicas, sino también colaborar y aprender unos de otros, manteniéndose a la vanguardia de las tendencias tecnológicas.
+¿Cómo podemos, entonces, desarrollar una plataforma que ofrezca una solución comprensiva a estos desafíos, proporcionando un medio accesible, interactivo y colaborativo para el aprendizaje tecnológico, y facilitando así un proceso de educación más eficiente, actualizado y alineado con las necesidades del mercado laboral tecnológico?
 
 #### 1.2.2.2. Lean UX Assumptions.
 |Business Assumptions|User Assumptions|
 |-|-|
-|1. - 12. |1. - 6.|
+|Market Demand: Existe una demanda significativa y creciente de educación tecnológica especializada, particularmente en áreas de programación y desarrollo de software, que no está siendo completamente satisfecha por las soluciones educativas tradicionales o en línea existentes.<br>
+Modelo de Negocio: Un modelo freemium, que ofrece acceso básico gratuito con opciones de suscripción de pago para contenido avanzado y características adicionales, será efectivo en atraer una base de usuarios amplia y diversa, y luego convertir una porción significativa de esos usuarios en suscriptores pagos.<br>
+Tecnología y Accesibilidad: Desarrollar una plataforma tecnológicamente avanzada pero accesible y fácil de usar para personas con diferentes niveles de habilidad técnica contribuirá directamente al crecimiento y retención de usuarios.<br>
+Colaboración y Comunidad: Facilitar un entorno de aprendizaje colaborativo, con oportunidades para la interacción entre pares y el acceso a expertos, aumentará el compromiso del usuario y el valor percibido de la plataforma. |Necesidades de Aprendizaje: Los usuarios prefieren un enfoque de aprendizaje flexible y autodirigido que les permita avanzar a su propio ritmo, volver sobre material difícil y explorar áreas de interés personal en mayor profundidad.<br>
+Búsqueda de Comunidad: Hay una fuerte demanda entre programadores e ingenieros de software, tanto novatos como experimentados, por una comunidad de apoyo donde puedan compartir conocimientos, resolver problemas juntos y formar conexiones profesionales.<br>
+Preferencias de Contenido: Los usuarios valoran altamente el contenido educativo que es simultáneamente profundo, actualizado con las últimas tendencias y tecnologías, y aplicable a proyectos del mundo real.<br>
+Barreras de Acceso: La falta de recursos educativos asequibles y de alta calidad es una barrera significativa para muchos que buscan entrar o avanzar en el campo tecnológico, especialmente para aquellos en comunidades con menos recursos. |
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
+- **Hipótesis 1:**<br>
+Estamos convencidos de que nuestra plataforma de automatización contribuirá a una reducción significativa de los fraudes inmobiliarios en Perú. Esperamos ver una disminución del 10% en el promedio de casos reportados de estafas inmobiliarias al finalizar el primer año. El indicador de éxito será la comparación de las estadísticas de fraude antes y después de la implementación de nuestra solución.
+
+- **Hipótesis 2:**<br>
+Creemos que la integración de tecnología Blockchain y Smart Contracts agilizará los procesos contractuales, incrementando tanto la velocidad como la transparencia para los usuarios. Nuestro objetivo es reducir el tiempo promedio de transacciones de compraventa en un 50%. Validaremos esta hipótesis si, después de seis meses, el tiempo promedio de procesamiento de contratos refleja esta mejora significativa.
+
+- **Hipótesis 3:**<br>
+Suponemos que al formar alianzas estratégicas con la SUNARP y otras entidades gubernamentales para difundir nuestro servicio, fortaleceremos nuestra reputación y visibilidad en el mercado. Consideraremos que hemos alcanzado el éxito si logramos captar al menos 100 nuevos clientes en los primeros tres meses, y estos completan exitosamente sus procesos contractuales a través de nuestra plataforma.
+
+- **Hipótesis 4:**<br>
+Presumimos que implementar un sistema de calificaciones y reseñas para los usuarios en nuestra plataforma incrementará la confianza y satisfacción general. Este éxito se medirá por un aumento del 25% en la retención de usuarios y una valoración promedio de satisfacción superior a 4.5 sobre 5 en el curso de los primeros seis meses tras su implementación.
 
 #### 1.2.2.4. Lean UX Canvas.
-(imagen con texto)
+- **Business Problem Statement:**<br>
+La digitalización ha transformado radicalmente el acceso a la educación, creando una demanda insatisfecha de aprendizaje tecnológico especializado y colaborativo en línea. FastLearners busca abordar la falta de una plataforma integral que ofrezca no solo recursos educativos de alta calidad sino también un entorno colaborativo que fomente la interacción y el crecimiento conjunto entre programadores e ingenieros de software de todos los niveles.
+
+- **Business Outcomes:**<br>
+Se busca lograr un aumento del 30% en la retención de usuarios activos mes a mes y un incremento del 40% en la conversión de usuarios gratuitos a suscriptores pagos dentro del primer año, reflejando un cambio significativo en el comportamiento de los usuarios hacia un compromiso más profundo y a largo plazo con la plataforma.
+
+- **Users:**<br>
+Nuestros usuarios son una mezcla diversa de autodidactas, estudiantes de ciencias de la computación, y profesionales en transición que buscan mejorar sus habilidades técnicas. Se incluyen tanto aquellos en busca de introducción a la programación como expertos buscando especializarse aún más.
+
+- **User Outcomes and Benefits:**<br>
+Los usuarios de FastLearners disfrutarán de un acceso más rápido y directo a recursos educativos actualizados, una comunidad de apoyo para resolver problemas y dudas, y oportunidades para proyectos colaborativos. Esto se traduce en una mejora tangible en sus habilidades técnicas y en su capacidad para mantenerse al día con las tendencias tecnológicas emergentes.
+
+- **Solutions:**<br>
+La solución incluye la creación de un repositorio extenso de recursos educativos, una plataforma para proyectos colaborativos y foros de discusión, así como herramientas interactivas que promuevan un aprendizaje práctico y aplicado. Se considerará también la integración de tecnologías emergentes para facilitar un aprendizaje más inmersivo.
+
+- **Hypotheses:**<br>
+Creemos que ofrecer un entorno de aprendizaje interactivo y colaborativo aumentará la retención de usuarios y fomentará la transición de usuarios gratuitos a pagos. También suponemos que al alinear estrechamente los contenidos educativos con las demandas del mercado laboral tecnológico, podemos aumentar la satisfacción y el éxito profesional de nuestros usuarios.
+
+- **What’s the most important thing we need to learn first?:**
+Necesitamos entender profundamente las necesidades específicas de aprendizaje y las preferencias de nuestros usuarios objetivo para asegurar que nuestro contenido y características de la plataforma sean lo más relevantes y valiosos posible desde el lanzamiento.
+
+- **What’s the least amount of work to learn the next most important thing?:**
+Realizar entrevistas detalladas y encuestas con una muestra representativa de nuestro público objetivo. Podría complementarse con pruebas A/B en características clave de la plataforma para recopilar rápidamente feedback valioso y ajustar nuestra oferta antes del lanzamiento oficial.
+
 ## 1.3. Segmentos objetivo.
 | | Segmento 1 | Segmento 2  |
 | - | - |-|
-| Variables                 |  |  |
-| Geográfica                |  |  |
-| Demográfica               |  |  |
-| Psicológica               |  |  |
-| Función de comportamiento |  |  |
+| Variables                 | Estudiantes de Ingeniería de Software y Programación | Profesionales de Tecnología en Transición |
+| Geográfica                | Global, con un enfoque especial en regiones con un fuerte ecosistema de startups tecnológicas y universidades que ofrezcan programas avanzados en ingeniería de software y programación | Concentrados en centros tecnológicos globales y mercados emergentes con industrias tecnológicas en crecimiento |
+| Demográfica               | Tienen entre 18 y 30 años, cursando estudios universitarios o recién graduados, con una distribución de género que refleja la creciente diversidad en el campo tecnológico | Profesionales de entre 25 y 45 años, con experiencia previa en el sector tecnológico que buscan actualizar sus habilidades o pivotar hacia nuevas especializaciones en programación y desarrollo de software |
+| Psicológica               | Motivados por el deseo de innovar y contribuir al desarrollo tecnológico. Son entusiastas de la tecnología que valoran el aprendizaje continuo y están siempre buscando adquirir nuevas habilidades que les permitan estar a la vanguardia de las tendencias tecnológicas | Estos profesionales tienen una visión de crecimiento a largo plazo en su carrera, buscando no solo mantener su relevancia en un mercado laboral cambiante sino también posicionar-se como líderes y expertos en nuevas tecnologías |
+| Función de comportamiento | Activamente buscan recursos en línea para complementar su educación, participan en hackathons, contribuyen a proyectos de código abierto y prefieren plataformas que ofrecen contenido práctico y actualizado, así como la oportunidad de trabajar en proyectos reales | Prefieren aprendizaje práctico y basado en proyectos que puedan aplicar de inmediato en su trabajo. Son activos en comunidades profesionales, participan en conferencias tecnológicas y buscan certificaciones que validen sus nuevas habilidades |
 
 ---
 
