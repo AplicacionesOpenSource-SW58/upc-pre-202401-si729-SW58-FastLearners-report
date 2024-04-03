@@ -320,20 +320,20 @@ Persona interesada en nuestra aplicacion para poder compartir su experiencia, tr
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 
-Segmento 1:
+Segmento 1: El desarrollador principiante esta aprendiendo a desarrollar aplicaciones web utilizando HTML, CSS y JavaScript mediante un curso en linea
 
 | Fases    |  fase 1 as is | fase 2| fase 3|
 | -------- | ------- | ---- | ---------------- |
-| Doing    |Los programadores e ingenieros de software se registran en la plataforma de aprendizaje y exploran los repositorios disponibles. | Algunos usuarios deciden desbloquear características premium y se suscriben mensualmente para acceder a contenido exclusivo. |Los usuarios colaboran entre sí en proyectos, comparten conocimientos y resuelven problemas juntos utilizando la documentación y los videos educativos disponibles.|
-| Thinking |Los usuarios se sienten motivados al ver el progreso en sus habilidades de programación y desarrollo de software.| Aquellos que optan por la suscripción premium valoran la calidad del contenido exclusivo y consideran que vale la pena la inversión.| Los usuarios se sienten satisfechos al poder colaborar con otros profesionales de la industria y aprender de su experiencia. | texto| texto|
-| Feeling  |Los usuarios experimentan un sentido de comunidad y pertenencia al colaborar con otros en la plataforma.|Se sienten empoderados al tener acceso a recursos educativos de alta calidad que les permiten mejorar sus habilidades y avanzar en sus carreras. | En general, los usuarios se sienten entusiasmados y motivados por el proceso de aprendizaje continuo que ofrece la plataforma. | texto| texto|
+| Doing    |El desarrollador principiante está siguiendo un curso en línea para aprender a desarrollar aplicaciones web con HTML, CSS y JavaScript. | Está practicando escribiendo código y probando diferentes ejemplos que se presentan en el curso. |Está explorando recursos adicionales en la plataforma de aprendizaje, como repositorios con ejemplos de código, documentación detallada y videos educativos sobre los conceptos clave.|
+| Thinking |Se siente emocionado por aprender nuevas habilidades y avanzar en su carrera como desarrollador de software.| Está concentrado en comprender los conceptos fundamentales de HTML, CSS y JavaScript para poder aplicarlos en sus propios proyectos.| Está considerando cómo puede utilizar lo que está aprendiendo en el curso para crear sus propias aplicaciones web y proyectos personales en el futuro.|
+| Feeling  |Se siente motivado por los desafíos que presenta el aprendizaje de nuevas tecnologías y está ansioso por seguir progresando.|Se siente satisfecho cuando logra comprender y aplicar correctamente los conceptos enseñados en el curso. | Se siente optimista sobre las oportunidades que se le presentarán una vez que domine HTML, CSS y JavaScript y pueda desarrollar sus propias aplicaciones web. |
 
-Segmento 2:
+Segmento 2: El desarrollador experto esta liderando el desarrollo de una aplicacion movil para una empresa importante
 | Fases    |  fase 1 as is | fase 2| fase 3|
 | -------- | ------- | ---- | ---------------- |
-| Doing    | | texto| texto | texto| texto|
-| Thinking | | texto| texto | texto| texto|
-| Feeling  | | texto| texto | texto| texto|
+| Doing    | El desarrollador experto está liderando el desarrollo de una aplicación móvil para una empresa importante| Está coordinando con otros miembros del equipo, como diseñadores, desarrolladores y probadores, para asegurar que el proyecto avance según lo planeado.| Está coordinando con otros miembros del equipo, como diseñadores, desarrolladores y probadores, para asegurar que el proyecto avance según lo planeado.|
+| Thinking | Está pensando en la arquitectura y el diseño de la aplicación, asegurándose de que sea escalable, eficiente y fácil de mantener.| Está considerando las necesidades y expectativas del cliente para asegurarse de que la aplicación cumpla con sus requisitos y expectativas.| Está evaluando constantemente el progreso del proyecto y buscando formas de optimizar el proceso de desarrollo para cumplir con los plazos establecidos.| 
+| Feeling  | Se siente emocionado por liderar un proyecto importante y por la oportunidad de aplicar sus habilidades y experiencia en un entorno empresarial.| Se siente orgulloso del progreso que el equipo ha logrado hasta ahora y está motivado para superar los desafíos restantes.| Se siente confiado en la calidad de la aplicación que están desarrollando y en su capacidad para entregar un producto final exitoso a la empresa cliente. |
 
 ## 3.2. User Stories.
 
