@@ -351,7 +351,8 @@ Segmento 2: El desarrollador experto esta liderando el desarrollo de una aplicac
 |HU10|Como desarrollador experto, quiero tener acceso a herramientas de análisis de rendimiento y calidad de código en la plataforma de aprendizaje para mejorar la calidad de mis aplicaciones.|El usuario busca herramientas de análisis de rendimiento y calidad de código que le permitan identificar y corregir problemas en sus aplicaciones móviles para mejorar su calidad y rendimiento.|
 ## 3.3. Impact Mapping.
 
-![Impact Mapping](image.jpg)
+![Impact Mapping]<img src="assets/images/impact-map.jpg" alt="Mapa de impacto" style="width:100%;">
+
 
 ## 3.4. Product Backlog.
 
