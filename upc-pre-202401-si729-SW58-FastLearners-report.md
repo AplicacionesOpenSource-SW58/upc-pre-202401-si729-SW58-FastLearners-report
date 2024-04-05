@@ -467,31 +467,117 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
-la pagina donde te registras y ves info del web app (te manda al web app)
 
-Wireframe es todo lo funcional de la pagina
-![Landing page Wireframe](image.jpg)
+Desktop Wireframe: 
+
+<img src="assets/images/capituloIV/LandingPageWF1.png" alt="Landing Page WF" style="width:100%;">
+
+<img src="assets/images/capituloIV/LandingPageWF2.png" alt="Landing Page WF" style="width:100%;">
+
+<img src="assets/images/capituloIV/LandingPageWF3.png" alt="Landing Page WF" style="width:100%;">
+
+<img src="assets/images/capituloIV/LandingPageWF4.png" alt="Landing Page WF" style="width:100%;">
+
+Mobile Wireframe: 
+
+<img src="assets/images/capituloIV/LandingPageWFM1.png" alt="Landing Page WF" style="width:80%;">
+
+<img src="assets/images/capituloIV/LandingPageWFM2.png" alt="Landing Page WF" style="width:80%;">
+
 
 ### 4.3.2. Landing Page Mock-up.
-Mockup es todo lo relacionado al diseño de la pagina
-![Landing page mockup](image.jpg)
+
+Desktop Mockup:
+
+<img src="assets/images/capituloIV/LandingPageMK1.png" alt="Landing Page MK" style="width:100%;">
+
+<img src="assets/images/capituloIV/LandingPageMK2.png" alt="Landing Page MK" style="width:100%;">
+
+<img src="assets/images/capituloIV/LandingPageMK3.png" alt="Landing Page MK" style="width:100%;">
+
+<img src="assets/images/capituloIV/LandingPageMK4.png" alt="Landing Page MK" style="width:100%;">
+
+Mobile Mockup: 
+
+<img src="assets/images/capituloIV/LandingPageMKM1.png" alt="Landing Page MK" style="width:80%;">
+
+<img src="assets/images/capituloIV/LandingPageMKM2.png" alt="Landing Page MK" style="width:80%;">
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
-lo funcional de cada aspecto del wireframe 
-![Web Aplication Wireframe](image.jpg)
+
+Desktop Wireframes: 
+
+<img src="assets/images/capituloIV/WebAppWF1.png" alt="WebApp WF" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppWF2.png" alt="WebApp WF" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppWF3.png" alt="WebApp WF" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppWF4.png" alt="WebApp WF" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppWF5.png" alt="WebApp WF" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppWF6.png" alt="WebApp WF" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppWF7.png" alt="WebApp WF" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppWF8.png" alt="WebApp WF" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppWF9.png" alt="WebApp WF" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppWF10.png" alt="WebApp WF" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppWF11.png" alt="WebApp WF" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppWF12.png" alt="WebApp WF" style="width:100%;">
+
+Mobile Wireframes: 
+
+<img src="assets/images/capituloIV/WebAppWFM1.png" alt="WebApp WF" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppWFM2.png" alt="WebApp WF" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppWFM3.png" alt="WebApp WF" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppWFM4.png" alt="WebApp WF" style="width:100%;">
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
-Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
-![Web Aplication Wireflow](image.jpg)
+
+User Wireflow Diagram: 
+
 
 ### 4.4.2. Web Applications Mock-ups.
-Diseño en todo aspecto
-![Web Aplication Mockup](image.jpg)
+
+<img src="assets/images/capituloIV/WebAppMK1.png" alt="WebApp MK" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppMK2.png" alt="WebApp MK" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppMK3.png" alt="WebApp MK" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppMK4.png" alt="WebApp MK" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppMK5.png" alt="WebApp MK" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppMK6.png" alt="WebApp MK" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppMK7.png" alt="WebApp MK" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppMK8.png" alt="WebApp MK" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppMK9.png" alt="WebApp MK" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppMK10.png" alt="WebApp MK" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppMK11.png" alt="WebApp MK" style="width:100%;">
+
+<img src="assets/images/capituloIV/WebAppMK12.png" alt="WebApp MK" style="width:100%;">
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
-![Web Aplication User Flow Diagram](image.jpg)
+
+<img src="assets/images/capituloIV/UserFlowDiagram.png" alt="User Flow Diagram" style="width:100%;"> 
 
 ## 4.5. Web Applications Prototyping.
 [URL del Prototipo (Hecho en figma)](https://www.example.com)
