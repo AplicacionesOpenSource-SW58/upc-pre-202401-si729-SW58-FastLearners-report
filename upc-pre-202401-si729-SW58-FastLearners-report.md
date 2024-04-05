@@ -647,8 +647,21 @@ Un diagrama de base de datos es una herramienta visual que representa la estruct
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
-Especificaciones de donde vamos a hacer el proyecto (vscode supongo)
-extensiones tmbn? nose bn q quieren aca
+### Requirements Management
+    1. Canva: Es una herramienta de diseño utilizada para realizar los user persona y los empathy mapping de nuestros segmentos. Esta aplicacion esta basada en un sistema de diseño simple en el cual puedes mover y editar         objetos para lograr el objetivo de diseñas nuestras piezas escenciales de analisis de mercado para nuestra aplicacion. Ruta de referencia: <https://www.canva.com/es_es/>
+    2. Vertabelo: Plataforma basada en creacion, gestion y realizacion de graficos para organizar las herencias y dependencias de nuestros programas y/o bases de datos. Como en nuestro caso fue implementada para realizar         nuestros Class Diagrams y nuestra Database Diagrams. Ruta de referencia <https://vertabelo.com/>
+    3. Figma: Plataforma de elaboracion de prototipos y edicion grafica, que usamos principalmente para nuestra Landing Page y Web Aplication, tanto para los Wireframes y los Mock-ups, al igual que para nuestros Wireflow         Diagrams. Ruta de referencia: <https://www.figma.com/>
+### Software Development
+    1. JetBrains WebStorm: Entorno de desarrollo especializado al desarrollo web, usando accesos mas simples de prubas en diferentes navegadores web, como Chrome, Microsoft Edge, Safari y Mozilla Firefox. Usar este IDE           nos agrega un valor para el desarrollo de nuestro proyecto dado que nos brinda la posibilidad de experimentar como funciona nuestro desarrollo en diferentes plataformas , al igual que soporte en la edicion del            codigo en los lenguajes de programacion soportados por este mismo. Ruta de referencia <https://www.jetbrains.com/es-es/webstorm/>
+    2. HTML5: Este lenguaje de etiquetado para paginas web, tambien conocido como HyperText Markup Language. Es empleado para nuestro desarrollo del proyecto para la implementacion del contenido de la aplicacion. Ruta de         referencia: <https://www.w3schools.com/html/> 
+    3. CSS: Este lenguaje va de la mano con HTML5 dandonos la opcion de personalizacion de estilos, tambien es conocido como Cascading Style Sheets. Ruta de referencia: <https://developer.mozilla.org/es/docs/Web/CSS>
+    4. JavaScript: Lenguaje de programacion interpretado y orientado a objetos. Se usará para elaborar la interfaz de usuario. Ruta de referencia: <https://developer.mozilla.org/es/docs/Web/JavaScript>
+### Software Deployment
+    1. Git: Software de control de versiones, pensado en ayudar a la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicacion. Los miembros del equipo accederán por medio de linea de  
+       comandos en su consola. Ruta de referencia: <https://git-scm.com/>
+### Software Documentation and Project Management
+    1. Github: Plataforma en la cual podemos alojar nuestros proyectos utilizando el control de versiones de Git todo por medio de repositorios. Esto nos facilitará la colaboracion en tiempo real y la revision de         
+       nuestros aportes al proyecto por parte de cada miembro del equipo. Ruta de referencia <https://github.com/>
 ### 5.1.2. Source Code Management.
 El gitjab donde tengamos el proyecto
 ### 5.1.3. Source Code Style Guide & Conventions.
