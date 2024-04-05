@@ -2,7 +2,7 @@
 
 # INGENIERÍA DE SISTEMAS DE SOFTWARE
 
-## CURSO: SI729 Aplicacioes Open Source | SECCIÓN SW58
+## CURSO: SI729 Aplicaciones Open Source | SECCIÓN SW58
  Profesor: Efrain Ricardo Bautista Ubillus
 
 # Informe de TB1
