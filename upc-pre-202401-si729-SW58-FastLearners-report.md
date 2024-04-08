@@ -753,8 +753,57 @@ URL para acceder a nuestra organizacionh de GitHub <https://github.com/Aplicacio
 ### 5.1.3. Source Code Style Guide & Conventions.
 Que usamos con css (en caso usemos software para SASS)
 supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
+El Lenguaje de Marcado de Hipertexto (HTML) es fundamental para estructurar y presentar el contenido en páginas web. La convención comúnmente utilizada para la página principal de un sitio web es nombrarla index.html.
+Aquí están algunas convenciones clave para el uso de HTML:
+1.	Utilizar nombres de elementos en minúsculas para mantener la consistencia y la legibilidad del código.
+2.	Cerrar todos los elementos en HTML, es una buena práctica hacerlo para evitar problemas de compatibilidad y mejorar la claridad del código.
+3.	Escribir comentarios cortos en una sola línea para una mayor claridad y organización del código.
+4.	Evitar líneas de código excesivamente largas y agregar espacios en blanco solo cuando sea necesario para mejorar la organización del código.
+5.	Nunca omitir elementos importantes como <title>, <html>, <body>, y <head>, ya que desempeñan un papel crucial en la estructura y el contenido de la página.
+6.	Incluir el atributo lang dentro de la etiqueta <html> para especificar el idioma de la página.
+7.	Es importante especificar atributos como alt, ancho y altura para las imágenes para mejorar la accesibilidad y reducir el parpadeo.
+8.	Evitar el uso de espacios alrededor de los signos en HTML para una mejor legibilidad.
+9.	Es importante agregar siempre el elemento <meta> en todas las páginas para configurar la ventana gráfica de manera óptima.
+
+Cascading Style Sheets (CSS) es un lenguaje utilizado para dar estilo y diseñar páginas web. Se considera una buena práctica seguir ciertas convenciones al escribir CSS para garantizar un código limpio y mantenible.
+A continuación, se presentan algunas convenciones importantes para el uso de CSS:
+1.	Mantener una nomenclatura coherente para clases, IDs y selectores, lo que facilita la comprensión del código para otros desarrolladores.
+2.	Utiliza una indentación consistente y espacios en blanco para mejorar la legibilidad, incluyendo espacios después de los dos puntos en las reglas CSS.
+3.	Emplea comentarios para documentar el código.
+4.	Agrupa propiedades CSS relacionadas para una mejor organización del código.
+5.	Evita selectores demasiado específicos que puedan causar conflictos o complicaciones a largo plazo.
+6.	Usa prefijos vendor de manera coherente para asegurar compatibilidad con distintos navegadores.
+7.	Optimiza el código CSS evitando la duplicación de reglas y combinando propiedades similares.
+8.	Realiza pruebas en diversos navegadores y dispositivos para asegurar la consistencia del diseño, y valida el código CSS para evitar posibles errores de sintaxis mediante herramientas como el validador de CSS de W3C.
+
+El lenguaje de programación JavaScript se utiliza para agregar interactividad y dinamismo a las páginas web. Al igual que con HTML y CSS, es importante seguir convenciones al escribir JavaScript para mantener un código claro y fácilmente mantenible. A continuación, se presentan algunas pautas importantes:
+1.	Utiliza una nomenclatura consistente para variables, funciones y nombres de objetos en JavaScript.
+2.	Mantén una indentación uniforme y utiliza espacios en blanco de manera adecuada para mejorar la legibilidad. Esto incluye dejar un espacio después de palabras clave como if, for, function, etc.
+3.	Emplea comentarios para explicar la lógica detrás de ciertas partes del código. 
+4.	Minimiza el uso de variables globales y prefiere el uso de ámbitos locales siempre que sea posible. 
+5.	Asegúrate de manejar adecuadamente los errores y excepciones en tu código utilizando bloques try-catch o manejo de errores adecuado para garantizar una experiencia de usuario más robusta y libre de errores.
+6.	Utiliza técnicas de optimización como el caching, la minimización y la concatenación de archivos para mejorar el rendimiento del código y reducir los tiempos de carga de la página.
+7.	Realiza pruebas exhaustivas de tu código JavaScript en diferentes navegadores y dispositivos para asegurarte de que funcione correctamente en todas las plataformas.
+
+Gherkin es un lenguaje simple y estructurado diseñado para escribir escenarios de prueba en un formato legible para humanos. Utiliza palabras clave predefinidas para describir el comportamiento del software, lo que facilita la colaboración entre los miembros del equipo técnico y no técnico
+1.	Utiliza un lenguaje claro y comprensible para describir los escenarios en Gherkin, asegurándote de que sean fáciles de entender para todos los miembros del equipo.
+2.	Mantén una estructura coherente en tus archivos de características de Gherkin, utilizando palabras clave como Feature, Scenario, Given, When, Then, y And de manera consistente para mantener la legibilidad.
+3.	Describe los escenarios de manera detallada, utilizando las palabras clave como Given, When, y Then para proporcionar información clara sobre el estado inicial, las acciones y los resultados esperados.
+4.	Identifica patrones comunes en tus escenarios y reutiliza pasos de escenarios existentes utilizando la palabra clave And para mantener la concisión y evitar la duplicación de código.
+5.	Evita la inclusión de pasos redundantes o irrelevantes en tus escenarios de Gherkin para mantenerlos concisos y enfocados en los aspectos importantes del comportamiento del sistema.
+6.	Utiliza comentarios para proporcionar contexto adicional o explicaciones sobre tus escenarios de Gherkin, especialmente útiles para explicar decisiones de diseño o comportamientos complejos.
+7.	Colabora con otros miembros del equipo para revisar y refinar tus escenarios de Gherkin, asegurándote de que sean comprensibles y reflejen con precisión los requisitos del negocio.
+
 ### 5.1.4. Software Deployment Configuration.
 Configuraciones de donde y como deployeamos el proyecto
+
+Netlify es una plataforma de alojamiento web y despliegue continuo que simplifica el proceso de lanzamiento de sitios web y aplicaciones estáticas. Ofrece y funciona de la siguiente manera:
+
+1. Se sincroniza con repositorios Git como GitHub, GitLab y Bitbucket. Al actualizar tu código y subirlo al repositorio, Netlify inicia automáticamente la construcción y publicación del sitio.
+2. Emplea un sistema automatizado para transformar tu código (HTML, CSS, JavaScript) en un sitio estático. Durante la construcción, realiza tareas como compilar archivos y optimizar imágenes. Finalizada la construcción, despliega el sitio a través de su red CDN global.
+3. Permite generar vistas previas automáticas para cada rama de tu repositorio, lo que facilita la visualización de cambios antes de integrarlos a la rama principal, favoreciendo la colaboración y revisión de código.
+4. Netlify facilita la configuración de publicaciones automáticas para cada pull request o fusión en tu repositorio, activando la construcción y publicación con cada actualización, manteniendo tu sitio al día con la última versión del código.de construcción y despliegue, asegurando que tu sitio esté siempre actualizado con la última versión de tu código.
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.X. Sprint n
 #### 5.2.X.1. Sprint Planning n.
