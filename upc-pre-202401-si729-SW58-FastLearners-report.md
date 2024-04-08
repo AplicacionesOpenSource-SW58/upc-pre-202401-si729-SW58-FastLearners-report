@@ -468,17 +468,21 @@ Luego de haber iniciado sesión, el usuario accederá a un menú de carácter je
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 
-Desktop Wireframe: 
+#### Desktop Wireframe: 
 
+Página principal:
 <img src="assets/images/capituloIV/LandingPageWF1.png" alt="Landing Page WF" style="width:100%;">
 
+Acerca de nosotros: 
 <img src="assets/images/capituloIV/LandingPageWF2.png" alt="Landing Page WF" style="width:100%;">
 
+Planes de suscripción:
 <img src="assets/images/capituloIV/LandingPageWF3.png" alt="Landing Page WF" style="width:100%;">
 
+Conoce más:
 <img src="assets/images/capituloIV/LandingPageWF4.png" alt="Landing Page WF" style="width:100%;">
 
-Mobile Wireframe: 
+#### Mobile Wireframe: 
 
 <img src="assets/images/capituloIV/LandingPageWFM1.png" alt="Landing Page WF" style="width:80%;">
 
@@ -487,17 +491,21 @@ Mobile Wireframe:
 
 ### 4.3.2. Landing Page Mock-up.
 
-Desktop Mockup:
+#### Desktop Mockup:
 
+Página principal:
 <img src="assets/images/capituloIV/LandingPageMK1.png" alt="Landing Page MK" style="width:100%;">
 
+Acerca de nosotros: 
 <img src="assets/images/capituloIV/LandingPageMK2.png" alt="Landing Page MK" style="width:100%;">
 
+Planes de suscripción: 
 <img src="assets/images/capituloIV/LandingPageMK3.png" alt="Landing Page MK" style="width:100%;">
 
+Conoce más:
 <img src="assets/images/capituloIV/LandingPageMK4.png" alt="Landing Page MK" style="width:100%;">
 
-Mobile Mockup: 
+#### Mobile Mockup: 
 
 <img src="assets/images/capituloIV/LandingPageMKM1.png" alt="Landing Page MK" style="width:80%;">
 
@@ -506,33 +514,45 @@ Mobile Mockup:
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 
-Desktop Wireframes: 
+#### Desktop Wireframes: 
 
+Inicio de sesión:
 <img src="assets/images/capituloIV/WebAppWF1.png" alt="WebApp WF" style="width:100%;">
 
+Registro de usuario:
 <img src="assets/images/capituloIV/WebAppWF2.png" alt="WebApp WF" style="width:100%;">
 
+Planes de suscripción: 
 <img src="assets/images/capituloIV/WebAppWF3.png" alt="WebApp WF" style="width:100%;">
 
+Añadir pago por tarjeta:
 <img src="assets/images/capituloIV/WebAppWF4.png" alt="WebApp WF" style="width:100%;">
 
+Menu Principal:
 <img src="assets/images/capituloIV/WebAppWF5.png" alt="WebApp WF" style="width:100%;">
 
+Foro de la comunidad:
 <img src="assets/images/capituloIV/WebAppWF6.png" alt="WebApp WF" style="width:100%;">
 
+Buscador de repositorios y documentos: 
 <img src="assets/images/capituloIV/WebAppWF7.png" alt="WebApp WF" style="width:100%;">
 
+Portal de material multimedia:
 <img src="assets/images/capituloIV/WebAppWF8.png" alt="WebApp WF" style="width:100%;">
 
+Configuración de cuenta (Usuario):
 <img src="assets/images/capituloIV/WebAppWF9.png" alt="WebApp WF" style="width:100%;">
 
+Crear repositorio: 
 <img src="assets/images/capituloIV/WebAppWF10.png" alt="WebApp WF" style="width:100%;">
 
+Subir contenido (Docentes):
 <img src="assets/images/capituloIV/WebAppWF11.png" alt="WebApp WF" style="width:100%;">
 
+Configuración de cuenta (Docentes):
 <img src="assets/images/capituloIV/WebAppWF12.png" alt="WebApp WF" style="width:100%;">
 
-Mobile Wireframes: 
+#### Mobile Wireframes: 
 
 <img src="assets/images/capituloIV/WebAppWFM1.png" alt="WebApp WF" style="width:100%;">
 
@@ -548,39 +568,55 @@ Mobile Wireframes:
 User Wireflow Diagram: 
 
 
-### 4.4.2. Web Applications Mock-ups.
+### 4.4.3. Web Applications Mock-ups.
 
+Inicio de sesión:
 <img src="assets/images/capituloIV/WebAppMK1.png" alt="WebApp MK" style="width:100%;">
 
+Registro de usuario:
 <img src="assets/images/capituloIV/WebAppMK2.png" alt="WebApp MK" style="width:100%;">
 
+Planes de suscripción: 
 <img src="assets/images/capituloIV/WebAppMK3.png" alt="WebApp MK" style="width:100%;">
 
+Añadir pago por tarjeta:
 <img src="assets/images/capituloIV/WebAppMK4.png" alt="WebApp MK" style="width:100%;">
 
+Menu Principal:
 <img src="assets/images/capituloIV/WebAppMK5.png" alt="WebApp MK" style="width:100%;">
 
+Foro de la comunidad:
 <img src="assets/images/capituloIV/WebAppMK6.png" alt="WebApp MK" style="width:100%;">
 
+Buscador de repositorios y documentos: 
 <img src="assets/images/capituloIV/WebAppMK7.png" alt="WebApp MK" style="width:100%;">
 
+Portal de material multimedia:
 <img src="assets/images/capituloIV/WebAppMK8.png" alt="WebApp MK" style="width:100%;">
 
+Configuración de cuenta (Usuario):
 <img src="assets/images/capituloIV/WebAppMK9.png" alt="WebApp MK" style="width:100%;">
 
+Crear repositorio: 
 <img src="assets/images/capituloIV/WebAppMK10.png" alt="WebApp MK" style="width:100%;">
 
+Subir contenido (Docentes):
 <img src="assets/images/capituloIV/WebAppMK11.png" alt="WebApp MK" style="width:100%;">
 
+Configuración de cuenta (Docentes):
 <img src="assets/images/capituloIV/WebAppMK12.png" alt="WebApp MK" style="width:100%;">
 
-### 4.4.3. Web Applications User Flow Diagrams.
-un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
+### 4.4.4. Web Applications User Flow Diagrams.
 
 <img src="assets/images/capituloIV/UserFlowDiagram.png" alt="User Flow Diagram" style="width:100%;"> 
 
 ## 4.5. Web Applications Prototyping.
-[URL del Prototipo (Hecho en figma)](https://www.example.com)
+
+Hemos desarrollado nuestro prototipo en la plataforma Figma: 
+
+<img src="assets/images/capituloIV/Prototipo.png" alt="Prototipo" style="width:100%;">
+
+[**URL del Prototipo**](https://www.figma.com/proto/FjmNDVBcJHJAcdpC2si6uA/FastLearners-Landing-Page?page-id=0%3A1&type=design&node-id=10-658&viewport=749%2C-998%2C0.12&t=6fT1ovWasdWZVJ37-1&scaling=min-zoom&starting-point-node-id=10%3A658&show-proto-sidebar=1&mode=design)
 
 ## 4.6. Domain-Driven Software Architecture.
 El objetivo del Domain Driven Design (DDD) es alcanzar una comprensión mutua del ámbito del problema, fomentando una visión compartida del dominio en cuestión. Al adoptar un enfoque diferente, DDD facilita una colaboración más efectiva entre los desarrolladores y los expertos en el dominio, al tiempo que promueve el uso de un lenguaje común. Además de esto, DDD implica la aplicación de una serie de procedimientos, patrones y diagramas de arquitectura para alinear el software con el dominio y fortalecer su enfoque.
