@@ -562,11 +562,28 @@ Configuración de cuenta (Docentes):
 
 <img src="assets/images/capituloIV/WebAppWFM4.png" alt="WebApp WF" style="width:100%;">
 
-
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-User Wireflow Diagram: 
+**User Goal 1: Crear una cuenta**
+<img src="assets/images/capituloIV/UserGoal1.png" alt="WebApp WF" style="width:100%;">
 
+**User Goal 2: Iniciar Sesión**
+<img src="assets/images/capituloIV/UserGoal2.png" alt="WebApp WF" style="width:100%;">
+
+**User Goal 3: Navegar a la secciones de la plataforma**
+<img src="assets/images/capituloIV/UserGoal3.png" alt="WebApp WF" style="width:100%;">
+
+**User Goal 4: Configurar la cuenta** 
+<img src="assets/images/capituloIV/UserGoal4.png" alt="WebApp WF" style="width:100%;">
+
+**User Goal 5: Subir contenido (Docente)**
+<img src="assets/images/capituloIV/UserGoal5.png" alt="WebApp WF" style="width:100%;">
+
+**User Goal 6: Crear un repositorio (Alumno)**
+<img src="assets/images/capituloIV/UserGoal6.png" alt="WebApp WF" style="width:100%;">
+
+
+[URL del Lucid Chart](https://lucid.app/lucidchart/b1e318d4-eac0-4585-b525-7186b4613849/edit?viewport_loc=-9133%2C-2321%2C5759%2C1972%2C0_0&invitationId=inv_ec7ffff4-88dd-43ee-a6b4-9304ec2e9720)
 
 ### 4.4.3. Web Applications Mock-ups.
 
@@ -616,7 +633,7 @@ Hemos desarrollado nuestro prototipo en la plataforma Figma:
 
 <img src="assets/images/capituloIV/Prototipo.png" alt="Prototipo" style="width:100%;">
 
-[**URL del Prototipo**](https://www.figma.com/proto/FjmNDVBcJHJAcdpC2si6uA/FastLearners-Landing-Page?page-id=0%3A1&type=design&node-id=10-658&viewport=749%2C-998%2C0.12&t=6fT1ovWasdWZVJ37-1&scaling=min-zoom&starting-point-node-id=10%3A658&show-proto-sidebar=1&mode=design)
+[URL del Prototipo](https://www.figma.com/proto/FjmNDVBcJHJAcdpC2si6uA/FastLearners-Landing-Page?page-id=0%3A1&type=design&node-id=10-658&viewport=749%2C-998%2C0.12&t=6fT1ovWasdWZVJ37-1&scaling=min-zoom&starting-point-node-id=10%3A658&show-proto-sidebar=1&mode=design)
 
 ## 4.6. Domain-Driven Software Architecture.
 El objetivo del Domain Driven Design (DDD) es alcanzar una comprensión mutua del ámbito del problema, fomentando una visión compartida del dominio en cuestión. Al adoptar un enfoque diferente, DDD facilita una colaboración más efectiva entre los desarrolladores y los expertos en el dominio, al tiempo que promueve el uso de un lenguaje común. Además de esto, DDD implica la aplicación de una serie de procedimientos, patrones y diagramas de arquitectura para alinear el software con el dominio y fortalecer su enfoque.
