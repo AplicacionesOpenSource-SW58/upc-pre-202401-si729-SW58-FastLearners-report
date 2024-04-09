@@ -358,7 +358,16 @@ Segmento 2: El desarrollador experto esta liderando el desarrollo de una aplicac
 
 | #Orden | User Story ID | Titulo| Descripción| Story Points (1/2/3/5/8) |
 | ------ | ------------- | ----- | ---------- | ------------------------ |
-| 1      | HU01          | titulo his | desc  | 5                        |
+| 1      | HU01          | Curso Estructurado de HTML, CSS y JavaScript | Curso Estructurado de HTML, CSS y JavaScript | 3                      |
+|2|HU02|Entorno de Desarrollo en Línea	|Practicar escribiendo código en un entorno de desarrollo en línea para aplicar lo aprendido en el curso.|3|
+|3|HU03|Ejemplos de Código y Proyectos Simples	|Acceder a ejemplos de código y proyectos simples para estudiarlos y comprender cómo funcionan.	|2|
+|4|HU04|Retroalimentación sobre el Código	|Recibir retroalimentación sobre el código para corregir errores y mejorar habilidades de programación.	|2|
+|5|HU05|Comunidad en Línea	|Acceder a una comunidad en línea de otros desarrolladores principiantes para hacer preguntas y compartir conocimientos.	|3|
+|6|HU06|Recursos Avanzados de Desarrollo Móvil	|Acceder a recursos avanzados de desarrollo móvil en la plataforma para seguir mejorando habilidades.	|5|
+|7|HU07	|Colaboración en Proyectos de Código Abierto	|Colaborar con otros desarrolladores en proyectos de código abierto para contribuir a la comunidad.	|5|
+|8|HU08|Material de Estudio sobre Nuevas Tecnologías y Tendencias	|Acceder a material de estudio sobre nuevas tecnologías y tendencias en desarrollo móvil.	|3|
+|9|HU09|Retroalimentación sobre Arquitectura de Código y Diseño	|Recibir retroalimentación sobre arquitectura de código y diseño de la aplicación para mejorar calidad.	|3|
+|10|HU10|Herramientas de Análisis de Rendimiento y Calidad de Código	|Acceder a herramientas de análisis de rendimiento y calidad de código para mejorar aplicaciones.	|3|         
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
