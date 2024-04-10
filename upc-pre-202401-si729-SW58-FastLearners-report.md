@@ -1,6 +1,6 @@
 # UPC
 
-# INGENIERÍA DE SISTEMAS DE SOFTWARE
+# INGENIERÍA DE SOFTWARE
 
 ## CURSO: SI729 Aplicaciones Open Source | SECCIÓN SW58
  Profesor: Efrain Ricardo Bautista Ubillus
