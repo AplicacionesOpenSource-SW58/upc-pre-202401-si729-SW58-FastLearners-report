@@ -998,8 +998,11 @@ Para la realización de este Sprint no se ha considerado la evidencia de la docu
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Para este Sprint 1, hemos desplegado el landing page, como se dijo anteriormente, de manera parcial ya que no se logró implementar todo lo planeado.
-
-
+<img src="assets/images/PaginaPrincipal.png" alt="PaginaPrincipal" style="width:100%;">
+<img src="assets/images/SeccionSobreNosotros.png" alt="SobreNosotros" style="width:100%;">
+<img src="assets/images/SeccionConoceMas.png" alt="ConoceMas" style="width:100%;">
+<img src="assets/images/SeccionPlanesYSuscripciones.png" alt="PlanesYSuscripciones" style="width:100%;">
+Enlace para visualizar la landing page: <https://aplicacionesopensource-sw58.github.io/AplicacionesOpenSource-SW58-Landing-Page-FastLearners/>
 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
@@ -1016,13 +1019,22 @@ Para este Sprint 1, hemos desplegado el landing page, como se dijo anteriormente
 
 ![Ver todos los commits en GitHub](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/commits/main/)
 
-# Conclusiones
-{texto}
+
 # Conclusiones y recomendaciones.
-{texto}
+
+
 # Video About-the-Team.
 [URL del video about the team](https://www.example.com)
+
+
 # Bibliografía
+
+McKinsey & Company. (s.f.). New global data reveal education technology's impact on learning. Recuperado de https://www.mckinsey.com/industries/education/our-insights/new-global-data-reveal-education-technologys-impact-on-learning
+
+McKinsey & Company. (s.f.). Demand for online education is growing: Are providers ready? Recuperado de https://www.mckinsey.com/industries/education/our-insights/demand-for-online-education-is-growing-are-providers-ready
+
+The Brookings Institution. (s.f.). Realizing the promise: How can education technology improve learning for all? Recuperado de https://www.brookings.edu/articles/realizing-the-promise-how-can-education-technology-improve-learning-for-all/
+
 ``` 
 formato
 
@@ -1030,8 +1042,5 @@ formato
         "nombre del articulo o lo q sea, Volumen(si es que tiene), numero  de pagina"#-#. https//link.org/eeeseneko
 
 ```
+
 # Anexos
-
-datos, gráficos, imágenes, esquemas, mapas o referencias de otros autores
-
-![Imagen de algo no nuestro lol](image.jpg)
