@@ -957,17 +957,29 @@ En el primer Sprint Backlog, nuestro equipo se encargó de diseñar e implementa
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
-![Sprint review development Evidence](image.jpg)
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commit on (Date) |
+| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 4b9a2f | Added Header | Added Header | 01/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | d1ed71 | Added Section "Conoce Más" | Added Section "Conoce Más" | 02/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 5461b1 | Added Section "¡Suscríbete Ya!" | Added Section "¡Suscríbete Ya!" | 02/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 95e488 | Added Images | Added Images | 03/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 1951d4 | Added Section "Acerca de Nosotros" | Added Section "Acerca de Nosotros" | 04/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 059532 | Added Section "Planes de suscripción" | Added Section "Planes de suscripción" | 05/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 9e9d96 | Added Footer | Added Footer | 06/04/2024 |
 
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
-![Sprint review Testing suite Evidence](image.jpg)
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners |  |  |  |  | 08/04/2024 |
 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
-![Sprint review Execution Evidence](image.jpg)
+En el Sprint 1 logramos un desarrollo parcial de la planificación, diseño e implementación del landing page. En el mismo podemos encontrar las secciones que el usuario puede encontrar acerca de la StartUp y del producto que ofrecemos. A continuación se muestran las evidencias:
+
+1. Sección Sobre Nosotros
+En esta sección, el usuario puede ver los integrantes del equipo de desarrollo de FastLearners
+
 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
