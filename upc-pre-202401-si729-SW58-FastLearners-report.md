@@ -810,8 +810,8 @@ Un diagrama de base de datos es una herramienta visual que representa la estruct
    1. Github: Plataforma en la cual podemos alojar nuestros proyectos utilizando el control de versiones de Git todo por medio de repositorios. Esto nos facilitará la colaboracion en tiempo real y la revision de    nuestros aportes al proyecto por parte de cada miembro del equipo. Ruta de referencia <https://github.com/>
 ### 5.1.2. Source Code Management.
 El proyecto mantiene las convenciones de flujo establecido por el modelo GitFlow para el control de versiones usando GitHub como plataforma y sistema de control de versiones. Será compartido los URLs de nuestros repositorios en GitHub para nuestra Landing Page y seguirá siendo implementado en nuestros demás productos de nuesto proyecto.
-## Repositorio de GitHub:
-URL para acceder a nuestra organizacion de GitHub <https://github.com/AplicacionesOpenSource-SW58> 
+### Repositorio de GitHub:
+URL para acceder a nuestra organizacion de GitHub <https://github.com/AplicacionesOpenSource-SW58> <br>
 URL para acceder a nuestra Landing Page <https://github.com/AplicacionesOpenSource-SW58/Landing-Page-FastLearners>
 ### 5.1.3. Source Code Style Guide & Conventions.
 Que usamos con css (en caso usemos software para SASS)
