@@ -891,37 +891,44 @@ Dentro de la metodología Scrum, el Sprint es una iteración de tiempo fijo dura
 | Sum of Story Point | 6 |
 
 
-#### 5.2.X.2. Sprint Backlog 1.
+#### 5.2.1.2. Sprint Backlog 1.
 
 
-#### 5.2.X.3. Development Evidence for Sprint Review.
+#### 5.2.1.3. Development Evidence for Sprint Review.
 
 ![Sprint review development Evidence](image.jpg)
 
 
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
 ![Sprint review Testing suite Evidence](image.jpg)
 
 
-#### 5.2.X.5. Execution Evidence for Sprint Review.
+#### 5.2.1.5. Execution Evidence for Sprint Review.
 
 ![Sprint review Execution Evidence](image.jpg)
 
 
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-![Sprint review Services Documentation Evidence](image.jpg)
-
-
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
-
-![Sprint review Software Deployment Evidence](image.jpg)
+Para la realización de este Sprint no se ha considerado la evidencia de la documentación de servicios.
 
 
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
+Para este Sprint 1, hemos desplegado el landing page 
+
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+| Alumno | Actividad |
+| Javier Murillo, Mathias|  |
+| Orrego Noriega, Jorge David |  |
+| Ochoa Colonio, Carlos Alberto | Desarrollo del Capítulo I y elaboración de la Landing Page |
+| Pachas Chavez, Alejandro Alberto |  |
+| Mendez Rosales, Marco Aurelio |  |
+
+imagenes de colaboraciones github
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
