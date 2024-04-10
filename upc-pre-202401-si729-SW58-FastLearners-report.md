@@ -27,6 +27,7 @@
 
 ![URL del repositorio](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report)
 
+En el caso de Alejandro, sí trabajó pero hizo commits desde una cuenta que no estaba agregada a la organización. 
 
 # Student Outcome
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
