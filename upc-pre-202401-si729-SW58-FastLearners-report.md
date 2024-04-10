@@ -973,7 +973,7 @@ Para este Sprint 1, hemos desplegado el landing page
 
 <img src="assets/images/Commits.png" alt="Commits" style="width:100%;">
 
-![Ver todos los commits en GitHub]([https://www.example.com](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/commits/main/))
+![Ver todos los commits en GitHub](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/commits/main/)
 
 # Conclusiones
 {texto}
