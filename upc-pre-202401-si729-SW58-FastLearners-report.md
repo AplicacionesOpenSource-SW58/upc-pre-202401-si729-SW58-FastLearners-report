@@ -300,6 +300,7 @@ As Is:
 | Doing | Revisando los requisitos del proyecto y estableciendo objetivos| Diseñando la estructura de la aplicacion y estableciendo APIs | Dirigiendo al equipo, implementando funcionalidades | Realizando pruebas y depuracion del codigo |
 | Thinking | "¿Como podemos garantizar que la aplicacion cumpla con las expectativas del cliente?" | "¿Cual es la mejor manera de garantizar la estabilidad y eficiencia?" | "¿Como podemos optimizar el rendimiento de la aplicacion?" | "¿Que estrategias de prueba y depuracion utilizaremos?" |
 | Feeling  | Comprometido con el exito del proyecto | Concentrado en encontrar soluciones rapidas | Confianza en el equipo para cumplir con los plazos | Determinado a superar cualquier problema |
+
 ## 2.4. Ubiquitous Language.
 ```
 Desarrollador principiante:
@@ -325,14 +326,12 @@ Segmento 1: El desarrollador principiante esta aprendiendo a desarrollar aplicac
 | Feeling  |Se siente motivado por los desafíos que presenta el aprendizaje de nuevas tecnologías y está ansioso por seguir progresando.|Se siente satisfecho cuando logra comprender y aplicar correctamente los conceptos enseñados en el curso. | Se siente optimista sobre las oportunidades que se le presentarán una vez que domine HTML, CSS y JavaScript y pueda desarrollar sus propias aplicaciones web. |
 
 Segmento 2: El desarrollador experto esta liderando el desarrollo de una aplicacion movil para una empresa importante
+
 | Fases    |  fase 1 as is | fase 2| fase 3|
 | -------- | ------- | ---- | ---------------- |
 | Doing    | El desarrollador experto está liderando el desarrollo de una aplicación móvil para una empresa importante| Está coordinando con otros miembros del equipo, como diseñadores, desarrolladores y probadores, para asegurar que el proyecto avance según lo planeado.| Está coordinando con otros miembros del equipo, como diseñadores, desarrolladores y probadores, para asegurar que el proyecto avance según lo planeado.|
 | Thinking | Está pensando en la arquitectura y el diseño de la aplicación, asegurándose de que sea escalable, eficiente y fácil de mantener.| Está considerando las necesidades y expectativas del cliente para asegurarse de que la aplicación cumpla con sus requisitos y expectativas.| Está evaluando constantemente el progreso del proyecto y buscando formas de optimizar el proceso de desarrollo para cumplir con los plazos establecidos.| 
 | Feeling  | Se siente emocionado por liderar un proyecto importante y por la oportunidad de aplicar sus habilidades y experiencia en un entorno empresarial.| Se siente orgulloso del progreso que el equipo ha logrado hasta ahora y está motivado para superar los desafíos restantes.| Se siente confiado en la calidad de la aplicación que están desarrollando y en su capacidad para entregar un producto final exitoso a la empresa cliente. |
-
-
-
 
 
 ## 3.2. User Stories.
@@ -370,8 +369,7 @@ Segmento 2: El desarrollador experto esta liderando el desarrollo de una aplicac
 | HU30 | Colaborar en proyectos prácticos con otros usuarios | Como usuario de la plataforma, quiero poder colaborar en proyectos prácticos con otros usuarios para trabajar en equipo y aprender de manera colaborativa. | - Escenario 1: Los proyectos prácticos están diseñados para ser realizados por equipos de usuarios. - Escenario 2: Los usuarios pueden compartir código y recursos de manera segura dentro de la plataforma. | - |
 ## 3.3. Impact Mapping.
 
-![Impact Mapping]<img src="assets/images/impact-map.jpg" alt="Mapa de impacto" style="width:100%;">
-
+<img src="assets/images/impact-map.jpg" alt="Mapa de impacto" style="width:100%;">
 
 ## 3.4. Product Backlog.
 
@@ -685,27 +683,29 @@ Hemos desarrollado nuestro prototipo en la plataforma Figma:
 
 ## 4.6. Domain-Driven Software Architecture.
 El objetivo del Domain Driven Design (DDD) es alcanzar una comprensión mutua del ámbito del problema, fomentando una visión compartida del dominio en cuestión. Al adoptar un enfoque diferente, DDD facilita una colaboración más efectiva entre los desarrolladores y los expertos en el dominio, al tiempo que promueve el uso de un lenguaje común. Además de esto, DDD implica la aplicación de una serie de procedimientos, patrones y diagramas de arquitectura para alinear el software con el dominio y fortalecer su enfoque.
+
 ### 4.6.1. Software Architecture Context Diagram.
 1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
 se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
-
-2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que encapsula palabras clave en los procesos para poder diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock(gestion) y otro enfocado en los proveedores (suministros)]) Se hace como un brainstorm y se ve en que pueden conectarse o comunicarse [se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis)]
+2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que encapsula palabras clave en los procesos para poder diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock (gestion) y otro enfocado en los proveedores (suministros)) Se hace como un brainstorm y se ve en que pueden conectarse o comunicarse (se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis).
 <img src="assets/images/Context_Diagram.png" alt="ContextDiagram" style="width:90%">
    
 ### 4.6.2. Software Architecture Container Diagrams.
 1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP) 
 <img src="assets/images/Container_diagram.png" alt="ContainerDiagram" style="width:90%">
+
 ### 4.6.3. Software Architecture Components Diagrams.
 1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
 <img src="assets/images/Component_diagram.png" alt="ComponentDiagram" style="width:90%">
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 Un diagrama de clases es una representación visual de las clases de un sistema de software y las relaciones entre ellas. 
 <img src="assets/images/class_diagram.png" alt="ClassDiagram" style="width:90%">
 ### 4.7.2. Class Dictionary.
 Para el diccionario de clases, se presentan las más importantes
-# User
 
+### User
 User representa los datos que el usuario debe completar con su información para registrarse.
 
 | Atributo     | Descripción                              |
@@ -717,7 +717,7 @@ User representa los datos que el usuario debe completar con su información para
 | Email        | string - Correo del Usuario             |
 | PremiumUser  | bool - Usuario Premium o No             |
 
-## Métodos
+#### Métodos
 
 | Método                           | Descripción                                                    |
 |---------------------------------|----------------------------------------------------------------|
@@ -725,8 +725,7 @@ User representa los datos que el usuario debe completar con su información para
 | ChangeEmail(newEmail)           | void - Este método permite cambiar el correo del usuario       |
 | UpgradePremium(PremiumUser)     | void - Este método permite cambiar el estado del premium del usuario |
 
-# Organization
-
+### Organization
 Organization representa los datos de la organización creada por un usuario.
 
 | Atributo       | Descripción                                        |
@@ -738,7 +737,7 @@ Organization representa los datos de la organización creada por un usuario.
 | Users          | int - Cantidad de usuarios en la organización      |
 | Supervisor     | String - Nombre del supervisor de la organización  |
 
-## Métodos
+#### Métodos
 
 | Método                                | Descripción                                                         |
 |--------------------------------------|---------------------------------------------------------------------|
@@ -753,7 +752,7 @@ Organization representa los datos de la organización creada por un usuario.
 | downVoteQuestion(in question:Question) | void - Vota negativamente por una pregunta específica             |
 | SuperviseContent(in content:Content) | bool - Supervisa un contenido específico                            |
 
-# Question
+### Question
 
 Question representa la clase de pregunta sobre un contenido específico.
 
@@ -765,14 +764,14 @@ Question representa la clase de pregunta sobre un contenido específico.
 | Body          | string - Cuerpo o contenido de la pregunta            |
 | Author        | User - Usuario que ha creado la pregunta              |
 
-## Métodos
+#### Métodos
 
 | Método                               | Descripción                                                        |
 |-------------------------------------|--------------------------------------------------------------------|
 | editQuestion(in newBody:String)     | void - Edita el cuerpo de la pregunta con el nuevo contenido proporcionado |
 | addAnswer(in answer:Answer)         | void - Agrega una respuesta a la pregunta                         |
 
-# NotificationManager
+### NotificationManager
 
 NotificationManager representa la clase de control de las notificaciones.
 
@@ -782,14 +781,14 @@ NotificationManager representa la clase de control de las notificaciones.
 | author         | User - Usuario (objeto de tipo User) que creó la notificación       |
 | creationDate   | date - Fecha de creación de la notificación                         |
 
-## Métodos
+#### Métodos
 
 | Método                                | Descripción                                                      |
 |--------------------------------------|------------------------------------------------------------------|
 | sendNotification()                   | void - Envía la notificación                                    |
 | createNotification(in User, in title, in content, in date) | void - Crea una notificación con los parámetros especificados |
 
-# Notification
+### Notification
 
 Notification representa la clase de notificaciones.
 
@@ -800,7 +799,7 @@ Notification representa la clase de notificaciones.
 | content        | string - Contenido o mensaje de la notificación       |
 | date           | date - Fecha de la notificación                        |
 
-# PaymentCard
+### PaymentCard
 
 PaymentCard representa la clase del método de pago.
 
@@ -811,14 +810,14 @@ PaymentCard representa la clase del método de pago.
 | expireDate     | String - Fecha de vencimiento de la tarjeta de pago   |
 | SecurityCode   | int - Código de seguridad de la tarjeta de pago       |
 
-## Métodos
+#### Métodos
 
 | Método                | Descripción                                          |
 |-----------------------|------------------------------------------------------|
 | pay()                 | void - Realiza un pago utilizando esta tarjeta de pago |
 | assignToPayment()     | void - Asigna esta tarjeta de pago a un método de pago |
 
-# Membership
+### Membership
 
 Membership representa la clase del tipo de membresía.
 
@@ -929,7 +928,6 @@ Netlify es una plataforma de alojamiento web y despliegue continuo que simplific
 | Sprint 1 Velociy | 8 |
 | Sum of Story Point | 6 |
 
-
 #### 5.2.1.2. Sprint Backlog 1.
 
 En el primer Sprint Backlog, nuestro equipo se encargó de diseñar e implementar la landing page de manera funcional. Para la gestión de los equipos y para tener una mejor organización se usó la herramienta Jira Software de Atlassian. El objetivo de nuestro primer sprint era implementar la landing page de FastLearners en su totalidad, para que, de esta manera, se logre captar la atención del usuario. No obstante, por motivos de falta de tiempo y una organización que no resultó ser lo suficientemente adecuada solo se logró tener una landing page estática y con la mayoría de las páginas planeadas en los wireframes, pero no todas.
@@ -990,11 +988,9 @@ En esta sección, el usuario puede observar los demás recursos que le ofrecemos
 En esta sección, el usuario puede observar los planes de suscripción que ofrece FastLearners
 <img src="assets/images/SeccionPlanesYSuscripciones_001.png" alt="PlanesYSuscripciones" style="width:100%;">
 
-
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 Para la realización de este Sprint no se ha considerado la evidencia de la documentación de servicios.
-
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
@@ -1004,7 +1000,6 @@ Para este Sprint 1, hemos desplegado el landing page, como se dijo anteriormente
 <img src="assets/images/SeccionConoceMas_001.png" alt="ConoceMas" style="width:100%;">
 <img src="assets/images/SeccionPlanesYSuscripciones_001.png" alt="PlanesYSuscripciones" style="width:100%;">
 Enlace para visualizar la landing page: <https://aplicacionesopensource-sw58.github.io/AplicacionesOpenSource-SW58-Landing-Page-FastLearners/>
-
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
@@ -1020,40 +1015,20 @@ Enlace para visualizar la landing page: <https://aplicacionesopensource-sw58.git
 
 ![Ver todos los commits en GitHub](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/commits/main/)
 
-
 # Conclusiones y recomendaciones.
 
 ## Conclusiones (TB1)
 
-**Investigación y definición del proyecto**
-
-* Realizada investigación exhaustiva para comprender la problemática: necesidades específicas de programadores e ingenieros de software (segmentos objetivos). &nbsp;
-* Aplicado proceso Lean UX para refinar ideas del proyecto, optimizando experiencia de usuario y garantizando efectividad de soluciones. &nbsp;
-* Recopilados datos precisos mediante entrevistas con segmentos objetivo, obteniendo comprensión profunda de sus necesidades y preferencias. &nbsp;
-
-**Desarrollo técnico**
-
-* Seleccionadas herramientas, lenguajes de programación, frameworks y marcadores adecuados para el desarrollo del proyecto. &nbsp;
-* Estructurados repositorios utilizando GitHub, permitiendo control de versiones, facilitando trabajo colaborativo y asegurando integridad del código fuente. &nbsp;
-* Implementado Git Flow como flujo de trabajo para gestión del desarrollo, facilitando colaboración en equipo e integración de características y cambios. &nbsp;
-
 **Conclusiones específicas**
 
-* La plataforma permitirá la colaboración entre programadores e ingenieros de software para aprender (repositorios, documentación, videos educativos). &nbsp;
-* El modelo freemium desbloqueará características (nuevos repositorios, videos, documentación) con suscripción mensual. &nbsp;
 * La plataforma se encuentra en etapa temprana de desarrollo (prototipo funcional para crear repositorios, subir archivos y gestionar usuarios). &nbsp;
-* Validada la necesidad con entrevistas a programadores e ingenieros de software, quienes mostraron interés en la plataforma y sus funcionalidades. &nbsp;
-* Desarrollado un plan de negocio que define objetivos financieros, estrategia de marketing y modelo de pricing. &nbsp;
+* Logramos validar de manera eficaz la necesidad de nuestros usuarios con entrevistas a programadores e ingenieros de software, quienes mostraron interés en la plataforma y sus funcionalidades. &nbsp;
+* Hubo cierta dificultad para desarrollar el plan de negocios que pueda ser estable, dado que primero tenemos que asegurar el bienestar económico de la startup. &nbsp;
 * Creado un equipo de desarrollo con las habilidades y experiencia necesarias para llevar a cabo el proyecto. &nbsp;
 
 **Próximos pasos**
 
 * Completar el desarrollo de la plataforma (funcionalidades restantes e integración con herramientas de terceros). &nbsp;
-
-
-# Video About-the-Team.
-[URL del video about the team](https://www.example.com)
-
 
 # Bibliografía
 
