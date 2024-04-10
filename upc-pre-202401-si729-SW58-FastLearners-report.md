@@ -705,7 +705,7 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 Un diagrama de clases es una representación visual de las clases de un sistema de software y las relaciones entre ellas. 
-<img src="assets/images/Class_diagram.png" alt="ClassDiagram" style="width:90%">
+<img src="assets/images/class_diagram.png" alt="ClassDiagram" style="width:90%">
 ### 4.7.2. Class Dictionary.
 Para el diccionario de clases, se presentan las más importantes
 # User
