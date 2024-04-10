@@ -940,7 +940,7 @@ En el primer Sprint Backlog, nuestro equipo se encargó de diseñar e implementa
 
 | Sprint # | Sprint 1 |
 |----------|----------|
-| User Story | - | WorkItem/Task | - | - | - | - | - |
+| User Story |--| WorkItem/Task |--|--|--|--|--|
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
 |----|-------|----|-------|-------------|--------------------|-------------|------------------------------------------|
 | HU01 | Ver página de inicio atractiva | T01 | Diseño UI/UX de la página de inicio | Se realiza el diseño de interfaz de usuario para la pagina de inicio | 2 | Orrego Noriega, Jorge David | Done |
