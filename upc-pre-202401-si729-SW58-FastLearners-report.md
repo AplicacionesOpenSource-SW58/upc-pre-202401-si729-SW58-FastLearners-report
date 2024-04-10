@@ -1023,6 +1023,7 @@ Enlace para visualizar la landing page: <https://aplicacionesopensource-sw58.git
 # Conclusiones y recomendaciones.
 
 
+
 # Video About-the-Team.
 [URL del video about the team](https://www.example.com)
 
@@ -1034,13 +1035,5 @@ McKinsey & Company. (s.f.). New global data reveal education technology's impact
 McKinsey & Company. (s.f.). Demand for online education is growing: Are providers ready? Recuperado de https://www.mckinsey.com/industries/education/our-insights/demand-for-online-education-is-growing-are-providers-ready
 
 The Brookings Institution. (s.f.). Realizing the promise: How can education technology improve learning for all? Recuperado de https://www.brookings.edu/articles/realizing-the-promise-how-can-education-technology-improve-learning-for-all/
-
-``` 
-formato
-
-"Apellido", Ini.Ciales. & "otroAutor", O.A. (año). titulo del articulo.
-        "nombre del articulo o lo q sea, Volumen(si es que tiene), numero  de pagina"#-#. https//link.org/eeeseneko
-
-```
 
 # Anexos
