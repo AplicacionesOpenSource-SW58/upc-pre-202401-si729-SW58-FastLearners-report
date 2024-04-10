@@ -22,9 +22,11 @@
 | 0.0 | 25/03/2024 |Grupo 4 |Se crea el documento |
 
 # Project Report Collaboration Insights
-[URL del repositorio](xxx)
 
-(Imagenes de los commits cada entrega)
+<img src="assets/images/Commits TB1v2.png" alt="Commits TB1v2" style="width:100%;">
+
+![URL del repositorio](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report)
+
 
 # Student Outcome
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
