@@ -792,9 +792,13 @@ Membership representa la clase del tipo de membresía.
 ### 4.8.1. Database Diagram.
 Un diagrama de base de datos es una herramienta visual que representa la estructura y relaciones de una base de datos. Consta de tablas (entidades), donde cada tabla tiene columnas (atributos) que representan los diferentes tipos de datos que almacena.
 <img src="assets/images/db_diagram.png" alt="DatabaseDiagram" style="width:90%">
+
 # Capítulo V: Product Implementation, Validation & Deployment
+
 ## 5.1. Software Configuration Management.
+
 ### 5.1.1. Software Development Environment Configuration.
+
 ### Requirements Management
    1. Canva: Es una herramienta de diseño utilizada para realizar los user persona y los empathy mapping de nuestros segmentos. Esta aplicacion esta basada en un sistema de diseño simple en el cual puedes mover y editar         objetos para lograr el objetivo de diseñas nuestras piezas escenciales de analisis de mercado para nuestra aplicacion. Ruta de referencia: <https://www.canva.com/es_es/>
    2. Vertabelo: Plataforma basada en creacion, gestion y realizacion de graficos para organizar las herencias y dependencias de nuestros programas y/o bases de datos. Como en nuestro caso fue implementada para realizar         nuestros Class Diagrams y nuestra Database Diagrams. Ruta de referencia <https://vertabelo.com/>
@@ -868,22 +872,44 @@ Netlify es una plataforma de alojamiento web y despliegue continuo que simplific
 4. Netlify facilita la configuración de publicaciones automáticas para cada pull request o fusión en tu repositorio, activando la construcción y publicación con cada actualización, manteniendo tu sitio al día con la última versión del código.de construcción y despliegue, asegurando que tu sitio esté siempre actualizado con la última versión de tu código.
 
 ## 5.2. Landing Page, Services & Applications Implementation.
-### 5.2.X. Sprint n
-#### 5.2.X.1. Sprint Planning n.
-Explicar como vamos a plannear el sprint?
-#### 5.2.X.2. Sprint Backlog n.
+
+### 5.2.1. Sprint 1
+
+#### 5.2.1.1. Sprint Planning 1.
+Dentro de la metodología Scrum, el Sprint es una iteración de tiempo fijo durante la cual se lleva a cabo un conjunto de tareas predefinidas con el objetivo de agregar valor incremental al producto final, conocido como "Product Goal" (Schwaber, K. & Sutherland, J., 2020). Para el desarrollo de la plataforma FastLearners, hemos estructurado el proyecto en 4 sprints, considerando la complejidad y la envergadura de las funcionalidades a implementar.
+
+#### 5.2.X.2. Sprint Backlog 1.
+
 ![SprintBacklog n](image.jpg) Nica hago la tabla 
+
+
 #### 5.2.X.3. Development Evidence for Sprint Review.
+
 ![Sprint review development Evidence](image.jpg)
+
+
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review.
+
 ![Sprint review Testing suite Evidence](image.jpg)
+
+
 #### 5.2.X.5. Execution Evidence for Sprint Review.
+
 ![Sprint review Execution Evidence](image.jpg)
+
+
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+
 ![Sprint review Services Documentation Evidence](image.jpg)
+
+
 #### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+
 ![Sprint review Software Deployment Evidence](image.jpg)
+
+
 #### 5.2.X.8. Team Collaboration Insights during Sprint.
+
 ![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
 
 ## 5.3. Validation Interviews.
