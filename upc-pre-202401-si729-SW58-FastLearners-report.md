@@ -939,6 +939,7 @@ Netlify es una plataforma de alojamiento web y despliegue continuo que simplific
 En el primer Sprint Backlog, nuestro equipo se encargó de diseñar e implementar la landing page de manera funcional. Para la gestión de los equipos y para tener una mejor organización se usó la herramienta Jira Software de Atlassian. El objetivo de nuestro primer sprint era implementar la landing page de FastLearners en su totalidad, para que, de esta manera, se logre captar la atención del usuario. No obstante, por motivos de falta de tiempo y una organización que no resultó ser lo suficientemente adecuada solo se logró tener una landing page estática y con la mayoría de las páginas planeadas en los wireframes, pero no todas.
 
 | Sprint # | Sprint 1 |
+|----------|----------|
 | User Story | WorkItem/Task |
 
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
