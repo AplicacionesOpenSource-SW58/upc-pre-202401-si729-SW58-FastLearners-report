@@ -1026,6 +1026,32 @@ Enlace para visualizar la landing page: <https://aplicacionesopensource-sw58.git
 
 # Conclusiones y recomendaciones.
 
+## Conclusiones (TB1)
+
+**Investigación y definición del proyecto**
+
+* Realizada investigación exhaustiva para comprender la problemática: necesidades específicas de programadores e ingenieros de software (segmentos objetivos). &nbsp;
+* Aplicado proceso Lean UX para refinar ideas del proyecto, optimizando experiencia de usuario y garantizando efectividad de soluciones. &nbsp;
+* Recopilados datos precisos mediante entrevistas con segmentos objetivo, obteniendo comprensión profunda de sus necesidades y preferencias. &nbsp;
+
+**Desarrollo técnico**
+
+* Seleccionadas herramientas, lenguajes de programación, frameworks y marcadores adecuados para el desarrollo del proyecto. &nbsp;
+* Estructurados repositorios utilizando GitHub, permitiendo control de versiones, facilitando trabajo colaborativo y asegurando integridad del código fuente. &nbsp;
+* Implementado Git Flow como flujo de trabajo para gestión del desarrollo, facilitando colaboración en equipo e integración de características y cambios. &nbsp;
+
+**Conclusiones específicas**
+
+* La plataforma permitirá la colaboración entre programadores e ingenieros de software para aprender (repositorios, documentación, videos educativos). &nbsp;
+* El modelo freemium desbloqueará características (nuevos repositorios, videos, documentación) con suscripción mensual. &nbsp;
+* La plataforma se encuentra en etapa temprana de desarrollo (prototipo funcional para crear repositorios, subir archivos y gestionar usuarios). &nbsp;
+* Validada la necesidad con entrevistas a programadores e ingenieros de software, quienes mostraron interés en la plataforma y sus funcionalidades. &nbsp;
+* Desarrollado un plan de negocio que define objetivos financieros, estrategia de marketing y modelo de pricing. &nbsp;
+* Creado un equipo de desarrollo con las habilidades y experiencia necesarias para llevar a cabo el proyecto. &nbsp;
+
+**Próximos pasos**
+
+* Completar el desarrollo de la plataforma (funcionalidades restantes e integración con herramientas de terceros). &nbsp;
 
 
 # Video About-the-Team.
