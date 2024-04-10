@@ -111,16 +111,16 @@ Hemos identificado que la falta de una plataforma que integre efectivamente recu
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 - **Hipótesis 1:**<br>
-Estamos convencidos de que nuestra plataforma de automatización contribuirá a una reducción significativa de los fraudes inmobiliarios en Perú. Esperamos ver una disminución del 10% en el promedio de casos reportados de estafas inmobiliarias al finalizar el primer año. El indicador de éxito será la comparación de las estadísticas de fraude antes y después de la implementación de nuestra solución.
+Creemos que al ofrecer un catálogo de cursos específicos en tecnologías emergentes, podremos aumentar el interés y la retención de estudiantes de ingeniería de software y programación en nuestra plataforma. Verificaremos esto al medir el aumento en las horas de estudio registradas y las tasas de finalización de cursos relacionados con estas tecnologías dentro de los primeros seis meses de implementación
 
 - **Hipótesis 2:**<br>
-Creemos que la integración de tecnología Blockchain y Smart Contracts agilizará los procesos contractuales, incrementando tanto la velocidad como la transparencia para los usuarios. Nuestro objetivo es reducir el tiempo promedio de transacciones de compraventa en un 50%. Validaremos esta hipótesis si, después de seis meses, el tiempo promedio de procesamiento de contratos refleja esta mejora significativa.
+Creemos que la implementación de un sistema de mentorías y colaboraciones en proyectos reales incrementará la participación de los profesionales en tecnología que buscan transición y desarrollo de carrera. Esta hipótesis será confirmada si observamos un aumento del 20% en la interacción en los foros de discusión y en la participación en proyectos colaborativos tras tres meses de la puesta en marcha de la iniciativa
 
 - **Hipótesis 3:**<br>
-Suponemos que al formar alianzas estratégicas con la SUNARP y otras entidades gubernamentales para difundir nuestro servicio, fortaleceremos nuestra reputación y visibilidad en el mercado. Consideraremos que hemos alcanzado el éxito si logramos captar al menos 100 nuevos clientes en los primeros tres meses, y estos completan exitosamente sus procesos contractuales a través de nuestra plataforma.
+Creemos que al introducir funcionalidades de gamificación y recompensas por logros de aprendizaje, podremos aumentar la motivación y el compromiso de los usuarios más jóvenes. Podremos medir esto a través de un incremento del 15% en el acceso diario y el tiempo de permanencia en la plataforma por parte de los estudiantes dentro de un trimestre
 
 - **Hipótesis 4:**<br>
-Presumimos que implementar un sistema de calificaciones y reseñas para los usuarios en nuestra plataforma incrementará la confianza y satisfacción general. Este éxito se medirá por un aumento del 25% en la retención de usuarios y una valoración promedio de satisfacción superior a 4.5 sobre 5 en el curso de los primeros seis meses tras su implementación.
+Creemos que proporcionar certificaciones profesionales verificables y alineadas con la industria después de completar ciertos cursos, atraerá y retendrá a profesionales que buscan validar y exponer sus habilidades actualizadas. Confirmaremos el éxito si hay un aumento del 25% en la inscripción a estos cursos certificados y un seguimiento de la inserción laboral o avance profesional de los suscriptores en el transcurso de un año
 
 #### 1.2.2.4. Lean UX Canvas.
 - **Business Problem Statement:**<br>
