@@ -876,9 +876,9 @@ Netlify es una plataforma de alojamiento web y despliegue continuo que simplific
 ### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1.
-Dentro de la metodología Scrum, el Sprint es una iteración de tiempo fijo durante la cual se lleva a cabo un conjunto de tareas predefinidas con el objetivo de agregar valor incremental al producto final, conocido como "Product Goal" (Schwaber, K. & Sutherland, J., 2020). Para el desarrollo de la plataforma FastLearners, hemos estructurado el proyecto en 4 sprints, considerando la complejidad y la envergadura de las funcionalidades a implementar.
 
-| Sprint #1 | Sprint 1 |
+| Sprint # | Sprint 1 |
+|----------|----------|
 | Sprint Planning Background |
 | Date | 2024-04-04 |
 | Time | 08:38 PM |
@@ -892,7 +892,6 @@ Dentro de la metodología Scrum, el Sprint es una iteración de tiempo fijo dura
 
 
 #### 5.2.1.2. Sprint Backlog 1.
-
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
@@ -922,63 +921,15 @@ Para este Sprint 1, hemos desplegado el landing page
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 | Alumno | Actividad |
-| Javier Murillo, Mathias| (xxxxx) |
-| Orrego Noriega, Jorge David | (xxxxx) |
+|--------|-----------|
+| Javier Murillo, Mathias| Desarrollo del Capítulo II y desarrollo del Landing Page |
+| Orrego Noriega, Jorge David | Desarrollo del Capítulo IV (Style Guidelines, Information Architecture, Landing Page UI Design, Web Applications UX/UI Design, Web Applications Prototyping ) y V. Desarrollo de la Landing Page |
 | Ochoa Colonio, Carlos Alberto | Desarrollo del Capítulo I y elaboración de la Landing Page |
-| Pachas Chavez, Alejandro Alberto | (xxxxx) |
-| Mendez Rosales, Marco Aurelio | (xxxxx) |
+| Pachas Chavez, Alejandro Alberto | Desarrollo del Capítulo III y V|
+| Mendez Rosales, Marco Aurelio | Desarrollo del Capítulo IV (Domain-Driven Software Architecture, Software Object-Oriented Design, Database Design)|
 
 imagenes de colaboraciones github
 
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-**Preguntas generales:**
-
-1. ¿Cuál es su nombre? 
-2. ¿Qué edad tiene? 
-3. ¿A qué se dedica? 
-4. ¿[Opinion de idea de propuesta]? 
-
-**Entrevistas usuario segmento 2**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?  
-   
-**Entrevistas usuario segmento 2**
-1. ¿Lorem? 
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem? 
-### 5.3.2. Registro de Entrevistas.
-**Segmento 1**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
-
-**Segmento 2**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
-### 5.3.3. Evaluaciones según heurísticas.
-| HEURÍSTICA   | EVALUACIÓN ✅❌ | NOTA      |
-| --------------------------------------------- | ---------- | --------- |
-| Visibilidad del estado del sistema            |            | {texto}   |
-| Coincidencia entre el sistema y el mundo real |            | {texto}   |
-| Control y libertad del usuario                |            | {texto}   |
-| Consistencia y estándares                     |            | {texto}   |
-| Prevención de errores                         |            | {texto}   |
-| Mostrar antes que recordar                    |            | {texto}   |
-| Flexibilidad y eficiencia de uso              |            | {texto}   |
-| Diseño estético y minimalista                 |            | {texto}   |
-| Comunicar errores con facilidad               |            | {texto}   |
-| Ayuda y documentación                         |            | {texto}   |
-## 5.4. Video About-the-Product.
-[URL del video about the product](https://www.example.com)
 # Conclusiones
 {texto}
 # Conclusiones y recomendaciones.
