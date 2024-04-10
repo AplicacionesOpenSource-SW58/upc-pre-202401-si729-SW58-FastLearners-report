@@ -939,8 +939,8 @@ Netlify es una plataforma de alojamiento web y despliegue continuo que simplific
 En el primer Sprint Backlog, nuestro equipo se encargó de diseñar e implementar la landing page de manera funcional. Para la gestión de los equipos y para tener una mejor organización se usó la herramienta Jira Software de Atlassian. El objetivo de nuestro primer sprint era implementar la landing page de FastLearners en su totalidad, para que, de esta manera, se logre captar la atención del usuario. No obstante, por motivos de falta de tiempo y una organización que no resultó ser lo suficientemente adecuada solo se logró tener una landing page estática y con la mayoría de las páginas planeadas en los wireframes, pero no todas.
 
 | Sprint # | Sprint 1 |
-| User Story | WorkItem/Task |
-
+|----------|----------|
+| User Story | | WorkItem/Task | | | | | |
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
 |----|-------|----|-------|-------------|--------------------|-------------|------------------------------------------|
 | HU01 | Ver página de inicio atractiva | T01 | Diseño UI/UX de la página de inicio | Se realiza el diseño de interfaz de usuario para la pagina de inicio | 2 | Orrego Noriega, Jorge David | Done |
@@ -974,7 +974,7 @@ En el primer Sprint Backlog, nuestro equipo se encargó de diseñar e implementa
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
-| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners |  |  |  |  | 08/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners/Features | 21482d5 | Create Seccion Planes de Suscripcion | Create Seccion Planes de Suscripcion | 08/04/2024 |
 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
@@ -983,15 +983,15 @@ En el Sprint 1 logramos un desarrollo parcial de la planificación, diseño e im
 
 1. Sección Sobre Nosotros
 En esta sección, el usuario puede ver los integrantes del equipo de desarrollo de FastLearners
-<img src="assets/images/SeccionSobreNosotros.png" alt="SobreNosotros" style="width:100%;">
+<img src="assets/images/SeccionSobreNosotros_001.png" alt="SobreNosotros" style="width:100%;">
 
 2. Sección Conoce Más
 En esta sección, el usuario puede observar los demás recursos que le ofrecemos en nuestro sitio web, como videos educativos o el foro de la comunidad.
-<img src="assets/images/SeccionConoceMas.png" alt="ConoceMas" style="width:100%;">
+<img src="assets/images/SeccionConoceMas_001.png" alt="ConoceMas" style="width:100%;">
 
 3. Sección Planes y Suscripciones
 En esta sección, el usuario puede observar los planes de suscripción que ofrece FastLearners
-<img src="assets/images/SeccionPlanesYSuscripciones.png" alt="PlanesYSuscripciones" style="width:100%;">
+<img src="assets/images/SeccionPlanesYSuscripciones_001.png" alt="PlanesYSuscripciones" style="width:100%;">
 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
@@ -1003,9 +1003,9 @@ Para la realización de este Sprint no se ha considerado la evidencia de la docu
 
 Para este Sprint 1, hemos desplegado el landing page, como se dijo anteriormente, de manera parcial ya que no se logró implementar todo lo planeado.
 <img src="assets/images/PaginaPrincipal.png" alt="PaginaPrincipal" style="width:100%;">
-<img src="assets/images/SeccionSobreNosotros.png" alt="SobreNosotros" style="width:100%;">
-<img src="assets/images/SeccionConoceMas.png" alt="ConoceMas" style="width:100%;">
-<img src="assets/images/SeccionPlanesYSuscripciones.png" alt="PlanesYSuscripciones" style="width:100%;">
+<img src="assets/images/SeccionSobreNosotros_001.png" alt="SobreNosotros" style="width:100%;">
+<img src="assets/images/SeccionConoceMas_001.png" alt="ConoceMas" style="width:100%;">
+<img src="assets/images/SeccionPlanesYSuscripciones_001.png" alt="PlanesYSuscripciones" style="width:100%;">
 Enlace para visualizar la landing page: <https://aplicacionesopensource-sw58.github.io/AplicacionesOpenSource-SW58-Landing-Page-FastLearners/>
 
 
