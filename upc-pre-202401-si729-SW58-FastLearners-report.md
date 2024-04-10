@@ -29,8 +29,8 @@
 # Student Outcome
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Carlos Ochoa:<br> *TB1:*  Me enfoqué en el Startup Profile, la misión, la visión, los antecedentes y problemática de manera objetiva.<br> Jorge Orrego: <br> *TB1:*  Me encargué de realizar el diseño de la Landing Page y de la plataforma web.<br> Mathias Javier: <br> *TB1:*  wireframes de la Landing Page.<br> |Se evidenció la problemática y se identificó el segmento objetivo|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Carlos Ochoa:<br> *TB1:*  Desarrollé el apartado del Lean UX Process<br>  Jorge Orrego: <br> *TB1:*  Me encargué de realizar las guías para el diseño del sitio web. <br>Mathias Javier: <br> *TB1:*  Me encargué del Software Configuration Management <br>|Se logró desarrollar las hipotesis de negocio|
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Carlos Ochoa:<br> *TB1:*  Me enfoqué en el Startup Profile, la misión, la visión, los antecedentes y problemática de manera objetiva.<br> Jorge Orrego: <br> *TB1:*  Me encargué de realizar el diseño de la Landing Page y de la plataforma web.<br> Mathias Javier: <br> *TB1:*  wireframes de la Landing Page.<br> Marco Mendez: <br> *TB1:* Realice los diagramas de contexto, componentes y contenedores, además se finalizo el diagrama de clases y el diagrama de base de datos<br>|Se evidenció la problemática y se identificó el segmento objetivo|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Carlos Ochoa:<br> *TB1:*  Desarrollé el apartado del Lean UX Process<br>  Jorge Orrego: <br> *TB1:*  Me encargué de realizar las guías para el diseño del sitio web. <br>Mathias Javier: <br> *TB1:*  Me encargué del Software Configuration Management <br>Marco Mendez: <br> *TB1:* Realice los estilos del Source Code, sus guías y convenciones, además mostre la aplicación que se usara para el deployment de nuestra landing page|Se logró desarrollar las hipotesis de negocio|
 
 # Capítulo I: Introducción
 
@@ -940,7 +940,8 @@ En el primer Sprint Backlog, nuestro equipo se encargó de diseñar e implementa
 
 | Sprint # | Sprint 1 |
 |----------|----------|
-| User Story | | WorkItem/Task | | | | | |
+| User Story | WorkItem/Task |
+
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
 |----|-------|----|-------|-------------|--------------------|-------------|------------------------------------------|
 | HU01 | Ver página de inicio atractiva | T01 | Diseño UI/UX de la página de inicio | Se realiza el diseño de interfaz de usuario para la pagina de inicio | 2 | Orrego Noriega, Jorge David | Done |
@@ -974,7 +975,7 @@ En el primer Sprint Backlog, nuestro equipo se encargó de diseñar e implementa
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
-| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners/Features | 21482d5 | Create Seccion Planes de Suscripcion | Create Seccion Planes de Suscripcion | 08/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners/Features | 21482d5 | Added Aceptance Test | Added Aceptance Test | 08/04/2024 |
 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
