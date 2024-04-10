@@ -379,18 +379,38 @@ Segmento 2: El desarrollador experto esta liderando el desarrollo de una aplicac
 
 ## 3.4. Product Backlog.
 
-| #Orden | User Story ID | Titulo| Descripción| Story Points (1/2/3/5/8) |
-| ------ | ------------- | ----- | ---------- | ------------------------ |
-| 1      | HU01          | Curso Estructurado de HTML, CSS y JavaScript | Curso Estructurado de HTML, CSS y JavaScript | 3                      |
-|2|HU02|Entorno de Desarrollo en Línea	|Practicar escribiendo código en un entorno de desarrollo en línea para aplicar lo aprendido en el curso.|3|
-|3|HU03|Ejemplos de Código y Proyectos Simples	|Acceder a ejemplos de código y proyectos simples para estudiarlos y comprender cómo funcionan.	|2|
-|4|HU04|Retroalimentación sobre el Código	|Recibir retroalimentación sobre el código para corregir errores y mejorar habilidades de programación.	|2|
-|5|HU05|Comunidad en Línea	|Acceder a una comunidad en línea de otros desarrolladores principiantes para hacer preguntas y compartir conocimientos.	|3|
-|6|HU06|Recursos Avanzados de Desarrollo Móvil	|Acceder a recursos avanzados de desarrollo móvil en la plataforma para seguir mejorando habilidades.	|5|
-|7|HU07	|Colaboración en Proyectos de Código Abierto	|Colaborar con otros desarrolladores en proyectos de código abierto para contribuir a la comunidad.	|5|
-|8|HU08|Material de Estudio sobre Nuevas Tecnologías y Tendencias	|Acceder a material de estudio sobre nuevas tecnologías y tendencias en desarrollo móvil.	|3|
-|9|HU09|Retroalimentación sobre Arquitectura de Código y Diseño	|Recibir retroalimentación sobre arquitectura de código y diseño de la aplicación para mejorar calidad.	|3|
-|10|HU10|Herramientas de Análisis de Rendimiento y Calidad de Código	|Acceder a herramientas de análisis de rendimiento y calidad de código para mejorar aplicaciones.	|3|         
+| #Order | User Story ID | Título | Descripción | Story Points |
+|--------|---------------|--------|-------------|--------------|
+| 1 | HU01 | Ver página de inicio atractiva | Como usuario nuevo, quiero ver una página de inicio atractiva con información clara sobre las funcionalidades de la plataforma para entender rápidamente de qué se trata. | 5 |
+| 2 | HU02 | Registrarme rápidamente | Como usuario nuevo, quiero poder registrarme rápidamente en la plataforma con mi correo electrónico o a través de redes sociales para comenzar a usarla de inmediato. | 3 |
+| 3 | HU03 | Recibir correo de bienvenida | Como usuario nuevo, quiero recibir un correo electrónico de bienvenida después de registrarme en la plataforma para confirmar mi registro y proporcionarme información adicional sobre cómo empezar a usarla. | 2 |
+| 4 | HU04 | Buscar cursos y recursos | Como usuario nuevo, quiero poder buscar cursos y recursos de aprendizaje fácilmente desde la página de inicio para encontrar rápidamente lo que necesito. | 5 |
+| 5 | HU05 | Ver testimonios de usuarios | Como usuario nuevo, quiero ver testimonios de otros usuarios satisfechos en la página de inicio para tener una idea de la calidad de la plataforma y sentirme más seguro al usarla. | 2 |
+| 6 | HU06 | Acceder a sección de preguntas frecuentes | Como usuario nuevo, quiero tener acceso a una sección de preguntas frecuentes (FAQ) en la página de inicio para poder resolver rápidamente mis dudas sobre el funcionamiento de la plataforma. | 3 |
+| 7 | HU07 | Contactar con equipo de soporte | Como usuario nuevo, quiero poder contactar fácilmente con el equipo de soporte desde la página de inicio en caso de tener algún problema o pregunta sobre la plataforma. | 3 |
+| 8 | HU08 | Acceder a curso estructurado | Como desarrollador principiante, quiero acceder a un curso estructurado de HTML, CSS y JavaScript en la plataforma de aprendizaje para aprender los fundamentos de la programación web. | 5 |
+| 9 | HU09 | Practicar escribiendo código | Como desarrollador principiante, quiero practicar escribiendo código en un entorno de desarrollo en línea para aplicar lo que aprendo en el curso. | 3 |
+| 10 | HU10 | Acceder a ejemplos de código y proyectos | Como desarrollador principiante, quiero acceder a ejemplos de código y proyectos simples para poder estudiarlos y comprender cómo funcionan. | 2 |
+| 11 | HU11 | Recibir retroalimentación sobre mi código | Como desarrollador principiante, quiero recibir retroalimentación sobre mi código para poder corregir errores y mejorar mis habilidades de programación. | 3 |
+| 12 | HU12 | Acceder a comunidad en línea | Como desarrollador principiante, quiero acceder a una comunidad en línea de otros desarrolladores para poder hacer preguntas y compartir conocimientos. | 2 |
+| 13 | HU13 | Acceder a recursos avanzados de desarrollo móvil | Como desarrollador experto, quiero tener acceso a recursos avanzados de desarrollo móvil en la plataforma de aprendizaje para seguir mejorando mis habilidades. | 5 |
+| 14 | HU14 | Colaborar en proyectos de código abierto | Como desarrollador experto, quiero poder colaborar con otros desarrolladores en proyectos de código abierto en la plataforma de aprendizaje para contribuir a la comunidad. | 3 |
+| 15 | HU15 | Mantenerme actualizado sobre nuevas tecnologías | Como desarrollador experto, quiero acceder a material de estudio sobre nuevas tecnologías y tendencias en desarrollo de aplicaciones móviles para mantener me actualizado. | 2 |
+| 16 | HU16 | Recibir retroalimentación sobre mi arquitectura de código y diseño | Como desarrollador experto, quiero recibir retroalimentación sobre mi arquitectura de código y diseño de la aplicación para mejorar la calidad y la eficiencia del desarrollo. | 3 |
+| 17 | HU17 | Acceder a herramientas de análisis de rendimiento y calidad de código | Como desarrollador experto, quiero tener acceso a herramientas de análisis de rendimiento y calidad de código en la plataforma de aprendizaje para mejorar la calidad de mis aplicaciones. | 5 |
+| 18 | HU18 | Acceder a tutoriales en video | Como desarrollador principiante, quiero acceder a tutoriales en video sobre programación web en la plataforma de aprendizaje para aprender de manera visual y práctica. | 3 |
+| 19 | HU19 | Realizar proyectos prácticos | Como desarrollador principiante, quiero realizar proyectos prácticos guiados en la plataforma de aprendizaje para aplicar los conocimientos adquiridos en el curso. | 2 |
+| 20 | HU20 | Acceder a recursos de referencia | Como desarrollador principiante, quiero acceder a recursos de referencia, como documentación oficial y libros recomendados, para profundizar en mis conocimientos de programación web. | 3 |
+| 21 | HU21 | Participar en sesiones de preguntas y respuestas en vivo | Como desarrollador principiante, quiero participar en sesiones de preguntas y respuestas en vivo con expertos en programación web para obtener consejos y orientación personalizada. | 2 |
+| 22 | HU22 | Acceder a cursos avanzados | Como desarrollador principiante, quiero acceder a cursos avanzados de programación web en la plataforma de aprendizaje para seguir mejorando mis habilidades y conocimientos. | 5 |
+| 23 | HU23 | Recibir recomendaciones personalizadas de cursos | Como usuario de la plataforma, quiero recibir recomendaciones personalizadas de cursos y recursos de aprendizaje basadas en mis intereses y habilidades para mejorar mi experiencia de aprendizaje. | 3 |
+| 24 | HU24 | Acceder a material de estudio descargable | Como usuario de la plataforma, quiero poder descargar material de estudio, como libros electrónicos y documentos PDF, para estudiar offline y en cualquier momento. | 2 |
+| 25 | HU25 | Participar en desafíos de programación | Como desarrollador principiante, quiero participar en desafíos de programación en la plataforma de aprendizaje para poner a prueba mis habilidades y competir con otros usuarios. | 3 |
+| 26 | HU26 | Acceder a material de estudio en varios idiomas | Como usuario de la plataforma, quiero acceder a material de estudio en varios idiomas para poder aprender en mi idioma nativo o practicar idiomas extranjeros. | 2 |
+| 27 | HU27 | Acceder a recursos de aprendizaje para personas con discapacidad | Como usuario de la plataforma con discapacidad, quiero acceder a recursos de aprendizaje adaptados a mis necesidades, como subtítulos en videos y lectura fácil, para poder aprender de manera efectiva. | 5 |
+| 28 | HU28 | Participar en eventos y conferencias virtuales | Como usuario de la plataforma, quiero poder participar en eventos y conferencias virtuales sobre programación web para ampliar mis conocimientos y conectar con otros profesionales del sector. | 3 |
+| 29 | HU29 | Acceder a recursos de aprendizaje sobre tecnologías emergentes | Como usuario de la plataforma, quiero acceder a recursos de aprendizaje sobre tecnologías emergentes en programación web, como inteligencia artificial y realidad virtual, para mantenerme actualizado en las últimas tendencias. | 2 |
+| 30 | HU30 | Colaborar en proyectos prácticos con otros usuarios | Como usuario de la plataforma, quiero poder colaborar en proyectos prácticos con otros usuarios para trabajar en equipo y aprender de manera colaborativa. | 3 |
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
