@@ -899,9 +899,9 @@ Netlify es una plataforma de alojamiento web y despliegue continuo que simplific
 ### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1.
-Dentro de la metodología Scrum, el Sprint es una iteración de tiempo fijo durante la cual se lleva a cabo un conjunto de tareas predefinidas con el objetivo de agregar valor incremental al producto final, conocido como "Product Goal" (Schwaber, K. & Sutherland, J., 2020). Para el desarrollo de la plataforma FastLearners, hemos estructurado el proyecto en 4 sprints, considerando la complejidad y la envergadura de las funcionalidades a implementar.
 
-| Sprint #1 | Sprint 1 |
+| Sprint # | Sprint 1 |
+|----------|----------|
 | Sprint Planning Background |
 | Date | 2024-04-04 |
 | Time | 08:38 PM |
@@ -914,87 +914,45 @@ Dentro de la metodología Scrum, el Sprint es una iteración de tiempo fijo dura
 | Sum of Story Point | 6 |
 
 
-#### 5.2.X.2. Sprint Backlog 1.
+#### 5.2.1.2. Sprint Backlog 1.
 
-
-#### 5.2.X.3. Development Evidence for Sprint Review.
+#### 5.2.1.3. Development Evidence for Sprint Review.
 
 ![Sprint review development Evidence](image.jpg)
 
 
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
 ![Sprint review Testing suite Evidence](image.jpg)
 
 
-#### 5.2.X.5. Execution Evidence for Sprint Review.
+#### 5.2.1.5. Execution Evidence for Sprint Review.
 
 ![Sprint review Execution Evidence](image.jpg)
 
 
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-![Sprint review Services Documentation Evidence](image.jpg)
-
-
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
-
-![Sprint review Software Deployment Evidence](image.jpg)
+Para la realización de este Sprint no se ha considerado la evidencia de la documentación de servicios.
 
 
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
+Para este Sprint 1, hemos desplegado el landing page 
 
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-**Preguntas generales:**
 
-1. ¿Cuál es su nombre? 
-2. ¿Qué edad tiene? 
-3. ¿A qué se dedica? 
-4. ¿[Opinion de idea de propuesta]? 
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
 
-**Entrevistas usuario segmento 2**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?  
-   
-**Entrevistas usuario segmento 2**
-1. ¿Lorem? 
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem? 
-### 5.3.2. Registro de Entrevistas.
-**Segmento 1**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
+| Alumno | Actividad |
+|--------|-----------|
+| Javier Murillo, Mathias| Desarrollo del Capítulo II y desarrollo del Landing Page |
+| Orrego Noriega, Jorge David | Desarrollo del Capítulo IV (Style Guidelines, Information Architecture, Landing Page UI Design, Web Applications UX/UI Design, Web Applications Prototyping ) y V. Desarrollo de la Landing Page |
+| Ochoa Colonio, Carlos Alberto | Desarrollo del Capítulo I y elaboración de la Landing Page |
+| Pachas Chavez, Alejandro Alberto | Desarrollo del Capítulo III y V|
+| Mendez Rosales, Marco Aurelio | Desarrollo del Capítulo IV (Domain-Driven Software Architecture, Software Object-Oriented Design, Database Design)|
 
-**Segmento 2**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
-### 5.3.3. Evaluaciones según heurísticas.
-| HEURÍSTICA   | EVALUACIÓN ✅❌ | NOTA      |
-| --------------------------------------------- | ---------- | --------- |
-| Visibilidad del estado del sistema            |            | {texto}   |
-| Coincidencia entre el sistema y el mundo real |            | {texto}   |
-| Control y libertad del usuario                |            | {texto}   |
-| Consistencia y estándares                     |            | {texto}   |
-| Prevención de errores                         |            | {texto}   |
-| Mostrar antes que recordar                    |            | {texto}   |
-| Flexibilidad y eficiencia de uso              |            | {texto}   |
-| Diseño estético y minimalista                 |            | {texto}   |
-| Comunicar errores con facilidad               |            | {texto}   |
-| Ayuda y documentación                         |            | {texto}   |
-## 5.4. Video About-the-Product.
-[URL del video about the product](https://www.example.com)
+imagenes de colaboraciones github
+
 # Conclusiones
 {texto}
 # Conclusiones y recomendaciones.
