@@ -983,15 +983,15 @@ En el Sprint 1 logramos un desarrollo parcial de la planificación, diseño e im
 
 1. Sección Sobre Nosotros
 En esta sección, el usuario puede ver los integrantes del equipo de desarrollo de FastLearners
-<img src="assets/images/SeccionSobreNosotros.png" alt="SobreNosotros" style="width:100%;">
+<img src="assets/images/SeccionSobreNosotros_001.png" alt="SobreNosotros" style="width:100%;">
 
 2. Sección Conoce Más
 En esta sección, el usuario puede observar los demás recursos que le ofrecemos en nuestro sitio web, como videos educativos o el foro de la comunidad.
-<img src="assets/images/SeccionConoceMas.png" alt="ConoceMas" style="width:100%;">
+<img src="assets/images/SeccionConoceMas_001.png" alt="ConoceMas" style="width:100%;">
 
 3. Sección Planes y Suscripciones
 En esta sección, el usuario puede observar los planes de suscripción que ofrece FastLearners
-<img src="assets/images/SeccionPlanesYSuscripciones.png" alt="PlanesYSuscripciones" style="width:100%;">
+<img src="assets/images/SeccionPlanesYSuscripciones_001.png" alt="PlanesYSuscripciones" style="width:100%;">
 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
@@ -1003,9 +1003,9 @@ Para la realización de este Sprint no se ha considerado la evidencia de la docu
 
 Para este Sprint 1, hemos desplegado el landing page, como se dijo anteriormente, de manera parcial ya que no se logró implementar todo lo planeado.
 <img src="assets/images/PaginaPrincipal.png" alt="PaginaPrincipal" style="width:100%;">
-<img src="assets/images/SeccionSobreNosotros.png" alt="SobreNosotros" style="width:100%;">
-<img src="assets/images/SeccionConoceMas.png" alt="ConoceMas" style="width:100%;">
-<img src="assets/images/SeccionPlanesYSuscripciones.png" alt="PlanesYSuscripciones" style="width:100%;">
+<img src="assets/images/SeccionSobreNosotros_001.png" alt="SobreNosotros" style="width:100%;">
+<img src="assets/images/SeccionConoceMas_001.png" alt="ConoceMas" style="width:100%;">
+<img src="assets/images/SeccionPlanesYSuscripciones_001.png" alt="PlanesYSuscripciones" style="width:100%;">
 Enlace para visualizar la landing page: <https://aplicacionesopensource-sw58.github.io/AplicacionesOpenSource-SW58-Landing-Page-FastLearners/>
 
 
