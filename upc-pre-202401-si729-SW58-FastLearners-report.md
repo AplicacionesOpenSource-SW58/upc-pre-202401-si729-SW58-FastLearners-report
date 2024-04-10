@@ -922,11 +922,11 @@ Para este Sprint 1, hemos desplegado el landing page
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 | Alumno | Actividad |
-| Javier Murillo, Mathias|  |
-| Orrego Noriega, Jorge David |  |
+| Javier Murillo, Mathias| (xxxxx) |
+| Orrego Noriega, Jorge David | (xxxxx) |
 | Ochoa Colonio, Carlos Alberto | Desarrollo del Capítulo I y elaboración de la Landing Page |
-| Pachas Chavez, Alejandro Alberto |  |
-| Mendez Rosales, Marco Aurelio |  |
+| Pachas Chavez, Alejandro Alberto | (xxxxx) |
+| Mendez Rosales, Marco Aurelio | (xxxxx) |
 
 imagenes de colaboraciones github
 
