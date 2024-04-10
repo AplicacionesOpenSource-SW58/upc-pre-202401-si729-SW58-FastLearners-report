@@ -878,9 +878,20 @@ Netlify es una plataforma de alojamiento web y despliegue continuo que simplific
 #### 5.2.1.1. Sprint Planning 1.
 Dentro de la metodología Scrum, el Sprint es una iteración de tiempo fijo durante la cual se lleva a cabo un conjunto de tareas predefinidas con el objetivo de agregar valor incremental al producto final, conocido como "Product Goal" (Schwaber, K. & Sutherland, J., 2020). Para el desarrollo de la plataforma FastLearners, hemos estructurado el proyecto en 4 sprints, considerando la complejidad y la envergadura de las funcionalidades a implementar.
 
-#### 5.2.X.2. Sprint Backlog 1.
+| Sprint #1 | Sprint 1 |
+| Sprint Planning Background |
+| Date | 2024-04-04 |
+| Time | 08:38 PM |
+| Location | Reunión Virtual por Discord |
+| Prepared By | Ochoa Colonio, Carlos Alberto |
+| Attendees (to planning meeting) | Javier Murillo, Mathias / Orrego Noriega, Jorge David / Pachas Chavez, Alejandro Alberto / Mendez Rosales, Marco Aurelio |
+| Sprint Goal & User Stories |
+| Sprint 1 Goal | (Definir el Goal del Sprint 1 y la métrica de cumplimiento) |
+| Sprint 1 Velociy | 8 |
+| Sum of Story Point | 6 |
 
-![SprintBacklog n](image.jpg) Nica hago la tabla 
+
+#### 5.2.X.2. Sprint Backlog 1.
 
 
 #### 5.2.X.3. Development Evidence for Sprint Review.
