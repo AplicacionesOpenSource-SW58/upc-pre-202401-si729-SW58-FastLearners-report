@@ -929,12 +929,31 @@ Netlify es una plataforma de alojamiento web y despliegue continuo que simplific
 | Prepared By | Ochoa Colonio, Carlos Alberto |
 | Attendees (to planning meeting) | Javier Murillo, Mathias / Orrego Noriega, Jorge David / Pachas Chavez, Alejandro Alberto / Mendez Rosales, Marco Aurelio |
 | Sprint Goal & User Stories |
-| Sprint 1 Goal | (Definir el Goal del Sprint 1 y la métrica de cumplimiento) |
+| Sprint 1 Goal | Planificar, diseñar e implementar una landing page de FastLearners llamativa para el usuario |
 | Sprint 1 Velociy | 8 |
 | Sum of Story Point | 6 |
 
 
 #### 5.2.1.2. Sprint Backlog 1.
+
+En el primer Sprint Backlog, nuestro equipo se encargó de diseñar e implementar la landing page de manera funcional. Para la gestión de los equipos y para tener una mejor organización se usó la herramienta Jira Software de Atlassian. El objetivo de nuestro primer sprint era implementar la landing page de FastLearners en su totalidad, para que, de esta manera, se logre captar la atención del usuario. No obstante, por motivos de falta de tiempo y una organización que no resultó ser lo suficientemente adecuada solo se logró tener una landing page estática y con la mayoría de las páginas planeadas en los wireframes, pero no todas.
+
+| Sprint # | Sprint 1 |
+| User Story | WorkItem/Task |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
+| HU01 | Ver página de inicio atractiva | T01 | Diseño UI/UX de la página de inicio | Se realiza el diseño de interfaz de usuario para la pagina de inicio | 2 | Orrego Noriega, Jorge David | Done |
+| HU01 | Ver página de inicio atractiva | T02 | Implementación Front-end | Se implementa el Front-end con el uso de HTML5, CSS y JavaScript | 2 | Ochoa Colonio, Carlos Alberto | Done |
+| HU01 | Ver página de inicio atractiva | T03 | Optimización SEO | Se realiza una optimización en el codigo para que alcanze un mayor SEO | 3 | Mendez Rosales, Marco Aurelio | Done |
+| HU01 | Ver página de inicio atractiva | T04 | Pruebas de Usabilidad | Se realizan testing para probar que la página funcione correctamente | 1 | Javier Murillo, Mathias | Done |
+| HU02 | Registrarme rápidamente | T05 | Desarrollo de Sistema de Registro | Se desarrolla un sistema login | 4 | Pachas Chavez, Alejandro Alberto | To-do |
+| HU02 | Registrarme rápidamente | T06 | Integración Backend Registro | Se realiza el Back-end | 6 | Mendez Rosales, Marco Aurelio | To-do |
+| HU03 | Recibir correo de bienvenida | T07 | Envío Automático de Correo de Bienvenida | Se le envia un correo automatico al usuario nuevo que se ha registrado | 3 | Javier Murillo, Mathias | To-do |
+| HU03 | Recibir correo de bienvenida | T08 | Plantilla de Correo de Bienvenida | Se realiza el diseño mejorado del correo de bienvenida | 3 | Ochoa Colonio, Carlos Alberto | To-do |
+| HU04 | Buscar cursos y recursos | T09 | Funcionalidad de Búsqueda de Cursos | Se implementa el sistema para buscar cursos | 8 | Javier Murillo, Mathias | To-do |
+| HU04 | Buscar cursos y recursos | T10 | Diseño de Interfaz de Búsqueda | Se realiza el diseño para el sistema de búsqueda | 6 | Ochoa Colonio, Carlos Alberto | To-do |
+| HU10 | Acceder a ejemplos de código y proyectos | T11 | Creación de Ejemplos de Código | Se crean ejemplos de código para llenar los repositorios | 5 | Mendez Rosales, Marco Aurelio | To-do |
+| HU10 | Acceder a ejemplos de código y proyectos | T12 | Documentación de Ejemplos de Código | Se crea el readme para entender como funciona cada código | 6 | Pachas Chavez, Alejandro Alberto | To-do |
+
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
