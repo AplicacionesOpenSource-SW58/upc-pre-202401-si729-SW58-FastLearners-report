@@ -940,7 +940,9 @@ En el primer Sprint Backlog, nuestro equipo se encargó de diseñar e implementa
 
 | Sprint # | Sprint 1 |
 | User Story | WorkItem/Task |
+
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
+|----|-------|----|-------|-------------|--------------------|-------------|------------------------------------------|
 | HU01 | Ver página de inicio atractiva | T01 | Diseño UI/UX de la página de inicio | Se realiza el diseño de interfaz de usuario para la pagina de inicio | 2 | Orrego Noriega, Jorge David | Done |
 | HU01 | Ver página de inicio atractiva | T02 | Implementación Front-end | Se implementa el Front-end con el uso de HTML5, CSS y JavaScript | 2 | Ochoa Colonio, Carlos Alberto | Done |
 | HU01 | Ver página de inicio atractiva | T03 | Optimización SEO | Se realiza una optimización en el codigo para que alcanze un mayor SEO | 3 | Mendez Rosales, Marco Aurelio | Done |
@@ -958,6 +960,7 @@ En el primer Sprint Backlog, nuestro equipo se encargó de diseñar e implementa
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commit on (Date) |
+|------------|--------|-----------|----------------|---------------------|------------------|
 | https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 4b9a2f | Added Header | Added Header | 01/04/2024 |
 | https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | d1ed71 | Added Section "Conoce Más" | Added Section "Conoce Más" | 02/04/2024 |
 | https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 5461b1 | Added Section "¡Suscríbete Ya!" | Added Section "¡Suscríbete Ya!" | 02/04/2024 |
@@ -970,6 +973,7 @@ En el primer Sprint Backlog, nuestro equipo se encargó de diseñar e implementa
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
 | https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners |  |  |  |  | 08/04/2024 |
 
 
