@@ -1049,6 +1049,15 @@ En nuestro segundo Sprint Backlog, logramos completar la landing page, el produc
 | HU20 | Acceder a recursos de referencia                  | TK20 | Segmento de recursos de referencia                | Crear segmento para que el usuario pueda acceder a recursos de referencia        | 5                  | Mathias, Carlos Ochoa | To Do          |
 
 
+### 5.2.2.4 Testing Suite Evidence for Sprint Review
+
+Incluimos el código de los .feature en formato Gherkin en el directorio features/, cada Feature se relaciona a un User Story de nuestro Sprint 1.
+
+| Repository   | Branch  |  Commited on (Date)|
+|------|-----------------------------------|----------------------------------------|
+| https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report | upc-pre-202401-si729-SW58-FastLearners-report/main                  | 28/04/2024 | 
+
+
 #### 5.2.2.5.Executin Evidence for Sprint Review
 
 En el sprint 2 se alcanzo un desarrollo completo de la implementacion del despliegue del landing page. La cual muestra diversos sectores donde el usuario puede enconrar informacion importante sobre nuestro producto y de nuestra Start Up. A continuacion algunas evidencias:
