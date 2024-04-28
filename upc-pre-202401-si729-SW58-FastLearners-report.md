@@ -1022,6 +1022,22 @@ Enlace para visualizar la landing page: <https://aplicacionesopensource-sw58.git
 
 En el sprint 2 se alcanzo un desarrollo completo de la implementacion del despliegue del landing page. La cual muestra diversos sectores donde el usuario puede enconrar informacion importante sobre nuestro producto y de nuestra Start Up. A continuacion algunas evidencias:
 
+US01:
+
+<img src="assets/images/Landing1" alt="Commits" style="width:100%;">
+
+US02:
+
+<img src="assets/images/Landing2" alt="Commits" style="width:100%;">
+
+US03:
+
+<img src="assets/images/Landing3" alt="Commits" style="width:100%;">
+
+US04:
+
+<img src="assets/images/Landing4" alt="Commits" style="width:100%;">
+
 # Conclusiones y recomendaciones.
 
 ## Conclusiones (TB1)
