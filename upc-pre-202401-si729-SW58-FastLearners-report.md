@@ -1019,6 +1019,19 @@ Enlace para visualizar la landing page: <https://aplicacionesopensource-sw58.git
 ![Ver todos los commits en GitHub](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/commits/main/)
 ### 5.2.2 Sprint 2
 #### 5.2.2.1 Sprint Planning 2
+Nuestro Segundo Sprint #2 comienza el 08/04/2024 y tiene como finalidad resolver los comentarios recibidos del Sprint 1, realizar el FrontEnd.
+
+| Sprint | Date       | Time  | Location                          | Prepared By | Attendes                                                           |
+|--------|------------|-------|-----------------------------------|-------------|--------------------------------------------------------------------|
+| 2      | 15/04/2024 | 20:00 | Reunión Virtual mediante Discord | Marco Mendez| - Carlos Ochoa, Jorge OrregoMathias Javier, Marco Mendez, Alejandro                            
+
+| Sprint 2 Goal                                        | Velocity | Sum of Story Points |
+|------------------------------------------------------|----------|---------------------|
+| Resolución de comentarios recibidos en el Sprint 1  | 31       | 31                   |
+| Realizar el Front End de la web application utilizando Angular                        |
+| Creación de Servicios Base                                                            |                     
+
+
 #### 5.2.2.2 Sprint Backlog
 
 #### 5.2.2.5.Executin Evidence for Sprint Review
