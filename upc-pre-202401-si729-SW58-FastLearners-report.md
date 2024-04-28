@@ -1033,6 +1033,22 @@ Nuestro Segundo Sprint #2 comienza el 15/04/2024 y tiene como finalidad resolver
 
 
 #### 5.2.2.2 Sprint Backlog
+En nuestro segundo Sprint Backlog, logramos completar la landing page, el producto base del front end de la web application. Además de crear segmentos base.
+| Sprint # | User Story                                        | WorkItem/Task                   |
+|----------|---------------------------------------------------|---------------------------------|
+| 2        | Id | Title                                      | Id | Title                     | Description                                                            | Estimation (Hours) | Assigned To   | Status (ToDo/In Process/ToReview/Done) |
+|----------|---------------------------------------------------|---------------------------------|------------------------------------------------------------------------|--------------------|---------------|----------------------------------------|
+|          | HU11                                             | Acceder a ejemplos de código y proyectos | TK11 | Segmento de ejemplos    | Crear segmento para que el usuario pueda acceder a ejemplos de código y proyectos | 3                  | Marco Mendez  | To Do                                  |
+|          | HU12                                             | Recibir retroalimentación sobre mi código | TK12 | Segmento de retroalimentación sobre el código | Crear segmento en el que el usuario pueda recibir retroalimentación sobre su código | 4                  | Carlos Ochoa  | To Do                                  |
+|          | HU13                                             | Acceder a comunidad en línea     | TK13 | Segmento de comunidad     | Crear segmento en el que el usuario pueda compartir con su comunidad     | 5                  | Mathias       | To Do                                  |
+|          | HU14                                             | Acceder a recursos avanzados de desarrollo móvil | TK14 | Segmento de cursos avanzados | Crear segmento para que el usuario pueda acceder a recursos avanzados. | 6                  | Alejandro     | To Do                                  |
+|          | HU15                                             | Colaborar en proyectos de código abierto | TK15 | Segmento de colaboración en línea | Crear segmento para que el usuario pueda colaborar en proyectos de código abierto | 5                  | Jorge Orrego  | To Do                                  |
+|          | HU16                                             | Mantenerme actualizado sobre nuevas tecnologías | TK16 | Segmento de noticias      | Crear segmento para que el usuario pueda acceder a noticias sobre nuevas tecnologías | 5                  | Marco Mendez  | To Do                                  |
+|          | HU17                                             | Recibir retroalimentación sobre mi arquitectura de código y diseño | TK17 | Segmento de retroalimentación | Crear segmento para que el usuario pueda recibir y observar retroalimentación sobre su arquitectura de diseño | 5                  | Marco Mendez  | To Do                                  |
+|          | HU18                                             | Acceder a herramientas de análisis de rendimiento y calidad de código | TK18 | Segmento de acceso a herramientas de análisis | Crear segmento para que el usuario pueda acceder a una herramienta de análisis de rendimiento y calidad de código | 5                  | Jorge Orrego  | To Do                                  |
+|          | HU19                                             | Realizar proyectos prácticos    | TK19 | Segmento de creación de proyectos prácticos | Crear segmento para que el usuario pueda practicar creando proyectos prácticos | 5                  | Alejandro     | To Do                                  |
+|          | HU20                                             | Acceder a recursos de referencia | TK20 | Segmento de recursos de referencia | Crear segmento para que el usuario pueda acceder a recursos de referencia | 5                  | Mathias, Carlos Ochoa | To Do          |
+
 
 #### 5.2.2.5.Executin Evidence for Sprint Review
 
