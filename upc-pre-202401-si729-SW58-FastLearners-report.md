@@ -1018,7 +1018,7 @@ Enlace para visualizar la landing page: <https://aplicacionesopensource-sw58.git
 
 ![Ver todos los commits en GitHub](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/commits/main/)
 
-#### 5.2.2.5
+#### 5.2.2.5.Executin Evidence for Sprint Review
 
 En el sprint 2 se alcanzo un desarrollo completo de la implementacion del despliegue del landing page. La cual muestra diversos sectores donde el usuario puede enconrar informacion importante sobre nuestro producto y de nuestra Start Up. A continuacion algunas evidencias:
 
