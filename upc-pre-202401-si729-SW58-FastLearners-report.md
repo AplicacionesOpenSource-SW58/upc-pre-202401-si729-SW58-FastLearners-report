@@ -1017,6 +1017,9 @@ Enlace para visualizar la landing page: <https://aplicacionesopensource-sw58.git
 <img src="assets/images/Commits.png" alt="Commits" style="width:100%;">
 
 ![Ver todos los commits en GitHub](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/commits/main/)
+### 5.2.2 Sprint 2
+#### 5.2.2.1 Sprint Planning 2
+#### 5.2.2.2 Sprint Backlog
 
 #### 5.2.2.5.Executin Evidence for Sprint Review
 
