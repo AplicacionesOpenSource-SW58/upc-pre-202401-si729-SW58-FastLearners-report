@@ -1054,13 +1054,19 @@ En esta parte se muestran los commits realizados durante el segundo sprint.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commit on (Date) |
 |------------|--------|-----------|----------------|---------------------|------------------|
-| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 4b9a2f |  |  |  |
-| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | d1ed71 |  |  |  |
-| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 5461b1 |  |  |  |
-| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 95e488 |  |  |  |
-| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 1951d4 |  |  |  |
-| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 059532 |  |  |  |
-| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 9e9d96 |  |  |  |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 563bb6b | initial commit | initial commit | 27/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 48da53d | chore: added enviroments and base service | chore: added enviroments and base service | 27/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 820f57d | docs: updated README.md | docs: updated README.md | 28/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 006faff | chore: added Students class in learning directory and several pages in public\pages directory |  | 29/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | e2e26e1 | feat: added routing functionality to web app. | feat: added routing functionality to web app. | 29/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | b84e22e | Update user-account.component.ts | Update user-account.component.ts | 29/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | e59d140 | Update user-account.component.html | Update user-account.component.html | 29/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 55a5f4f | Update user-account.component.css | Update user-account.component.css | 29/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | a4cccf7 | Update subscriptions.component.html | Update subscriptions.component.html | 29/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 3bc09e3 | Update subscriptions.component.css | Update subscriptions.component.css | 29/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 1364e75 | Update subscriptions.component.ts | Update subscriptions.component.ts | 29/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | bd1fcfd | feat: added sign in component functionality | feat: added sign in component functionality | 29/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 9a3700b | Actualizar Readme | Actualizar Readme | 29/04/2024 |
 
 #### 5.2.2.4 Testing Suite Evidence for Sprint Review
 
