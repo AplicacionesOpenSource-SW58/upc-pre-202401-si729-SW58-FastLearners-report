@@ -1028,7 +1028,7 @@ Nuestro Segundo Sprint #2 comienza el 15/04/2024 y tiene como finalidad resolver
 | Sprint 2 Goal                                        | Velocity | Sum of Story Points |
 |------------------------------------------------------|----------|---------------------|
 | Resolución de comentarios recibidos en el Sprint 1  | 31       | 31                   |
-| Realizar el Front End de la web application utilizando Angular                        |
+| Realizar el Front End de la web application utilizando Angular | 49 | 49              |
 | Creación de Servicios Base                                                            |                     
 
 
