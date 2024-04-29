@@ -1125,6 +1125,13 @@ Capturas de la Landing Page:
 
 Web Application (Frontend):
 
+Desplegamos el frontend por medio de Firebase: 
+
+![imagen](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/2a44dd58-26c6-4641-942e-a9d7bc019e6f)
+
+
+Link del repositorio: https://fastlearners-e07b8.web.app/
+
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
 | Alumno | Actividad |
@@ -1138,10 +1145,11 @@ Web Application (Frontend):
 
 Repositorio Landing Page
 
-
-
+![imagen](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/50390cd2-4252-4164-9637-7d9d35110fb4)
 
 Repositorio Frontend
+
+![imagen](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/77ea3016-fa91-4a6b-82e6-07a9702fe3d0)
 
 # Conclusiones y recomendaciones.
 
