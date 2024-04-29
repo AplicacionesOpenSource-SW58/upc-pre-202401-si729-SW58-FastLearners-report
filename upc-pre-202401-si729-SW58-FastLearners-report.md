@@ -1054,13 +1054,13 @@ En esta parte se muestran los commits realizados durante el segundo sprint.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commit on (Date) |
 |------------|--------|-----------|----------------|---------------------|------------------|
-| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 4b9a2f | Added Header | Added Header | 01/04/2024 |
-| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | d1ed71 | Added Section "Conoce Más" | Added Section "Conoce Más" | 02/04/2024 |
-| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 5461b1 | Added Section "¡Suscríbete Ya!" | Added Section "¡Suscríbete Ya!" | 02/04/2024 |
-| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 95e488 | Added Images | Added Images | 03/04/2024 |
-| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 1951d4 | Added Section "Acerca de Nosotros" | Added Section "Acerca de Nosotros" | 04/04/2024 |
-| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 059532 | Added Section "Planes de suscripción" | Added Section "Planes de suscripción" | 05/04/2024 |
-| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 9e9d96 | Added Footer | Added Footer | 06/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 4b9a2f |  |  |  |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | d1ed71 |  |  |  |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 5461b1 |  |  |  |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 95e488 |  |  |  |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 1951d4 |  |  |  |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 059532 |  |  |  |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 9e9d96 |  |  |  |
 
 #### 5.2.2.4 Testing Suite Evidence for Sprint Review
 
