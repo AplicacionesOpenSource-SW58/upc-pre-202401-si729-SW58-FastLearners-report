@@ -1070,7 +1070,7 @@ En esta parte se muestran los commits realizados durante el segundo sprint.
 
 #### 5.2.2.4 Testing Suite Evidence for Sprint Review
 
-Incluimos el código de los .feature en formato Gherkin en el directorio features/, cada Feature se relaciona a un User Story de nuestro Sprint 1.
+Incluimos el código de los .feature en lenguaje Gherkin en el directorio features/, cada Feature se relaciona a un User Story de nuestro Sprint 1.
 
 | Repository   | Branch  |  Commited on (Date)|
 |------|-----------------------------------|----------------------------------------|
