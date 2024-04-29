@@ -1060,7 +1060,7 @@ Incluimos el código de los .feature en formato Gherkin en el directorio feature
 
 #### 5.2.2.5.Executin Evidence for Sprint Review
 
-En el sprint 2 se alcanzo un desarrollo completo de la implementacion del despliegue del landing page. La cual muestra diversos sectores donde el usuario puede enconrar informacion importante sobre nuestro producto y de nuestra Start Up. A continuacion algunas evidencias:
+En el sprint 2 se alcanzo un desarrollo completo de la implementacion del despliegue del landing page. La cual muestra diversos sectores donde el usuario puede enconrar informacion importante sobre nuestro producto y de nuestra Start Up, por otro lado se realizo un desarrollo parcial de la aplicacion web, la cual permite que el usuario navegue por ciertas opciones que ofrecemos. A continuacion algunas evidencias:
 
 US01:
 
@@ -1077,6 +1077,11 @@ US03:
 US04:
 
 <img src="assets/images/Landing4" alt="Commits" style="width:100%;">
+
+
+#### 5.2.2.6.Execution Evidence for Sprint Review:
+
+Durante el sprint 2 unicamente se planifico que el sprint conformaria el desarrollo de la landing page y el front-end, por ello no llevamos a cabo algun desarrollo de una API, pero que mas adelante si se llevará a cabo para que nuestros usuarios tengan acceso al contenido completo de nuestro producto.
 
 # Conclusiones y recomendaciones.
 
