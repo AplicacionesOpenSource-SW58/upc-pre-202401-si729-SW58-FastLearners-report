@@ -1102,6 +1102,31 @@ US04:
 
 Durante el sprint 2 unicamente se planifico que el sprint conformaria el desarrollo de la landing page y el front-end, por ello no llevamos a cabo algun desarrollo de una API, pero que mas adelante si se llevará a cabo para que nuestros usuarios tengan acceso al contenido completo de nuestro producto.
 
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review:
+
+En este sprint hemos desplegado la landing page actualizada de nuestra aplicación web junto al frontend por distintas plataformas. 
+
+
+Landing Page:
+
+El despliegue de la landing page se hizo por medio de una herramienta propia de GitHub. 
+
+<img src="assets/images/DeploymentLandingPage2.png" alt="Deployment Landing Page" style="width:100%;">
+
+Capturas de la Landing Page: 
+
+<img src="assets/images/DeploymentLandingPage.png" alt="Deployment Landing Page" style="width:100%;">
+
+<img src="assets/images/DeploymentLandingPage3.png" alt="Deployment Landing Page" style="width:100%;">
+
+<img src="assets/images/DeploymentLandingPage4.png" alt="Deployment Landing Page" style="width:100%;">
+
+
+Web Application (FrontEnd):
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+
 # Conclusiones y recomendaciones.
 
 ## Conclusiones (TB1)
