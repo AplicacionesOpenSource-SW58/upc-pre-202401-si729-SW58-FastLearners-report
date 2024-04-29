@@ -1126,6 +1126,13 @@ Web Application (FrontEnd):
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
+| Alumno | Actividad |
+|--------|-----------|
+| Javier Murillo, Mathias| Desarrollo del Frontend y de la Landing Page, Reporte (5.2.2.5 y 5.2.2.6) |
+| Orrego Noriega, Jorge David | Desarrollo del Frontend y de la Landing Page, Reporte (5.2.2.7 y 5.2.2.8) |
+| Ochoa Colonio, Carlos Alberto | Desarrollo del Frontend y de la Landing Page, Reporte (5.2.2.1 al 5.2.2.4) |
+| Pachas Chavez, Alejandro Alberto |Desarrollo del Frontend y de la Landing Page, Reporte (5.2.2.1 al 5.2.2.4) |
+| Mendez Rosales, Marco Aurelio | Desarrollo del Frontend y de la Landing Page, Reporte (5.2.2.1 al 5.2.2.4) |
 
 # Conclusiones y recomendaciones.
 
