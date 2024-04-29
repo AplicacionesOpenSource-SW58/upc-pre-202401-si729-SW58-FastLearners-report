@@ -1067,6 +1067,7 @@ En esta parte se muestran los commits realizados durante el segundo sprint.
 | https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 1364e75 | Update subscriptions.component.ts | Update subscriptions.component.ts | 29/04/2024 |
 | https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | bd1fcfd | feat: added sign in component functionality | feat: added sign in component functionality | 29/04/2024 |
 | https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 9a3700b | Actualizar Readme | Actualizar Readme | 29/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 6ebaf5e | Se añadio Json Server | Se añadio Json Server | 29/04/2024 |
 
 #### 5.2.2.4 Testing Suite Evidence for Sprint Review
 
