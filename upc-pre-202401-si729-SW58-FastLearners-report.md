@@ -1048,8 +1048,21 @@ En nuestro segundo Sprint Backlog, logramos completar la landing page, el produc
 | HU19 | Realizar proyectos prácticos                      | TK19 | Segmento de creación de proyectos prácticos      | Crear segmento para que el usuario pueda practicar creando proyectos prácticos   | 5                  | Alejandro          | To Do                                  |
 | HU20 | Acceder a recursos de referencia                  | TK20 | Segmento de recursos de referencia                | Crear segmento para que el usuario pueda acceder a recursos de referencia        | 5                  | Mathias, Carlos Ochoa | To Do          |
 
+#### 5.2.2.3 Development Evidence for Sprint Review
 
-### 5.2.2.4 Testing Suite Evidence for Sprint Review
+En esta parte se muestran los commits realizados durante el segundo sprint.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commit on (Date) |
+|------------|--------|-----------|----------------|---------------------|------------------|
+| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 4b9a2f | Added Header | Added Header | 01/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | d1ed71 | Added Section "Conoce Más" | Added Section "Conoce Más" | 02/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 5461b1 | Added Section "¡Suscríbete Ya!" | Added Section "¡Suscríbete Ya!" | 02/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 95e488 | Added Images | Added Images | 03/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 1951d4 | Added Section "Acerca de Nosotros" | Added Section "Acerca de Nosotros" | 04/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 059532 | Added Section "Planes de suscripción" | Added Section "Planes de suscripción" | 05/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners | AplicacionesOpenSource-SW58-Landing-Page-FastLearners | 9e9d96 | Added Footer | Added Footer | 06/04/2024 |
+
+#### 5.2.2.4 Testing Suite Evidence for Sprint Review
 
 Incluimos el código de los .feature en formato Gherkin en el directorio features/, cada Feature se relaciona a un User Story de nuestro Sprint 1.
 
@@ -1058,7 +1071,7 @@ Incluimos el código de los .feature en formato Gherkin en el directorio feature
 | https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report | upc-pre-202401-si729-SW58-FastLearners-report/main                  | 28/04/2024 | 
 
 
-#### 5.2.2.5.Executin Evidence for Sprint Review
+#### 5.2.2.5.Execution Evidence for Sprint Review
 
 En el sprint 2 se alcanzo un desarrollo completo de la implementacion del despliegue del landing page. La cual muestra diversos sectores donde el usuario puede enconrar informacion importante sobre nuestro producto y de nuestra Start Up, por otro lado se realizo un desarrollo parcial de la aplicacion web, la cual permite que el usuario navegue por ciertas opciones que ofrecemos. A continuacion algunas evidencias:
 
