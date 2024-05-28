@@ -25,7 +25,7 @@
 
 <img src="assets/images/Commits TB1v2.png" alt="Commits TB1v2" style="width:100%;">
 
-![URL del repositorio](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report)
+![REPOSITORIO FASTLEARNERS](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report)
 
 En el caso de Alejandro, sí trabajó pero hizo commits desde una cuenta que no estaba agregada a la organización. 
 
