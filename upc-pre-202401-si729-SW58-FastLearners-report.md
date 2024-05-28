@@ -37,7 +37,7 @@ En el caso de Alejandro, sí trabajó pero hizo commits desde una cuenta que no 
 
 # Contenido
 
-1. [Capítulo I: Introducción](#capítulo-i-introducción)
+1. [Capítulo I: Introducción](#capítulo-i-introducción)<br>
    1.1. [Startup Profile](#startup-profile)
       1.1.1. [Descripción del startup](#descripción-del-startup)
       1.1.2. [Perfiles de los integrantes del equipo](#perfiles-de-los-integrantes-del-equipo)
