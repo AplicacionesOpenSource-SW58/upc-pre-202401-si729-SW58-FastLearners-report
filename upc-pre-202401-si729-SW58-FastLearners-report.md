@@ -30,10 +30,13 @@
 En el caso de Alejandro, sí trabajó pero hizo commits desde una cuenta que no estaba agregada a la organización. 
 
 # Student Outcome
+
+**ABET – EAC - Student Outcome 3:** Capacidad de comunicarse efectivamente con un rango de audiencias.
+
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Carlos Ochoa:<br> *TB1:*  Me enfoqué en el Startup Profile, la misión, la visión, los antecedentes y problemática de manera objetiva.<br> Jorge Orrego: <br> *TB1:*  Me encargué de realizar el diseño de la Landing Page y de la plataforma web.<br> Mathias Javier: <br> *TB1:*  wireframes de la Landing Page.<br>  Alejandro Pachas: <br> *TB1:*  Redacté los User Stories y el Product backlog.<br> |Se evidenció la problemática y se identificó el segmento objetivo|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Carlos Ochoa:<br> *TB1:*  Desarrollé el apartado del Lean UX Process<br>  Jorge Orrego: <br> *TB1:*  Me encargué de realizar las guías para el diseño del sitio web. <br>Mathias Javier: <br> *TB1:*  Me encargué del Software Configuration Management<br>  Alejandro Pachas: <br> *TB1:*  Realicé el Impact Map de la aplicación|Se logró desarrollar las hipotesis de negocio |
+|Comunica oralmente con efectividad a diferentes rangos de audiencia. |Carlos Ochoa:<br> *TB1:*  Me enfoqué en el Startup Profile, la misión, la visión, los antecedentes y problemática de manera objetiva.<br> Jorge Orrego: <br> *TB1:*  Me encargué de realizar el diseño de la Landing Page y de la plataforma web.<br> Mathias Javier: <br> *TB1:*  wireframes de la Landing Page.<br>  Alejandro Pachas: <br> *TB1:*  Redacté los User Stories y el Product backlog.<br> |Se evidenció la problemática y se identificó el segmento objetivo|
+|Comunica por escrito con efectividad a diferentes rangos de audiencia.|Carlos Ochoa:<br> *TB1:*  Desarrollé el apartado del Lean UX Process<br>  Jorge Orrego: <br> *TB1:*  Me encargué de realizar las guías para el diseño del sitio web. <br>Mathias Javier: <br> *TB1:*  Me encargué del Software Configuration Management<br>  Alejandro Pachas: <br> *TB1:*  Realicé el Impact Map de la aplicación|Se logró desarrollar las hipotesis de negocio |
 
 # Contenido
 
