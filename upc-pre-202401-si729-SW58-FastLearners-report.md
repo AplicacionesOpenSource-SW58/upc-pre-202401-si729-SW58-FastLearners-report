@@ -1239,6 +1239,14 @@ Repositorio Frontend
 
 ![imagen](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/77ea3016-fa91-4a6b-82e6-07a9702fe3d0)
 
+## 5.3. Validation Interviews
+### 5.3.1. Diseño de Entrevistas
+
+Para poder hacer una validacion de nuestras entrevistas se empleará los siguientes recursos:
+# Landing Page
+<img src="assets/images/DeploymentLandingPage2.png" alt="Deployment Landing Page" style="width:100%;">
+# FrontEnd Web Application
+<img src="assets/images/DeploymentLandingPage2.png" alt="Deployment Landing Page" style="width:100%;">
 # Conclusiones y recomendaciones.
 
 ## Conclusiones (TB1)
