@@ -1244,9 +1244,11 @@ Repositorio Frontend
 
 Para poder hacer una validacion de nuestras entrevistas se empleará los siguientes recursos:
 # Landing Page
-<img src="assets/images/DeploymentLandingPage2.png" alt="Deployment Landing Page" style="width:100%;">
+<img src="assets/images/DeploymentLandingPage.png" alt="Deployment Landing Page" style="width:100%;">
+
 # FrontEnd Web Application
-<img src="assets/images/DeploymentLandingPage2.png" alt="Deployment Landing Page" style="width:100%;">
+<img src="assets/images/DeploymentWebApp.png" alt="Deployment Landing Page" style="width:100%;">
+
 # Conclusiones y recomendaciones.
 
 ## Conclusiones (TB1)
