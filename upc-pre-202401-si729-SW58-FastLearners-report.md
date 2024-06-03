@@ -1249,6 +1249,33 @@ Para poder hacer una validacion de nuestras entrevistas se empleará los siguien
 # FrontEnd Web Application
 <img src="assets/images/WebApp.png" alt="Deployment Web Application" style="width:100%;">
 
+### User Flows a validar en el Landing Page
+
+f. User Flow Diagram F: Suscribirse a un plan
+
+### User Flows a validar en el Frontend Web Application
+
+a. User Flow Diagram A: Iniciar Sesion
+b. User Flow Diagram B: Visualizar Cuenta
+c. User Flow Diagram C: Revisar el foro
+d. User Flow Diagram D: Revisar los repositorios 
+e. User Flow Diagram E: Revisar los recursos multimedia
+f. User Flow Diagram F: Suscribirse a un plan 
+
+Preguntas que se realizaran a los entrevistados:
+
+a. ¿Despues de ver nuestra Landing Page, te dio curiosidad nuestro producto? 
+b. ¿Lograste visualizar el inicio de sesion en la pagina web de nuestra aplicacion? ¿Te parecio sencillo?
+c. ¿Lograste visualizar tu cuenta en la pagina web de nuestra aplicacion? ¿Te parece una interfaz amigable?
+d. ¿Lograste revisar el foro? ¿Te llamo la atencion?
+e. ¿Lograste revisar los repositorios? ¿Alguno de tu interes? 
+d. ¿Lograste revisar los recursos multimedia? ¿Te parece una buena herramienta de estudio?
+f. Para finalizar ¿Cual es el mayor atractivo de nuestro producto para ti? 
+
+### 5.3.2. Registro de Entrevistas
+
+Realizamos 4 entrevistas que van dirigidas a nuestro publico objetivo, en estas entrevistas les mostramos el recorrido por nuestra web application y de nuestra landing page a nuestros entrevistados:
+
 # Conclusiones y recomendaciones.
 
 ## Conclusiones (TB1)
