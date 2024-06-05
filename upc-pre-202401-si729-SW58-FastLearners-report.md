@@ -1315,7 +1315,14 @@ Utilizamos la aplicación Trello para poder dar seguimiento a nuestro Backlog:
 | [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | chore: initial commit | a4dfb98 |
 
 ### 5.2.3.4 Testing Suite Evidence for Sprint Review
+
+| Repository   | Branch  |  Commited on (Date)|
+|------|-----------------------------------|----------------------------------------|
+| https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report | upc-pre-202401-si729-SW58-FastLearners-report/main                  | 28/04/2024 |
+
 ### 5.2.3.5 Execution Evidence for Sprint Review
+
+
 ### 5.2.3.6 Services Documentation Evidence for Sprint Review
 Se configuro el backend de la aplicación.
 <img src="assets/images/backend1.jpg" alt="Backend run image" style="width:100%;">
