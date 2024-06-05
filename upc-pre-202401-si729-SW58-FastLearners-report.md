@@ -1329,7 +1329,7 @@ Se configuro Firebase para el deployment
 <img src="assets/images/firebaseDe.jpg" alt="Firebase" style="width:100%;">
 La configuración de la fake api en JSON SERVER: 
 https://my-json-server.typicode.com/JorgeOrrego1201/FastLearners-json-server-OpenSource 
-<img src="assets/images/fakeApi.jpg" alt="Fake API json Server" style="width:100%;">
+<img src="assets/images/FakeApi.jpg" alt="Fake API json Server" style="width:100%;">
 ### 5.2.3.8 Team Collaboration Insights during Sprint
 
 | Alumno | Actividad |
