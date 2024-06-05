@@ -1312,9 +1312,9 @@ Utilizamos la aplicación Trello para poder dar seguimiento a nuestro Backlog:
 | Pachas Chavez, Alejandro Alberto | Desarrollo del Backend |
 | Mendez Rosales, Marco Aurelio | Reporte (5.2.3.3 al 5.2.3.8) |
 
-<img src="assets/images/CommitsReporte" alt="Commits Reporte" style="width:100%;">
+<img src="assets/images/CommitsReporte.png" alt="Commits Reporte" style="width:100%;">
 
-<img src="assets/images/CommitsBack" alt="Commits Backend" style="width:100%;">
+<img src="assets/images/CommitsBack.png" alt="Commits Backend" style="width:100%;">
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
