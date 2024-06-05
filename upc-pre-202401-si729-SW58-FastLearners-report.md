@@ -1304,6 +1304,17 @@ Utilizamos la aplicación Trello para poder dar seguimiento a nuestro Backlog:
 ### 5.2.3.7 Software Deployment Evidence for Sprint Review
 ### 5.2.3.8 Team Collaboration Insights during Sprint
 
+| Alumno | Actividad |
+|--------|-----------|
+| Javier Murillo, Mathias| Reporte (5.3 y 5.4) |
+| Orrego Noriega, Jorge David | Desarrollo del Backend |
+| Ochoa Colonio, Carlos Alberto | Desarrollo del Backend |
+| Pachas Chavez, Alejandro Alberto | Desarrollo del Backend |
+| Mendez Rosales, Marco Aurelio | Reporte (5.2.3.3 al 5.2.3.8) |
+
+<img src="assets/images/CommitsReporte" alt="Commits Reporte" style="width:100%;">
+<img src="assets/images/CommitsBack" alt="Commits Backend" style="width:100%;">
+
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 
