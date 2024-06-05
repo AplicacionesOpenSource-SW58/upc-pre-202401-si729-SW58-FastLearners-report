@@ -23,7 +23,7 @@
 
 # Project Report Collaboration Insights
 
-**Commits del Informe TB1:**
+**Commits del Informe TB2:**
 
 <img src="assets/images/Commits TB1v2.png" alt="Commits TB1v2" style="width:100%;">
 
