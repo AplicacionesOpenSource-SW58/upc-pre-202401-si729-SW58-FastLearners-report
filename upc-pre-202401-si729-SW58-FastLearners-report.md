@@ -1298,6 +1298,22 @@ Utilizamos la aplicación Trello para poder dar seguimiento a nuestro Backlog:
 |                     |                                         | TK71 | Proyectos prácticos             | Desarrollar proyectos prácticos                            | 7                  | Alejandro     | To-Do                                |
 
 ### 5.2.3.3 Development Evidence for Sprint Review
+| Repository | Branch | Commit Message | Commit ID |
+|------------|--------|----------------|-----------|
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | e9313eb |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | fix: data structures changed | e9e9663 |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | chore: transformers added | 022b56c |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | chore: rest services added | 0458e3c |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | chore: queries added | cd4cf44 |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | chore: added SignIn and SignUp Commands | cd50e4d |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | fix: Membership moved to valueobjects directory | 032b500 |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | chore: adding valueobjects, models (Membership, User) | 22b1c7c |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | chore: added shared context. | 902f482 |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | fix: persistence directories | 4135db8 |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | chore: persistence added | e0a16e2 |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | chore: added dependencies | eabd3e6 |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | chore: initial commit | a4dfb98 |
+
 ### 5.2.3.4 Testing Suite Evidence for Sprint Review
 ### 5.2.3.5 Execution Evidence for Sprint Review
 ### 5.2.3.6 Services Documentation Evidence for Sprint Review
