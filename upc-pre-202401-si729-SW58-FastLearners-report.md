@@ -1322,6 +1322,7 @@ Utilizamos la aplicación Trello para poder dar seguimiento a nuestro Backlog:
 
 ### 5.2.3.5 Execution Evidence for Sprint Review
 
+Se desarrollaron los web services correspondientes al backend de la aplicación web.
 
 ### 5.2.3.6 Services Documentation Evidence for Sprint Review
 Se configuro el backend de la aplicación.
