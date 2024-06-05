@@ -1325,6 +1325,11 @@ Se configuro el backend de la aplicación.
 Se configuro la base de datos en la nube de azure.
 <img src="assets/images/confAzure1.jpg" alt="Azure conf" style="width:100%;">
 <img src="assets/images/confAzure2.jpg" alt="Azure conf" style="width:100%;">
+Se configuro Firebase para el deployment
+<img src="assets/images/firebaseDe.jpg" alt="Firebase" style="width:100%;">
+La configuración de la fake api en JSON SERVER: 
+https://my-json-server.typicode.com/JorgeOrrego1201/FastLearners-json-server-OpenSource 
+<img src="assets/images/fakeApi.jpg" alt="Fake API json Server" style="width:100%;">
 ### 5.2.3.8 Team Collaboration Insights during Sprint
 
 | Alumno | Actividad |
