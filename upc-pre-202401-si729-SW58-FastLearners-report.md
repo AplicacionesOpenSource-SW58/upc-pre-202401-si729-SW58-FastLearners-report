@@ -1478,6 +1478,10 @@ Para lograr solucionar el problema del usuario, se deberia generar una vista en 
 
 ## 5.4. Video About-the-Product
 
+https://drive.google.com/file/d/1opr-z0_4wv-JMqCqGoe564p5ZbWYsZrN/view?usp=sharing
+
+<img src="assets/images/About.png" alt="Video About-The-Product" style="width:100%;">
+
 # Conclusiones y recomendaciones.
 
 ## Conclusiones (TB1)
