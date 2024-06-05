@@ -23,11 +23,18 @@
 
 # Project Report Collaboration Insights
 
+**Commits del Informe TB1:**
+
 <img src="assets/images/Commits TB1v2.png" alt="Commits TB1v2" style="width:100%;">
 
 ![REPOSITORIO FASTLEARNERS](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report)
 
 En el caso de Alejandro, sí trabajó pero hizo commits desde una cuenta que no estaba agregada a la organización. 
+
+
+**Commits del Informe TB2:**
+
+Poner aquí la parte de insights del repo de github del informe
 
 # Student Outcome
 
@@ -35,8 +42,8 @@ En el caso de Alejandro, sí trabajó pero hizo commits desde una cuenta que no 
 
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia. |Carlos Ochoa:<br> *TB1:*  Me enfoqué en el Startup Profile, la misión, la visión, los antecedentes y problemática de manera objetiva.<br> Jorge Orrego: <br> *TB1:*  Me encargué de realizar el diseño de la Landing Page y de la plataforma web.<br> Mathias Javier: <br> *TB1:*  wireframes de la Landing Page.<br>  Alejandro Pachas: <br> *TB1:*  Redacté los User Stories y el Product backlog.<br> |Se evidenció la problemática y se identificó el segmento objetivo|
-|Comunica por escrito con efectividad a diferentes rangos de audiencia.|Carlos Ochoa:<br> *TB1:*  Desarrollé el apartado del Lean UX Process<br>  Jorge Orrego: <br> *TB1:*  Me encargué de realizar las guías para el diseño del sitio web. <br>Mathias Javier: <br> *TB1:*  Me encargué del Software Configuration Management<br>  Alejandro Pachas: <br> *TB1:*  Realicé el Impact Map de la aplicación|Se logró desarrollar las hipotesis de negocio |
+|Comunica oralmente con efectividad a diferentes rangos de audiencia. |Carlos Ochoa:<br> *TB1:*  Me enfoqué en el Startup Profile, la misión, la visión, los antecedentes y problemática de manera objetiva.<br> Jorge Orrego: <br> *TB1:*  Me encargué de realizar el diseño de la Landing Page y de la plataforma web.<br> <br> *TB2:*  Me encargué de realizar mejoras continuas en en frontend de la aplicación web. <br> Mathias Javier: <br> *TB1:*  wireframes de la Landing Page.<br>  Alejandro Pachas: <br> *TB1:*  Redacté los User Stories y el Product backlog.<br> |Se evidenció la problemática y se identificó el segmento objetivo|
+|Comunica por escrito con efectividad a diferentes rangos de audiencia.|Carlos Ochoa:<br> *TB1:*  Desarrollé el apartado del Lean UX Process<br>  Jorge Orrego: <br> *TB1:*  Me encargué de realizar las guías para el diseño del sitio web. <br> *TB2:* Me encargué de revisar y corregir observaciones en el informe.  <br> <br>Mathias Javier: <br> *TB1:*  Me encargué del Software Configuration Management<br>  Alejandro Pachas: <br> *TB1:*  Realicé el Impact Map de la aplicación|Se logró desarrollar las hipotesis de negocio |
 
 # Contenido
 
@@ -1217,8 +1224,9 @@ Desplegamos el frontend por medio de Firebase:
 
 ![imagen](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/2a44dd58-26c6-4641-942e-a9d7bc019e6f)
 
+![imagen](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/584c5954-88b3-4f0e-ab16-15e4d32eb133)
 
-Link del repositorio: https://fastlearners-e07b8.web.app/
+Link para visualizar el frontend: [https://fastlearners-e07b8.web.app/](https://fastlearners-opensource.web.app/home)
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
