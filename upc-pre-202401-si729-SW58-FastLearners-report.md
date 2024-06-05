@@ -1301,7 +1301,14 @@ Utilizamos la aplicación Trello para poder dar seguimiento a nuestro Backlog:
 ### 5.2.3.4 Testing Suite Evidence for Sprint Review
 ### 5.2.3.5 Execution Evidence for Sprint Review
 ### 5.2.3.6 Services Documentation Evidence for Sprint Review
+Se configuro el backend de la aplicación.
+<img src="assets/images/backend1.png" alt="Backend run image" style="width:100%;">
+<img src="assets/images/backend2.png" alt="Backend run image" style="width:100%;">
+<img src="assets/images/backend3.png" alt="Backend run image" style="width:100%;">
 ### 5.2.3.7 Software Deployment Evidence for Sprint Review
+Se configuro la base de datos en la nube de azure.
+<img src="assets/images/confAzure1.png" alt="Azure conf" style="width:100%;">
+<img src="assets/images/confAzure2.png" alt="Azure conf" style="width:100%;">
 ### 5.2.3.8 Team Collaboration Insights during Sprint
 
 | Alumno | Actividad |
