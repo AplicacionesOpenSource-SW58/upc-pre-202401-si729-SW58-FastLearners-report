@@ -1254,6 +1254,10 @@ Nuestro Tercer Sprint #3 comienza el 30/06/2024 y tiene como finalidad resolver 
 | Creación de Servicios  y implementación con Azure y Dockers    |20 | 20|                     
 
 ### 5.2.3.2 Sprint Backlog 3
+Utilizamos la aplicación Trello para poder dar seguimiento a nuestro Backlog:
+<img src="assets/images/trello-Sprint3.jpg" alt="Trello Sprint 3" style="width:100%;">
+
+
 | Historia de Usuario | Title                                   | Id   | Title                           | Description                                               | Estimation (Hours) | Assigned To | Status (ToDo/InProcess/ToReview/Done) |
 |---------------------|-----------------------------------------|------|---------------------------------|-----------------------------------------------------------|--------------------|-------------|--------------------------------------|
 | HU20                | Acceder a recursos de referencia        | TK20 | Organización y Base de datos    | Diseñar la estructura y base de datos de recursos          | 6                 | Marco       | To-Do                                |
