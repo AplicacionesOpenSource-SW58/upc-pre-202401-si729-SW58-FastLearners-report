@@ -1304,7 +1304,7 @@ Utilizamos la aplicación Trello para poder dar seguimiento a nuestro Backlog:
 ### 5.2.3.7 Software Deployment Evidence for Sprint Review
 ### 5.2.3.8 Team Collaboration Insights during Sprint
 
-## 5.3. Validation Interviewsr
+## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 
 Para poder hacer una validacion de nuestras entrevistas se empleará los siguientes recursos:
@@ -1464,6 +1464,8 @@ Al iniciar sesion, existe un boton para los usuarios si es que llegaron a olvida
 Recomendacion:<br>
 Para lograr solucionar el problema del usuario, se deberia generar una vista en la cual el usuario ingrese su correo electronico o su numero telefonico para que le envien un codigo o link de recuperacion de contraseña, de esta manera solucionando el problema  
 
+## 5.4. Video About-the-Product
+
 # Conclusiones y recomendaciones.
 
 ## Conclusiones (TB1)
@@ -1478,6 +1480,17 @@ Para lograr solucionar el problema del usuario, se deberia generar una vista en 
 **Próximos pasos**
 
 * Completar el desarrollo de la plataforma (funcionalidades restantes e integración con herramientas de terceros). &nbsp;
+  
+## Conclusiones (TB2)
+
+**Conclusiones específicas**
+
+* El backend de la plataforma se encuentra en una etapa de desarrollo inicial, destinada a la subida de archivos, inicio de sesion y registro de usuarios. &nbsp;
+* Logramos recaudar feedbacks de los propios usuarios, de esta manera mejorar y brindar una mejor experiencia al mismo.  &nbsp;
+
+**Próximos pasos**
+
+* Completar el desarrollo del backend (funcionalidades restantes e integración con herramientas de terceros). &nbsp;
 
 # Bibliografía
 
