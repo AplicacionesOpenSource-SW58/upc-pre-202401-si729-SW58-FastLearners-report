@@ -966,7 +966,7 @@ Aquí están algunas convenciones clave para el uso de HTML:
 2.	Cerrar todos los elementos en HTML, es una buena práctica hacerlo para evitar problemas de compatibilidad y mejorar la claridad del código.
 3.	Escribir comentarios cortos en una sola línea para una mayor claridad y organización del código.
 4.	Evitar líneas de código excesivamente largas y agregar espacios en blanco solo cuando sea necesario para mejorar la organización del código.
-5.	Nunca omitir elementos importantes como <title>, <html>, <body>, y <head>, ya que desempeñan un papel crucial en la estructura y el contenido de la página.
+5.	Nunca omitir elementos importantes como  `<title>` , `<html>`, `<body>`, y `<head>`, ya que desempeñan un papel crucial en la estructura y el contenido de la página.
 6.	Incluir el atributo lang dentro de la etiqueta <html> para especificar el idioma de la página.
 7.	Es importante especificar atributos como alt, ancho y altura para las imágenes para mejorar la accesibilidad y reducir el parpadeo.
 8.	Evitar el uso de espacios alrededor de los signos en HTML para una mejor legibilidad.
@@ -1251,8 +1251,8 @@ Repositorio Frontend
 
 ![imagen](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/77ea3016-fa91-4a6b-82e6-07a9702fe3d0)
 
-#### 5.2.3 Sprint 3
-### 5.2.3.1 Sprint Planning 3
+### 5.2.3 Sprint 3
+#### 5.2.3.1 Sprint Planning 3
 Nuestro Tercer Sprint #3 comienza el 30/06/2024 y tiene como finalidad resolver los comentarios recibidos del Sprint 2, realizar el BackEnd, asímismo hacer los servicios necesarios según nuestras User Stories
 
 | Sprint | Date       | Time  | Location                          | Prepared By | Attendes                                                           |
@@ -1265,7 +1265,8 @@ Nuestro Tercer Sprint #3 comienza el 30/06/2024 y tiene como finalidad resolver 
 | Realizar el Back End de la web application utilizando Java | 65 | 65              |
 | Creación de Servicios  y implementación con Azure y Dockers    |20 | 20|                     
 
-### 5.2.3.2 Sprint Backlog 3
+#### 5.2.3.2 Sprint Backlog 3
+
 Utilizamos la aplicación Trello para poder dar seguimiento a nuestro Backlog:
 <img src="assets/images/trello-Sprint3.jpg" alt="Trello Sprint 3" style="width:100%;">
 
@@ -1301,7 +1302,8 @@ Utilizamos la aplicación Trello para poder dar seguimiento a nuestro Backlog:
 | HU29                | Acceder a recursos sobre tecnologías emergentes | TK69 | Desarrollo de contenido y plataforma | Desarrollar contenido y plataforma                         | 7                 | Jorge    | To-Do                                |
 |                     |                                         | TK71 | Proyectos prácticos             | Desarrollar proyectos prácticos                            | 7                  | Alejandro     | To-Do                                |
 
-### 5.2.3.3 Development Evidence for Sprint Review
+#### 5.2.3.3 Development Evidence for Sprint Review
+
 | Repository | Branch | Commit Message | Commit ID |
 |------------|--------|----------------|-----------|
 | [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | e9313eb |
@@ -1318,31 +1320,37 @@ Utilizamos la aplicación Trello para poder dar seguimiento a nuestro Backlog:
 | [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | chore: added dependencies | eabd3e6 |
 | [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | chore: initial commit | a4dfb98 |
 
-### 5.2.3.4 Testing Suite Evidence for Sprint Review
+#### 5.2.3.4 Testing Suite Evidence for Sprint Review
 
 | Repository   | Branch  |  Commited on (Date)|
 |------|-----------------------------------|----------------------------------------|
 | https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report | upc-pre-202401-si729-SW58-FastLearners-report/main                  | 28/04/2024 |
 
-### 5.2.3.5 Execution Evidence for Sprint Review
+#### 5.2.3.5 Execution Evidence for Sprint Review
 
 Se desarrollaron los web services correspondientes al backend de la aplicación web.
 
-### 5.2.3.6 Services Documentation Evidence for Sprint Review
+#### 5.2.3.6 Services Documentation Evidence for Sprint Review
+
 Se configuro el backend de la aplicación.
 <img src="assets/images/backend1.jpg" alt="Backend run image" style="width:100%;">
 <img src="assets/images/backend2.jpg" alt="Backend run image" style="width:100%;">
 <img src="assets/images/backend3.jpg" alt="Backend run image" style="width:100%;">
-### 5.2.3.7 Software Deployment Evidence for Sprint Review
+
+#### 5.2.3.7 Software Deployment Evidence for Sprint Review
+
 Se configuro la base de datos en la nube de azure.
 <img src="assets/images/confAzure1.jpg" alt="Azure conf" style="width:100%;">
 <img src="assets/images/confAzure2.jpg" alt="Azure conf" style="width:100%;">
+
 Se configuro Firebase para el deployment
 <img src="assets/images/firebaseDe.jpg" alt="Firebase" style="width:100%;">
+
 La configuración de la fake api en JSON SERVER: 
 https://my-json-server.typicode.com/JorgeOrrego1201/FastLearners-json-server-OpenSource 
 <img src="assets/images/FakeApi.jpg" alt="Fake API json Server" style="width:100%;">
-### 5.2.3.8 Team Collaboration Insights during Sprint
+
+#### 5.2.3.8 Team Collaboration Insights during Sprint
 
 | Alumno | Actividad |
 |--------|-----------|
@@ -1360,17 +1368,18 @@ https://my-json-server.typicode.com/JorgeOrrego1201/FastLearners-json-server-Ope
 ### 5.3.1. Diseño de Entrevistas
 
 Para poder hacer una validacion de nuestras entrevistas se empleará los siguientes recursos:
-# Landing Page
+
+**Landing Page:**
 <img src="assets/images/DeploymentLandingPage.png" alt="Deployment Landing Page" style="width:100%;">
 
-# FrontEnd Web Application
+**FrontEnd Web Application:**
 <img src="assets/images/WebApp.png" alt="Deployment Web Application" style="width:100%;">
 
-### User Flows a validar en el Landing Page
+**User Flows a validar en el Landing Page:**
 
 f. User Flow Diagram F: Suscribirse a un plan
 
-### User Flows a validar en el Frontend Web Application
+**User Flows a validar en el Frontend Web Application**
 
 a. User Flow Diagram A: Iniciar Sesion <br>
 b. User Flow Diagram B: Visualizar Cuenta <br>
@@ -1379,7 +1388,7 @@ d. User Flow Diagram D: Revisar los repositorios <br>
 e. User Flow Diagram E: Revisar los recursos multimedia <br>
 f. User Flow Diagram F: Suscribirse a un plan <br>
 
-Preguntas que se realizaran a los entrevistados:
+**Preguntas que se realizaran a los entrevistados:**
 
 a. ¿Despues de ver nuestra Landing Page, te dio curiosidad nuestro producto? <br>
 b. ¿Lograste visualizar el inicio de sesion en la pagina web de nuestra aplicacion? ¿Te parecio sencillo? <br>
@@ -1393,47 +1402,35 @@ f. Para finalizar ¿Cual es el mayor atractivo de nuestro producto para ti? <br>
 
 Realizamos 5 entrevistas que van dirigidas a nuestro publico objetivo, en estas entrevistas les mostramos el recorrido por nuestra web application y de nuestra landing page a nuestros entrevistados:
 
-### Entrevistado N°1 
-
+**Entrevistado N°1** 
 
 Este esta entrevista pudimos contactar con Matias Castillo, el es un entusiasta por la tecnologia y todo lo que la abarca y siempre ha querido aprender a programar en ciertos lenguajes como son Pynthon y C++, gracias a ello, nuestro producto es perfecto para el ya que exploremos junto a el Lading Page y nuestro Web Application. Luego que Matias interactue con todas las opciones y servicios que le brindamos a nuestros usuarios, nos comento, que la usabilidad del producto era muy sencilla para el usuario. Tambien nos comento que le parece una gran idea que personas experimentadas puedan compartir su propio contenido. Y como recomendacion nos dejo que estuvieramos al tanto del contenido que subian los usuarios ya que no siempre puede ser correcto y/o puede inflingir los valores que tratamos de cubrir como startup.
 
-### Entrevistado N°2
-
+**Entrevistado N°2**
 
 Como segundo entrevistado tenemos a Sebastian Brito, el es un desarrollador web, encargado del frontend. Junto a el haremos un recorrido por nuestro Landing Page y Web Application. Al terminar su recorrido nos comentó que le encanta la idea de poder compartir sus conocimientos con desarrolladores inexpertos y que le parece la mejor manera de aprender. Tambien nos deja como retroalimentacion el que hay que cuidar la estetica de nuestro producto, ya que, eso es lo que llamará a más usuarios, al igual que la facilidad de carga y descarga de contenido. 
 
-### Entrevistado N°3
-
-
+**Entrevistado N°3**
 
 En la entrevista realizada tenemos como invitada a Grecia Zegarra, junto a ella realizaremos un recorrido completo por nuestra Landing Page y Web Application, en el cual podremos ver todas las funcionalidades y servicios que ofrecemos. Grecia nos menciona que ella ha empezado hace poco en la programacion y que no ha encontrado informacion personalizada a su forma de aprendizaje. Al terminar nuestro recorrido, nos dejo como observacion 3 puntos muy importante a tomar en cuenta: el primero, le parecio una super idea poder tener mas de un metodo de aprendizaje, ya sea leyendo, esuchando o viendo. Segundo, le gustaria que no descuidaramos actualizar los repositorios y materiales de estudio, ya que, estos estan en constante evolucion. Y por ultimo le gustaria poder tener una seccion de lista de reproduccion para los materiales multimedia. Puntos clave que tomaremos en cuenta en futuras actualizaciones. 
 
-
-
-### Entrevistado N°4 
-
-
+**Entrevistado N°4** 
 
 Como cuarta entrevista tenemos a Agustin Ruiz, el nos comenta que trabaja hace 2 años en el sector de desarrollo de software, y le gustaria poder compartir con los jovenes programadores y/o estudiantes a fines, todo el material que le ayudo para llegar hasta donde el ha llegado. Para esto le daremos un recorrido por nuestra Landing Page y nuestro Web Application. Terminado el recorrido, Agustin nos comenta lo siguiente: Primero le parece que la interfaz es sencilla y facil de entender y segunda y ultima observacion, es que, tengamos cuidado por medio de un filtro lo que se subirá como contenido, ya que, puede que la informacion sea fraudulenta. Una observacion que tomaremos en cuenta muy cuidadosamente. 
 
-### Entrevistado N°5
-
+**Entrevistado N°5**
 
 Y para finalizar con nuestras entrevistas tenemos a Rodrigo Vertiz, nos comenta que es su primer año en la carrera de Ingenieria de Software, y que le gustaria avanzar por su cuenta con algunos temas de programacion. Por ello, le daremos un recorrido por nuestra Landing Page y nuestra Web Application. Al finalizar nuestro recorrido, no comenta que los servicios que le brindamos a nuestros usuarios le parecen excelente, al igual que la manera de aprender con material que le sirvio a expertos y de igual modo la interfaz y el manejo del producto, es sencillo y visualmente accesible para todos.
 
-
 ### 5.3.3. Evaluaciones segun heuristicas
 
-# Site o App a evaluar:
+**Site o App a evaluar:** FastLearners
 
-FastLearners
+**Meta:** Encontrar los problemas que existen dentro de nuestra aplicacion web de FastLearners
 
-Meta: Encontrar los problemas que existen dentro de nuestra aplicacion web de FastLearners
+**Como:** Utilizando la Lista Heuristica de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
 
-Como: Utilizando la Lista Heuristica de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
-
-### Tareas a evaluar:
+**Tareas a evaluar:**
 
 1. Iniciar sesion en la aplicacion
 2. Visualizar los datos de la cuenta usuario
@@ -1441,14 +1438,15 @@ Como: Utilizando la Lista Heuristica de Nielsen, inicialmente investigada y crea
 4. Visualizar repositorios
 5. Visualizar el foro estudiantil
 
-### No estan incluidas en esta version de la evaluacion las siguientes tareas:
+**No estan incluidas en esta version de la evaluacion las siguientes tareas:**
 
 1. Seccion de compra de suscripciones
 2. Subir contenido
 3. Visualizar contenido subido
 4. Editar cuenta usuario
 
-### Escala de Severidad:
+**Escala de Severidad:**
+
 Los errores seran puntuados tomando en cuenta la siguiente escala de severidad
 
 |Nivel|Nivel de descripcion|
@@ -1458,7 +1456,8 @@ Los errores seran puntuados tomando en cuenta la siguiente escala de severidad
 |  3  |Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta|
 |  4  |Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento|
 
-### Tabla Resumen (Problemas):
+**Tabla Resumen (Problemas):**
+
 |#|Problema|Escala de severidad|Herustica/Principio violada(o)|
 |-|--------|-------------------|------------------------------|
 |1| Problema con la carga de contenido por parte del usuario en la seccion "Subir contenido" | 4 | Usability: Usabilidad y control del usuario |
@@ -1466,65 +1465,89 @@ Los errores seran puntuados tomando en cuenta la siguiente escala de severidad
 |3| Falta de imagenes de referencia para el usuario en la seccion "Material multimedia" | 1 | Inclusive Design: Proporciona experiencias comparables |
 |4| Problema con el boton "¿Olvidaste tu contraseña?" en la seccion "Iniciar sesion" | 2 | Usability: Usabilidd y control del usuario |
 
-### Descripccion de problemas:
+**Descripccion de problemas:**
 
-### Problema N°1:
-Problema con la carga de contenido por parte del usuario en la seccion "Subir contenido".
+**Problema N°1:** 
+
+Título: Problema con la carga de contenido por parte del usuario en la seccion "Subir contenido".
 
 Severidad: 4
+
 Heuristica violada: Usability: Usabilidad y control del usuario
 
-Problema: <br>
+Descripción: 
+
 Cuando el usuario quiere cargar su contenido en la plataforma, no se genera ninguna subida visual ni carga de archivos disponible para que el usuario pueda usar esta funcionalidad, esto limitando la experiencia por completo de parte del mismo usuario.
+
 <img src="assets/images/Subircontenido.png" alt="Subida de contenido" style="width:100%;">
-Recomendacion:<br>
+
+Recomendacion: 
+
 Para lograr solucionar este problema, recomiendo por un lado crear una vista para la carga de contenido, con titulo, descripcion y tipo de contenido, podría haber una imagen referenciar (opcional). Y por otro lado ver por parte del json que la subida de contenido se guarde para que no quede en blanco la subida. 
 
-### Problema N°2:
-Problema con la visualizacion del contenido cargado por parte del usuario en la seccion "Ver contenido subido".
+**Problema N°2:**
+
+Título: Problema con la visualizacion del contenido cargado por parte del usuario en la seccion "Ver contenido subido".
 
 Severidad: 4
+
 Heuristica violada: Usability: Usabilidad y control del usuario
 
-Problema: <br>
+Problema: 
+
 Cuando el usuario quiere visualizar su contenido cargado en la plataforma, no se genera ninguna seccion de visualizacion y/o edicion de archivos disponible para que el usuario pueda usar esta funcionalidad.
+
 <img src="assets/images/Editarcontenido.png" alt="Visualizacion y edicion de contenido" style="width:100%;">
-Recomendacion:<br>
+
+Recomendacion:
+
 Para lograr solucionar este problema, recomiendo por un lado crear una vista para la visualizacion y edicion de contenido. Y por otro lado ver por parte del json que en el archivo si se haya guardado correctamente el contenido úblicado por el mismo usuario.
 
-### Problema N°3:
-Falta de imagenes de referencia para el usuario en la seccion "Material multimedia".
+**Problema N°3:**
+
+Título: Falta de imagenes de referencia para el usuario en la seccion "Material multimedia".
 
 Severidad: 1
+
 Heuristica violada: Inclusive Design: Proporciona experiencias comparables
 
-Problema: <br>
+Problema: 
+
 Al ingresar a la seccion de material multimedia, el usuario no tiene imagenes referenciales para poder guiarse o entrar mas confiado al contenido, esto haciendo que algunos usuarios no ingresen al contenido publicado.
+
 <img src="assets/images/ImgRef.png" alt="Imagenes referenciales" style="width:100%;">
-Recomendacion:<br>
+
+Recomendacion:
+
 Para lograr solucionar el problema del usuario, se deberia generar una seccion en el apartado de "subir contenido" para que puedan agregar imagenes referenciales, esto dando mas confianza y tranquilidad al usuario y de igual manera generando mayor estetica en la plataforma. 
 
-### Problema N°4:
-Problema con el boton "¿Olvidaste tu contraseña?" en la seccion "Iniciar sesion".
+**Problema N°4:**
+
+Título: Problema con el boton "¿Olvidaste tu contraseña?" en la seccion "Iniciar sesion".
 
 Severidad: 2
+
 Heuristica violada: Usability: Usabilidad y control del usuario
 
-Problema: <br>
+Problema:
+
 Al iniciar sesion, existe un boton para los usuarios si es que llegaron a olvidar su contraseeña y este no te genera ninguna ayuda al problema de olvidar tu contraseña
+
 <img src="assets/images/OlvContra.png" alt="¿Olvidaste tu contraseña?" style="width:100%;">
-Recomendacion:<br>
+
+Recomendacion:
+
 Para lograr solucionar el problema del usuario, se deberia generar una vista en la cual el usuario ingrese su correo electronico o su numero telefonico para que le envien un codigo o link de recuperacion de contraseña, de esta manera solucionando el problema  
 
 ## 5.4. Video About-the-Product
 
-https://drive.google.com/file/d/1opr-z0_4wv-JMqCqGoe564p5ZbWYsZrN/view?usp=sharing
-
 <img src="assets/images/About.png" alt="Video About-The-Product" style="width:100%;">
+
+**Enlace al video:** https://drive.google.com/file/d/1opr-z0_4wv-JMqCqGoe564p5ZbWYsZrN/view?usp=sharing v
 
 # Conclusiones y recomendaciones.
 
-## Conclusiones (TB1)
+## Conclusiones (rellenar específicamente para el TF)
 
 **Conclusiones específicas**
 
@@ -1532,21 +1555,6 @@ https://drive.google.com/file/d/1opr-z0_4wv-JMqCqGoe564p5ZbWYsZrN/view?usp=shari
 * Logramos validar de manera eficaz la necesidad de nuestros usuarios con entrevistas a programadores e ingenieros de software, quienes mostraron interés en la plataforma y sus funcionalidades. &nbsp;
 * Hubo cierta dificultad para desarrollar el plan de negocios que pueda ser estable, dado que primero tenemos que asegurar el bienestar económico de la startup. &nbsp;
 * Creado un equipo de desarrollo con las habilidades y experiencia necesarias para llevar a cabo el proyecto. &nbsp;
-
-**Próximos pasos**
-
-* Completar el desarrollo de la plataforma (funcionalidades restantes e integración con herramientas de terceros). &nbsp;
-  
-## Conclusiones (TB2)
-
-**Conclusiones específicas**
-
-* El backend de la plataforma se encuentra en una etapa de desarrollo inicial, destinada a la subida de archivos, inicio de sesion y registro de usuarios. &nbsp;
-* Logramos recaudar feedbacks de los propios usuarios, de esta manera mejorar y brindar una mejor experiencia al mismo.  &nbsp;
-
-**Próximos pasos**
-
-* Completar el desarrollo del backend (funcionalidades restantes e integración con herramientas de terceros). &nbsp;
 
 # Bibliografía
 
