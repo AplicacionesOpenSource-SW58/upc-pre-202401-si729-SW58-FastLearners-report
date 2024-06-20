@@ -5,7 +5,7 @@
 ## CURSO: SI729 Aplicaciones Open Source | SECCIÓN SW58
  Profesor: Efrain Ricardo Bautista Ubillus
 
-# Informe de TB2
+# Informe TF
 **Startup:** FastLearners
 
 ### Integrantes:
@@ -19,7 +19,11 @@
 # Registro de Versiones del Informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 25/03/2024 |Grupo 4 |Se crea el documento |
+| 0.0 | 25/03/2024 | Grupo 4 |Se crea el documento |
+| 1.0 | 04/04/2024 | Grupo 4 | Inicio del desarrollo del informe TB1|
+| 2.0 | 23/04/2024 | Grupo 4 | Inicio del desarrollo del informe TP |
+| 3.0 | 14/05/2024 | Grupo 4 | Inicio del desarrollo del informe TB2|
+| 4.0 | 20/06/2024 | Grupo 4 | Inicio del desarrollo del informe TF |
 
 # Project Report Collaboration Insights
 
@@ -1253,7 +1257,7 @@ Nuestro Tercer Sprint #3 comienza el 30/06/2024 y tiene como finalidad resolver 
 
 | Sprint | Date       | Time  | Location                          | Prepared By | Attendes                                                           |
 |--------|------------|-------|-----------------------------------|-------------|--------------------------------------------------------------------|
-| 3    | 30/06/2024 | 17:00 | Reunión Virtual mediante Discord | Marco Mendez| - Carlos Ochoa, Jorge Orrego, Mathias Javier, Marco Mendez, Alejandro                            
+| 3    | 30/05/2024 | 17:00 | Reunión Virtual mediante Discord | Marco Mendez| - Carlos Ochoa, Jorge Orrego, Mathias Javier, Marco Mendez, Alejandro                            
 
 | Sprint 3 Goal                                        | Velocity | Sum of Story Points |
 |------------------------------------------------------|----------|---------------------|
