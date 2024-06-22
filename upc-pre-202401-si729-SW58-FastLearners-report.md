@@ -20,10 +20,28 @@
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
 | 0.0 | 25/03/2024 | Grupo 4 |Se crea el documento |
-| 1.0 | 04/04/2024 | Grupo 4 | Inicio del desarrollo del informe TB1|
-| 2.0 | 23/04/2024 | Grupo 4 | Inicio del desarrollo del informe TP |
-| 3.0 | 14/05/2024 | Grupo 4 | Inicio del desarrollo del informe TB2|
-| 4.0 | 20/06/2024 | Grupo 4 | Inicio del desarrollo del informe TF |
+| 1.0 | 02/04/2024 | Grupo 4 | Inicio del sprint 1|
+| 1.1 | 04/04/2024 | Grupo 4 | Se agrega el capítulo 1: Introducción|
+| 1.2 | 06/04/2024 | Grupo 4 | Se agrega el capítulo 2: Requirements Elicitation & Analyis|
+| 1.3 | 06/04/2024 | Grupo 4 | Se agrega el capítulo 3:Requirements Specification|
+| 1.4 | 7/04/2024 | Grupo 4 | Se agrega el capítulo 4: Product Design|
+| 1.5 | 7/04/2024 | Grupo 4 | Se inicia el capítulo 5: Product Implementation, Validation & Deployment|
+| 1.6 | 8/04/2024 | Grupo 4 | Se realizan los puntos 5.1.1 hasta el 5.1.4|
+| 1.7 | 8/04/2024 | Grupo 4 | Se realiza el sprint 1 agregando el planning, backlog, etc|
+| 2.0 | 17/04/2024 | Grupo 4 | Inicio del sprint 2 |
+| 2.1 | 20/04/2024 | Grupo 4 | Se desarrolla el Sprint Planning 2, SprintBacklog 2 |
+| 2.2 | 21/04/2024 | Grupo 4 | Se agrega el Development Evidence for Sprint Review |
+| 2.3 | 23/05/2024 | Grupo 4 | Se agrega el Testing Suite Evidence, Services Documentation y Software Deployment Evidence|
+| 2.4 | 27/04/2024 | Grupo 4 | Se agrega el Team collaboration Insights during Sprint |
+| 3.0 | 14/05/2024 | Grupo 4 | Inicio del Sprint 3|
+| 3.1 | 16/05/2024 | Grupo 4 | Se desarrolla el Sprint Planning 2|
+| 3.2 | 16/05/2024 | Grupo 4 | Se agrega el Sprint Backlog 2 |
+| 3.3 | 21/05/2024 | Grupo 4 | Se agrega el Development Evidence for Sprint Review |
+| 3.4 | 23/05/2024 | Grupo 4 | Se agrega el Testing Suite Evidence y Services Documentation |
+| 3.4 | 27/05/2024 | Grupo 4 | Se agrega el Software Deployment Evidence for Sprint Review |
+| 3.5 | 04/06/2024 | Grupo 4 | Se agrega el Team collaboration Insights during Sprint |
+| 4.0 | 20/06/2024 | Grupo 4 | Inicio del Sprint 4 |
+| 4.1 | 20/06/2024 | Grupo 4 | Inicio del desarrollo del informe TF |
 
 # Project Report Collaboration Insights
 
