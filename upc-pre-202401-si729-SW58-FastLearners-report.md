@@ -1,8 +1,8 @@
-# UPC
+# Universidad Peruana de Ciencias Aplicadas
 
 # INGENIERÍA DE SOFTWARE
 
-## CURSO: SI729 Aplicaciones Open Source | SECCIÓN SW58
+## CURSO: SI729 Aplicaciones Open Source | SECCIÓN SW58 | 2024-1
  Profesor: Efrain Ricardo Bautista Ubillus
 
 # Informe TF
