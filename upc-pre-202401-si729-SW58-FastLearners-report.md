@@ -950,18 +950,18 @@ Membership representa la clase del tipo de membresía.
 ### 4.8.1. Database Diagram.
 Un diagrama de base de datos es una herramienta visual que representa la estructura y relaciones de una base de datos. Consta de tablas (entidades), donde cada tabla tiene columnas (atributos) que representan los diferentes tipos de datos que almacena.
 Se agregaron distintos patrones, entre ellos:
-1. Patrón Singleton
-NotificationManager: Esta clase emplea el patrón Singleton, como se indica por la instancia estática notificationManager: instance. El constructor es privado o protegido para evitar la instanciación directa, asegurando que solo exista una instancia de NotificationManager.
-2.  Patrón Observer
-NotificationManager y User: El NotificationManager mantiene una lista de observadores (Usuarios) y proporciona métodos para agregar o eliminar observadores (addObserver, removeObserver). Los usuarios pueden suscribirse a las notificaciones, y cuando se envía una notificación, todos los observadores son notificados (notifyObservers).
-3.  Patrón Factory Method
-MembershipFactory y sus subclases: El diagrama incluye varias clases de fábrica (MembershipFactory, BasicMembershipFactory, RegularMembershipFactory, PremiumMembershipFactory) responsables de crear diferentes tipos de membresías. Cada clase de fábrica tiene un método createMembership para instanciar tipos específicos de membresías.
-4.  Patrón Strategy
-PaymentStrategy y sus subclases: La interfaz PaymentStrategy es implementada por CreditCardPayment. Esto permite que el sistema use diferentes métodos de pago de manera intercambiable. El método pay en la interfaz PaymentStrategy define la estructura del algoritmo, y las subclases proporcionan implementaciones específicas.
-5.  Patrón Command
-Command, UploadContentCommand, DeleteContentCommand, CommandManager: El patrón Command se utiliza para encapsular solicitudes como objetos, permitiendo la parametrización de clientes con colas, solicitudes y operaciones. UploadContentCommand y DeleteContentCommand extienden la clase Command, implementando los métodos execute y undo. El CommandManager mantiene una pila de comandos para soportar operaciones como ejecutar y deshacer comandos (executeCommand, undoCommand).
-6.  Patrón Composite
-Content y Question: La clase Content contiene una lista de preguntas (questions: List<Question>), permitiendo que los objetos individuales (Preguntas) se traten de manera uniforme. Esta estructura forma una jerarquía parte-todo, lo cual es característico del patrón Composite.
+1. Patrón Singleton:
+ NotificationManager: Esta clase emplea el patrón Singleton, como se indica por la instancia estática notificationManager: instance. El constructor es privado o protegido para evitar la instanciación directa, asegurando que solo exista una instancia de NotificationManager.
+2.  Patrón Observer:
+ NotificationManager y User: El NotificationManager mantiene una lista de observadores (Usuarios) y proporciona métodos para agregar o eliminar observadores (addObserver, removeObserver). Los usuarios pueden suscribirse a las notificaciones, y cuando se envía una notificación, todos los observadores son notificados (notifyObservers).
+3.  Patrón Factory Method:
+ MembershipFactory y sus subclases: El diagrama incluye varias clases de fábrica (MembershipFactory, BasicMembershipFactory, RegularMembershipFactory, PremiumMembershipFactory) responsables de crear diferentes tipos de membresías. Cada clase de fábrica tiene un método createMembership para instanciar tipos específicos de membresías.
+4.  Patrón Strategy:
+ PaymentStrategy y sus subclases: La interfaz PaymentStrategy es implementada por CreditCardPayment. Esto permite que el sistema use diferentes métodos de pago de manera intercambiable. El método pay en la interfaz PaymentStrategy define la estructura del algoritmo, y las subclases proporcionan implementaciones específicas.
+5.  Patrón Command:
+ Command, UploadContentCommand, DeleteContentCommand, CommandManager: El patrón Command se utiliza para encapsular solicitudes como objetos, permitiendo la parametrización de clientes con colas, solicitudes y operaciones. UploadContentCommand y DeleteContentCommand extienden la clase Command, implementando los métodos execute y undo. El CommandManager mantiene una pila de comandos para soportar operaciones como ejecutar y deshacer comandos (executeCommand, undoCommand).
+6.  Patrón Composite:
+ Content y Question: La clase Content contiene una lista de preguntas (questions: List<Question>), permitiendo que los objetos individuales (Preguntas) se traten de manera uniforme. Esta estructura forma una jerarquía parte-todo, lo cual es característico del patrón Composite.
 <img src="assets/images/db.png" alt="DatabaseDiagram" style="width:90%">
 
 # Capítulo V: Product Implementation, Validation & Deployment
