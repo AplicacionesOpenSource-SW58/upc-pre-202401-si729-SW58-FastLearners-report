@@ -1435,9 +1435,13 @@ Realizamos 5 entrevistas que van dirigidas a nuestro publico objetivo, en estas 
 
 **Entrevistado N°1** 
 
+<img src="assets/images/Entrevista-Matias.png" alt="Deployment Landing Page" style="width:100%;">
+
 Este esta entrevista pudimos contactar con Matias Castillo, el es un entusiasta por la tecnologia y todo lo que la abarca y siempre ha querido aprender a programar en ciertos lenguajes como son Pynthon y C++, gracias a ello, nuestro producto es perfecto para el ya que exploremos junto a el Lading Page y nuestro Web Application. Luego que Matias interactue con todas las opciones y servicios que le brindamos a nuestros usuarios, nos comento, que la usabilidad del producto era muy sencilla para el usuario. Tambien nos comento que le parece una gran idea que personas experimentadas puedan compartir su propio contenido. Y como recomendacion nos dejo que estuvieramos al tanto del contenido que subian los usuarios ya que no siempre puede ser correcto y/o puede inflingir los valores que tratamos de cubrir como startup.
 
 **Entrevistado N°2**
+
+<img src="assets/images/Entrevista-Sebatian.png" alt="Deployment Landing Page" style="width:100%;">
 
 Como segundo entrevistado tenemos a Sebastian Brito, el es un desarrollador web, encargado del frontend. Junto a el haremos un recorrido por nuestro Landing Page y Web Application. Al terminar su recorrido nos comentó que le encanta la idea de poder compartir sus conocimientos con desarrolladores inexpertos y que le parece la mejor manera de aprender. Tambien nos deja como retroalimentacion el que hay que cuidar la estetica de nuestro producto, ya que, eso es lo que llamará a más usuarios, al igual que la facilidad de carga y descarga de contenido. 
 
@@ -1447,9 +1451,13 @@ En la entrevista realizada tenemos como invitada a Grecia Zegarra, junto a ella 
 
 **Entrevistado N°4** 
 
+<img src="assets/images/Entrevista-Andres.png" alt="Deployment Landing Page" style="width:100%;">
+
 Como cuarta entrevista tenemos a Andres Cieza, el nos comenta que trabaja hace 2 años en el sector de desarrollo de software, y le gustaria poder compartir con los jovenes programadores y/o estudiantes a fines, todo el material que le ayudo para llegar hasta donde el ha llegado. Para esto le daremos un recorrido por nuestra Landing Page y nuestro Web Application. Terminado el recorrido, Agustin nos comenta lo siguiente: Primero le parece que la interfaz es sencilla y facil de entender y segunda y ultima observacion, es que, tengamos cuidado por medio de un filtro lo que se subirá como contenido, ya que, puede que la informacion sea fraudulenta. Una observacion que tomaremos en cuenta muy cuidadosamente. 
 
 **Entrevistado N°5**
+
+<img src="assets/images/Entrevista-Rodrigo.png" alt="Deployment Landing Page" style="width:100%;">
 
 Y para finalizar con nuestras entrevistas tenemos a Rodrigo Castillo, nos comenta que es su primer año en la carrera de Ingenieria de Software, y que le gustaria avanzar por su cuenta con algunos temas de programacion. Por ello, le daremos un recorrido por nuestra Landing Page y nuestra Web Application. Al finalizar nuestro recorrido, no comenta que los servicios que le brindamos a nuestros usuarios le parecen excelente, al igual que la manera de aprender con material que le sirvio a expertos y de igual modo la interfaz y el manejo del producto, es sencillo y visualmente accesible para todos.
 
