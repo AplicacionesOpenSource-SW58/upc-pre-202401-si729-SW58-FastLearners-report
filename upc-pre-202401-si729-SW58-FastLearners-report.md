@@ -1443,7 +1443,7 @@ Link de la entrevista: https://drive.google.com/file/d/1ArjPJXhLUtZHgyKwFRUHrooN
 
 **Entrevistado N°2**
 
-<img src="assets/Entrevista-Sebatian.png" alt="Entrevistado-2" style="width:100%;">
+<img src="assets/Entrevista-Sebastian.png" alt="Entrevistado-2" style="width:100%;">
 
 Como segundo entrevistado tenemos a Sebastian Brito, el es un desarrollador web, encargado del frontend. Junto a el haremos un recorrido por nuestro Landing Page y Web Application. Al terminar su recorrido nos comentó que le encanta la idea de poder compartir sus conocimientos con desarrolladores inexpertos y que le parece la mejor manera de aprender. Tambien nos deja como retroalimentacion el que hay que cuidar la estetica de nuestro producto, ya que, eso es lo que llamará a más usuarios, al igual que la facilidad de carga y descarga de contenido. 
 
