@@ -1594,7 +1594,8 @@ Para lograr solucionar el problema del usuario, se deberia generar una vista en 
 
 <img src="assets/images/About.png" alt="Video About-The-Product" style="width:100%;">
 
-**Enlace al video:** https://drive.google.com/file/d/1opr-z0_4wv-JMqCqGoe564p5ZbWYsZrN/view?usp=sharing v
+**Enlace al video en Youtube:** https://www.youtube.com/watch?v=zAfdsqz8-tQ
+**Enlace al video en Teams:** https://upcedupe.sharepoint.com/:v:/s/FastLearners/EV8wnnrni0BOvOF1KZbSdkUBb3CB1v6UfqUvuXmEUc40TA?e=VTGxEc
 
 # Conclusiones y recomendaciones.
 
