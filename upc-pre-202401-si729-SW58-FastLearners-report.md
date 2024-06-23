@@ -1592,7 +1592,7 @@ Para lograr solucionar el problema del usuario, se deberia generar una vista en 
 
 ## 5.4. Video About-the-Product
 
-<img src="assets/images/About.png" alt="Video About-The-Product" style="width:100%;">
+<img src="assets/images/About-the-product.png" alt="Video About-The-Product" style="width:100%;">
 
 **Enlace al video en Youtube:** https://www.youtube.com/watch?v=zAfdsqz8-tQ
 **Enlace al video en Teams:** https://upcedupe.sharepoint.com/:v:/s/FastLearners/EV8wnnrni0BOvOF1KZbSdkUBb3CB1v6UfqUvuXmEUc40TA?e=VTGxEc
