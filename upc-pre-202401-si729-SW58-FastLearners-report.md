@@ -1475,10 +1475,31 @@ Link del despliegue: https://fast-learners-os.azurewebsites.net/swagger-ui/index
 | Alumno | Actividad |
 |--------|-----------|
 | Javier Murillo, Mathias| Reporte (5.3 y 5.4) |
-| Orrego Noriega, Jorge David | Desarrollo del Backend |
+| Orrego Noriega, Jorge David | Desarrollo y despliegue del Frontend |
 | Ochoa Colonio, Carlos Alberto | Desarrollo del Backend |
 | Pachas Chavez, Alejandro Alberto | Desarrollo del Backend |
-| Mendez Rosales, Marco Aurelio | Reporte (5.2.3.3 al 5.2.3.8) |
+| Mendez Rosales, Marco Aurelio | Reporte (5.2.4.3 al 5.2.4.8) |
+
+Repositorio Informe: 
+
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/6c89f72e-26c5-4fd3-88da-5fb4fec8f1d0)
+
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/41b35306-70ae-4de9-a7d9-2f72eba7e0b7)
+
+
+Repositorio Landing Page: 
+
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/4a73548b-b8bc-42cd-8e92-90c9aa9ea296)
+
+
+Repositorio Frontend: 
+
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/4fb41cbd-b329-4540-9961-2eb43ce34f48)
+
+
+Repositorio Backend: 
+
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/20105143-d289-4391-a7d0-ea025c0f472b)
 
 
 ## 5.3. Validation Interviews
