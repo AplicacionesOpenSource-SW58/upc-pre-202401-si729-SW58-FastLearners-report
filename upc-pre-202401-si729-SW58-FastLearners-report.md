@@ -1456,7 +1456,19 @@ Se desarrollaron los web services correspondientes al backend de la aplicación 
 
 #### 5.2.4.7 Software Deployment Evidence for Sprint Review
 
+**Despliegue del frontend con Firebase:** 
 
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/43eed098-59bf-4811-a598-5034952ca56e)
+
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/23df01a9-5fab-4149-a55d-4d3d5853c07d)
+
+Link del despliegue: https://fastlearners-opensource.web.app/home
+
+**Despliegue del backend con Azure:** 
+
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/fa8cb283-bd23-4ed5-98a4-fb4bf1e96018)
+
+Link del despliegue: https://fast-learners-os.azurewebsites.net/swagger-ui/index.html#/Users/getAllUsers
 
 #### 5.2.4.8 Team Collaboration Insights during Sprint
 
