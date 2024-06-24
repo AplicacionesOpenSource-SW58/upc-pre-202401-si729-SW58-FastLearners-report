@@ -1623,7 +1623,7 @@ Para lograr solucionar el problema del usuario, se deberia generar una vista en 
 
 ## Video About The Team
 
-**Enlace al video en Youtube:** 
+**Enlace al video en Youtube:** https://youtu.be/3ICXxvJwTz4
 
 # Bibliografía
 
@@ -1640,4 +1640,4 @@ Video About The Product: <br>
 **Enlace al video en Teams:** https://upcedupe.sharepoint.com/:v:/s/FastLearners/EV8wnnrni0BOvOF1KZbSdkUBb3CB1v6UfqUvuXmEUc40TA?e=VTGxEc
 
 Video About The Team: <br>
-**Enlace al video en Youtube:**
+**Enlace al video en Youtube:** https://youtu.be/3ICXxvJwTz4
