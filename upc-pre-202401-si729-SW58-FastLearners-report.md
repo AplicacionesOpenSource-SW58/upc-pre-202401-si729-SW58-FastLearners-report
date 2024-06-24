@@ -1416,7 +1416,24 @@ https://my-json-server.typicode.com/JorgeOrrego1201/FastLearners-json-server-Ope
 
 | Historia de Usuario | Title                                   | Id   | Title                           | Description                                               | Estimation (Hours) | Assigned To | Status (ToDo/InProcess/ToReview/Done) |
 |---------------------|-----------------------------------------|------|---------------------------------|-----------------------------------------------------------|--------------------|-------------|--------------------------------------|
-
+| HU23                | Recibir recomendaciones personalizadas  | TK41 | Algoritmo y recolección de datos | Desarrollar algoritmo y recolectar datos                   | 6                 | Alejandro      | To-Do                                |
+|                     |                                         | TK43 | Integración y preferencias      | Integrar recomendaciones y configurar preferencias         | 6                | Marco      | To-Do                                |
+|                     |                                         | TK45 | Adaptación y pruebas            | Adaptar el algoritmo y realizar pruebas                    | 8                | Carlos       | To-Do                                |
+| HU24                | Acceder a material de estudio descargable | TK47 | Preparación y actualización     | Preparar y actualizar el material                          | 4                | Carlos   | To-Do                                |
+|                     |                                         | TK48 | Funcionalidad y formatos        | Desarrollar funcionalidad de descarga en múltiples formatos | 4                | Marco      | To-Do                                |
+|                     |                                         | TK51 | Sincronización y pruebas        | Implementar sincronización y realizar pruebas              | 5                | Jorge       | To-Do                                |
+| HU25                | Participar en desafíos de programación  | TK53 | Diseño y evaluación             | Diseñar desafíos y desarrollar sistema de evaluación       | 6                 | Alejandro      | To-Do                                |
+|                     |                                         | TK54 | Plataforma y ranking            | Desarrollar plataforma y sistema de ranking                | 6                | Jorge         | To-Do                                |
+|                     |                                         | TK57 | Pruebas de desafíos             | Realizar pruebas de desafíos                               | 5                 | Marco     | To-Do                                |
+| HU26                | Acceder a material en varios idiomas    | TK58 | Traducción y pruebas            | Traducir materiales y realizar pruebas                     | 8                | Mathias       | To-Do                                |
+|                     |                                         | TK59 | UI para selección de idioma     | Diseñar UI para selección de idioma                        | 7                  | Mathias       | To-Do                                |
+| HU27                | Acceder a recursos para personas con discapacidad | TK61 | Subtítulos y audio descripción | Implementar subtítulos y audio descripción                 | 6                 | Marco      | To-Do                                |
+|                     |                                         | TK63 | Lectura fácil y pruebas         | Desarrollar lectura fácil y realizar pruebas de accesibilidad | 11                 | Mathias       | To-Do                                |
+| HU28                | Participar en eventos y conferencias virtuales | TK65 | Planificación y transmisión     | Planificación de eventos y configuración de transmisión en vivo | 6            | Alejandro   | To-Do                                |
+|                     |                                         | TK67 | Interacción y pruebas           | Desarrollar interacción y realizar pruebas                 | 8                 | Carlos     | To-Do                                |
+| HU29                | Acceder a recursos sobre tecnologías emergentes | TK69 | Desarrollo de contenido y plataforma | Desarrollar contenido y plataforma                         | 7                 | Jorge    | To-Do                                |
+|                     |                                         | TK71 | Proyectos prácticos             | Desarrollar proyectos prácticos                            | 7                  | Alejandro     | To-Do                                |
+| HU30               | Colaborar en proyectos prácticos con otros usuarios | TK72 | Desarrollo de herramientas ade colaboración | Desarrollar herramientas de colaboración asíncrona                         | 7                 | Jorge    | To-Do                                |
 
 #### 5.2.4.3 Development Evidence for Sprint Review
 
