@@ -1,11 +1,11 @@
-# UPC
+# Universidad Peruana de Ciencias Aplicadas
 
 # INGENIERÍA DE SOFTWARE
 
-## CURSO: SI729 Aplicaciones Open Source | SECCIÓN SW58
+## CURSO: SI729 Aplicaciones Open Source | SECCIÓN SW58 | 2024-1
  Profesor: Efrain Ricardo Bautista Ubillus
 
-# Informe de TB1
+# Informe TF
 **Startup:** FastLearners
 
 ### Integrantes:
@@ -19,21 +19,138 @@
 # Registro de Versiones del Informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 25/03/2024 |Grupo 4 |Se crea el documento |
+| 0.0 | 25/03/2024 | Grupo 4 |Se crea el documento |
+| 1.0 | 02/04/2024 | Grupo 4 | Inicio del sprint 1|
+| 1.1 | 04/04/2024 | Grupo 4 | Se agrega el capítulo 1: Introducción|
+| 1.2 | 06/04/2024 | Grupo 4 | Se agrega el capítulo 2: Requirements Elicitation & Analyis|
+| 1.3 | 06/04/2024 | Grupo 4 | Se agrega el capítulo 3:Requirements Specification|
+| 1.4 | 7/04/2024 | Grupo 4 | Se agrega el capítulo 4: Product Design|
+| 1.5 | 7/04/2024 | Grupo 4 | Se inicia el capítulo 5: Product Implementation, Validation & Deployment|
+| 1.6 | 8/04/2024 | Grupo 4 | Se realizan los puntos 5.1.1 hasta el 5.1.4|
+| 1.7 | 8/04/2024 | Grupo 4 | Se realiza el sprint 1 agregando el planning, backlog, etc|
+| 2.0 | 17/04/2024 | Grupo 4 | Inicio del sprint 2 |
+| 2.1 | 20/04/2024 | Grupo 4 | Se desarrolla el Sprint Planning 2, SprintBacklog 2 |
+| 2.2 | 21/04/2024 | Grupo 4 | Se agrega el Development Evidence for Sprint Review |
+| 2.3 | 23/05/2024 | Grupo 4 | Se agrega el Testing Suite Evidence, Services Documentation y Software Deployment Evidence|
+| 2.4 | 27/04/2024 | Grupo 4 | Se agrega el Team collaboration Insights during Sprint |
+| 3.0 | 14/05/2024 | Grupo 4 | Inicio del Sprint 3|
+| 3.1 | 16/05/2024 | Grupo 4 | Se desarrolla el Sprint Planning 2|
+| 3.2 | 16/05/2024 | Grupo 4 | Se agrega el Sprint Backlog 2 |
+| 3.3 | 21/05/2024 | Grupo 4 | Se agrega el Development Evidence for Sprint Review |
+| 3.4 | 23/05/2024 | Grupo 4 | Se agrega el Testing Suite Evidence y Services Documentation |
+| 3.4 | 27/05/2024 | Grupo 4 | Se agrega el Software Deployment Evidence for Sprint Review |
+| 3.5 | 04/06/2024 | Grupo 4 | Se agrega el Team collaboration Insights during Sprint |
+| 4.0 | 20/06/2024 | Grupo 4 | Inicio del Sprint 4 |
+| 4.1 | 20/06/2024 | Grupo 4 | Inicio del desarrollo del informe TF |
 
 # Project Report Collaboration Insights
 
+**Commits del Informe TB2:**
+
 <img src="assets/images/Commits TB1v2.png" alt="Commits TB1v2" style="width:100%;">
 
-![URL del repositorio](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report)
+![REPOSITORIO FASTLEARNERS](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report)
 
 En el caso de Alejandro, sí trabajó pero hizo commits desde una cuenta que no estaba agregada a la organización. 
 
+
+**Commits del Informe TB2:**
+
+Poner aquí la parte de insights del repo de github del informe
+
 # Student Outcome
+
+**ABET – EAC - Student Outcome 3:** Capacidad de comunicarse efectivamente con un rango de audiencias.
+
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Carlos Ochoa:<br> *TB1:*  Me enfoqué en el Startup Profile, la misión, la visión, los antecedentes y problemática de manera objetiva.<br> Jorge Orrego: <br> *TB1:*  Me encargué de realizar el diseño de la Landing Page y de la plataforma web.<br> Mathias Javier: <br> *TB1:*  wireframes de la Landing Page.<br>  Alejandro Pachas: <br> *TB1:*  Redacté los User Stories y el Product backlog.<br> |Se evidenció la problemática y se identificó el segmento objetivo|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Carlos Ochoa:<br> *TB1:*  Desarrollé el apartado del Lean UX Process<br>  Jorge Orrego: <br> *TB1:*  Me encargué de realizar las guías para el diseño del sitio web. <br>Mathias Javier: <br> *TB1:*  Me encargué del Software Configuration Management<br>  Alejandro Pachas: <br> *TB1:*  Realicé el Impact Map de la aplicación|Se logró desarrollar las hipotesis de negocio |
+|Comunica oralmente con efectividad a diferentes rangos de audiencia. |Carlos Ochoa:<br> *TB1:*  Me enfoqué en el Startup Profile, la misión, la visión, los antecedentes y problemática de manera objetiva.<br> *TP:* Me encargué de aplicar las mejoras faltantes en el Frontend Web Application. Además implementé el Json Server para simular la fake API. <br> *TB2:* Me encargué de desarrollar las secciones faltantes de la Frontend Web Application y realizé mejoras en los Web Services para el registro de usuarios. <br> *TF:* Apliqué mejoras de nuestro backlog en el Frontend Web Application. <br> <br> Jorge Orrego: <br> *TB1:*  Me encargué de realizar el diseño de la Landing Page y de la plataforma web.<br>  *TP:*  Me encargué del desarrollo del frontend de la aplicación web junto a mis compañeros. <br> *TB2:*  Me encargué de realizar mejoras continuas en en frontend de la aplicación web. <br> *TF:*  Me encargué de realizar mejoras continuas en en frontend de la aplicación web y de la grabación de parte del video de About The Team. <br> <br>  Mathias Javier: <br> *TB1:*  Realicé los wireframes de la Landing Page. <br> *TP:* Implente partes en el desarrollo del landing page por parte del frontend. <br> *TB2:* Apoye en el desarrollo de los Web Services y realicé mejoras en la parte del frontend <br>*TF:*  Me encargué de realizar las entrevistas y crear el about the product, de igual modo realicé el video about the team.<br> <br> Alejandro Pachas: <br> *TB1:*  Redacté los User Stories y el Product backlog.<br> <br> Marco Mendez: <br> *TB1:* Me encargué de realizar los diagramas tanto de base de datos como el diagrama de clases, así mismo apoye  en el diseño de la web. <br> *TP:* Me encargue de actualizar el informe y de agregar funcionalidades al FrontEnd, además realice el diseño del Sprint 2. <br> *TB2:* Realice el diseño del Sprint 3 y apoye en las mejoras continuas del informe. <br> *TF:* Apoye en las mejoras continuas de nuestro informe |Se evidenció la problemática y se identificó el segmento objetivo|
+|Comunica por escrito con efectividad a diferentes rangos de audiencia.| Carlos Ochoa:<br> *TB1:*  Desarrollé y redacté el apartado del Lean UX Process aplicando el enfoque Lean UX Research siguiendo los pasos establecidos. <br> *TP:* Formé parte del desarrollo de la Frontend Web Application y documenté en el informe el proceso del mismo. <br> *TB2:* Apliqué mejoras en el Frontend Web Application y también en los Web Services. De manera que ambos procesos los documenté en el informe detallando su función. <br> *TF:* Aporté en el desarrollo y documentación en el informe de las secciones faltantes de nuestro Product Backlog en el Frontend Web Application. <br> <br> Jorge Orrego: <br> *TB1:*  Me encargué de realizar las guías de diseño para el sitio web. <br> *TP:*  Me encargué de realizar mejoras continuas al informe del trabajo y de redactar partes de la documentación. <br> *TB2:* Me encargué de revisar y corregir observaciones en el informe. *TF:*  Me encargué de mejorar el formato del reporte y de redactar los capítulos restantes. <br> <br> Mathias Javier: <br> *TB1:*  Me encargué del Software Configuration Management. <br> *TF:*  Me encargué de mejorar el video about the product y realizar las correcciones necesarias. <br> <br> Alejandro Pachas: <br> *TB1:*  Realicé el Impact Map de la aplicación. <br> <br> Marco Mendez <br> *TB1:* Me encargue de hacer los Domain Driven Design Software Architechtures. <br> *TP:* Realice el Software Deployment Configuration y el Source Code Style Guide & Conventions. <br> *TB2*: Apoye en las correcciones del informe. <br> *TF:* Fui parte del video About the Team, realice mejoras ortográficas y gramaticales al informe |Se logró desarrollar las hipotesis de negocio|
+
+# Contenido
+
+1. [Capítulo I: Introducción](#capítulo-i-introducción)<br>
+   1.1. [Startup Profile](#startup-profile)<br>
+      1.1.1. [Descripción del startup](#descripción-del-startup)<br>
+      1.1.2. [Perfiles de los integrantes del equipo](#perfiles-de-los-integrantes-del-equipo)<br>
+   1.2. [Solution Profile](#solution-profile)<br>
+      1.2.1. [Antecedentes y Problemática](#antecedentes-y-problemática)<br>
+      1.2.2. [Lean UX Process](#lean-ux-process)<br>
+      1.2.3. [Lean UX Problem Statements](#lean-ux-problem-statements)<br>
+      1.2.4. [Lean UX Assumptions](#lean-ux-assumptions)<br>
+      1.2.5. [Lean UX Hypothesis Statements](#lean-ux-hypothesis-statements)<br>
+      1.2.6. [Lean UX Canvas](#lean-ux-canvas)<br>
+   1.3. [Segmentos objetivo](#segmentos-objetivo)<br>
+2. [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)<br>
+   2.1. [Competidores](#competidores)<br>
+      2.1.1. [Análisis competitivo](#análisis-competitivo)<br>
+      2.1.2. [Estrategias y tácticas frente a competidores](#estrategias-y-tácticas-frente-a-competidores)<br>
+   2.2. [Entrevistas](#entrevistas)<br>
+      2.2.1. [Diseño de entrevistas](#diseño-de-entrevistas)<br>
+      2.2.2. [Registro de entrevistas](#registro-de-entrevistas)<br>
+      2.2.3. [Análisis de entrevistas](#análisis-de-entrevistas)<br>
+   2.3. [Needfinding](#needfinding)<br>
+      2.3.1. [User Personas](#user-personas)<br>
+      2.3.2. [User Task Matrix](#user-task-matrix)<br>
+      2.3.3. [User Journey Mapping](#user-journey-mapping)<br>
+      2.3.4. [Empathy Mapping](#empathy-mapping)<br>
+      2.3.5. [As-is Scenario Mapping](#as-is-scenario-mapping)<br>
+3. [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)<br>
+   3.1. [To-Be Scenario Mapping](#to-be-scenario-mapping)<br>
+   3.2. [User Stories](#user-stories)<br>
+   3.3. [Impact Mapping](#impact-mapping)<br>
+   3.4. [Product Backlog](#product-backlog)<br>
+4. [Capítulo IV: Product Design](#capítulo-iv-product-design)<br>
+   4.1. [Style Guidelines](#style-guidelines)<br>
+      4.1.1. [General Style Guidelines](#general-style-guidelines)<br>
+      4.1.2. [Web Style Guidelines](#web-style-guidelines)<br>
+   4.2. [Information Architecture](#information-architecture)<br>
+      4.2.1. [Organization Systems](#organization-systems)<br>
+      4.2.2. [Labeling Systems](#labeling-systems)<br>
+      4.2.3. [SEO Tags and Meta Tags](#seo-tags-and-meta-tags)<br>
+      4.2.4. [Searching Systems](#searching-systems)<br>
+      4.2.5. [Navigation Systems](#navigation-systems)<br>
+   4.3. [Landing Page UI Design](#landing-page-ui-design)<br>
+      4.3.1. [Landing Page Wireframe](#landing-page-wireframe)<br>
+      4.3.2. [Landing Page Mock-up](#landing-page-mock-up)<br>
+   4.4. [Web Applications UX/UI Design](#web-applications-uxui-design)<br>
+      4.4.1. [Web Applications Wireframes](#web-applications-wireframes)<br>
+      4.4.2. [Web Applications Wireflow Diagrams](#web-applications-wireflow-diagrams)<br>
+      4.4.3. [Web Applications Mock-ups](#web-applications-mock-ups)<br>
+      4.4.4. [Web Applications User Flow Diagrams](#web-applications-user-flow-diagrams)<br>
+   4.5. [Web Applications Prototyping](#web-applications-prototyping)<br>
+   4.6. [Domain-Driven Software Architecture](#domain-driven-software-architecture)<br>
+      4.6.1. [Software Architecture Context Diagram](#software-architecture-context-diagram)<br>
+      4.6.2. [Software Architecture Container Diagrams](#software-architecture-container-diagrams)<br>
+      4.6.3. [Software Architecture Components Diagrams](#software-architecture-components-diagrams)<br>
+   4.7. [Software Object-Oriented Design](#software-object-oriented-design)<br>
+      4.7.1. [Class Diagrams](#class-diagrams)<br>
+      4.7.2. [Class Dictionary](#class-dictionary)<br>
+   4.8. [Database Design](#database-design)<br>
+      4.8.1. [Database Diagram](#database-diagram)<br>
+5. [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)<br>
+   5.1. [Software Configuration Management](#software-configuration-management)<br>
+      5.1.1. [Software Development Environment Configuration](#software-development-environment-configuration)<br>
+      5.1.2. [Source Code Management](#source-code-management)<br>
+      5.1.3. [Source Code Style Guide & Conventions](#source-code-style-guide--conventions)<br>
+      5.1.4. [Software Deployment Configuration](#software-deployment-configuration)<br>
+   5.2. [Landing Page, Services & Applications Implementation](#landing-page-services--applications-implementation)<br>
+      5.2.1. [Sprint 1](#sprint-1)<br>
+         5.2.1.1. [Sprint Planning 1](#sprint-planning-1)<br>
+         5.2.1.2. [Sprint Backlog 1](#sprint-backlog-1)<br>
+         5.2.1.3. [Development Evidence for Sprint Review](#development-evidence-for-sprint-review)<br>
+         5.2.1.4. [Testing Suite Evidence for Sprint Review](#testing-suite-evidence-for-sprint-review)<br>
+         5.2.1.5. [Execution Evidence for Sprint Review](#execution-evidence-for-sprint-review)<br>
+      5.3. [Validation Interviews](#validation-interviews)<br>
+         5.3.1. [Diseño de Entrevistas](#diseño-de-entrevistas)<br>
+         5.3.2. [Registro de Entrevistas](#registro-de-entrevistas)<br>
+         5.3.3. [Evaluaciones según Heurísticas](#evaluaciones-según-heurísticas)<br>
+   5.4. [Video About-the-Product](#video-about-the-product)<br>
+6. [Conclusiones](#conclusiones)<br>
+7. [Bibliografía](#bibliografía)<br>
+8. [Anexos](#anexos)
+
+   
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
@@ -704,7 +821,7 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 Un diagrama de clases es una representación visual de las clases de un sistema de software y las relaciones entre ellas. 
-<img src="assets/images/class_diagram.png" alt="ClassDiagram" style="width:90%">
+<img src="assets/images/class_diagramv2.png" alt="ClassDiagram" style="width:90%">
 ### 4.7.2. Class Dictionary.
 Para el diccionario de clases, se presentan las más importantes
 
@@ -832,7 +949,20 @@ Membership representa la clase del tipo de membresía.
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
 Un diagrama de base de datos es una herramienta visual que representa la estructura y relaciones de una base de datos. Consta de tablas (entidades), donde cada tabla tiene columnas (atributos) que representan los diferentes tipos de datos que almacena.
-<img src="assets/images/db_diagram.png" alt="DatabaseDiagram" style="width:90%">
+Se agregaron distintos patrones, entre ellos:
+1. Patrón Singleton:
+ NotificationManager: Esta clase emplea el patrón Singleton, como se indica por la instancia estática notificationManager: instance. El constructor es privado o protegido para evitar la instanciación directa, asegurando que solo exista una instancia de NotificationManager.
+2.  Patrón Observer:
+ NotificationManager y User: El NotificationManager mantiene una lista de observadores (Usuarios) y proporciona métodos para agregar o eliminar observadores (addObserver, removeObserver). Los usuarios pueden suscribirse a las notificaciones, y cuando se envía una notificación, todos los observadores son notificados (notifyObservers).
+3.  Patrón Factory Method:
+ MembershipFactory y sus subclases: El diagrama incluye varias clases de fábrica (MembershipFactory, BasicMembershipFactory, RegularMembershipFactory, PremiumMembershipFactory) responsables de crear diferentes tipos de membresías. Cada clase de fábrica tiene un método createMembership para instanciar tipos específicos de membresías.
+4.  Patrón Strategy:
+ PaymentStrategy y sus subclases: La interfaz PaymentStrategy es implementada por CreditCardPayment. Esto permite que el sistema use diferentes métodos de pago de manera intercambiable. El método pay en la interfaz PaymentStrategy define la estructura del algoritmo, y las subclases proporcionan implementaciones específicas.
+5.  Patrón Command:
+ Command, UploadContentCommand, DeleteContentCommand, CommandManager: El patrón Command se utiliza para encapsular solicitudes como objetos, permitiendo la parametrización de clientes con colas, solicitudes y operaciones. UploadContentCommand y DeleteContentCommand extienden la clase Command, implementando los métodos execute y undo. El CommandManager mantiene una pila de comandos para soportar operaciones como ejecutar y deshacer comandos (executeCommand, undoCommand).
+6.  Patrón Composite:
+ Content y Question: La clase Content contiene una lista de preguntas (questions: List<Question>), permitiendo que los objetos individuales (Preguntas) se traten de manera uniforme. Esta estructura forma una jerarquía parte-todo, lo cual es característico del patrón Composite.
+<img src="assets/images/db.png" alt="DatabaseDiagram" style="width:90%">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -867,7 +997,7 @@ Aquí están algunas convenciones clave para el uso de HTML:
 2.	Cerrar todos los elementos en HTML, es una buena práctica hacerlo para evitar problemas de compatibilidad y mejorar la claridad del código.
 3.	Escribir comentarios cortos en una sola línea para una mayor claridad y organización del código.
 4.	Evitar líneas de código excesivamente largas y agregar espacios en blanco solo cuando sea necesario para mejorar la organización del código.
-5.	Nunca omitir elementos importantes como <title>, <html>, <body>, y <head>, ya que desempeñan un papel crucial en la estructura y el contenido de la página.
+5.	Nunca omitir elementos importantes como  `<title>` , `<html>`, `<body>`, y `<head>`, ya que desempeñan un papel crucial en la estructura y el contenido de la página.
 6.	Incluir el atributo lang dentro de la etiqueta <html> para especificar el idioma de la página.
 7.	Es importante especificar atributos como alt, ancho y altura para las imágenes para mejorar la accesibilidad y reducir el parpadeo.
 8.	Evitar el uso de espacios alrededor de los signos en HTML para una mejor legibilidad.
@@ -1067,6 +1197,7 @@ En esta parte se muestran los commits realizados durante el segundo sprint.
 | https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 1364e75 | Update subscriptions.component.ts | Update subscriptions.component.ts | 29/04/2024 |
 | https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | bd1fcfd | feat: added sign in component functionality | feat: added sign in component functionality | 29/04/2024 |
 | https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 9a3700b | Actualizar Readme | Actualizar Readme | 29/04/2024 |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 6ebaf5e | Se añadio Json Server | Se añadio Json Server | 29/04/2024 |
 
 #### 5.2.2.4 Testing Suite Evidence for Sprint Review
 
@@ -1122,7 +1253,15 @@ Capturas de la Landing Page:
 <img src="assets/images/DeploymentLandingPage4.png" alt="Deployment Landing Page" style="width:100%;">
 
 
-Web Application (FrontEnd):
+Web Application (Frontend):
+
+Desplegamos el frontend por medio de Firebase: 
+
+![imagen](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/2a44dd58-26c6-4641-942e-a9d7bc019e6f)
+
+![imagen](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/584c5954-88b3-4f0e-ab16-15e4d32eb133)
+
+Link para visualizar el frontend: [https://fastlearners-e07b8.web.app/](https://fastlearners-opensource.web.app/home)
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
@@ -1131,12 +1270,336 @@ Web Application (FrontEnd):
 | Javier Murillo, Mathias| Desarrollo del Frontend y de la Landing Page, Reporte (5.2.2.5 y 5.2.2.6) |
 | Orrego Noriega, Jorge David | Desarrollo del Frontend y de la Landing Page, Reporte (5.2.2.7 y 5.2.2.8) |
 | Ochoa Colonio, Carlos Alberto | Desarrollo del Frontend y de la Landing Page, Reporte (5.2.2.1 al 5.2.2.4) |
-| Pachas Chavez, Alejandro Alberto |Desarrollo del Frontend y de la Landing Page, Reporte (5.2.2.1 al 5.2.2.4) |
-| Mendez Rosales, Marco Aurelio | Desarrollo del Frontend y de la Landing Page, Reporte (5.2.2.1 al 5.2.2.4) |
+| Pachas Chavez, Alejandro Alberto |Desarrollo del Frontend, Reporte (5.2.2.1 al 5.2.2.4) |
+| Mendez Rosales, Marco Aurelio | Desarrollo del Frontend, Reporte (5.2.2.1 al 5.2.2.4) |
+
+
+Repositorio Landing Page
+
+![imagen](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/50390cd2-4252-4164-9637-7d9d35110fb4)
+
+Repositorio Frontend
+
+![imagen](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/77ea3016-fa91-4a6b-82e6-07a9702fe3d0)
+
+### 5.2.3 Sprint 3
+#### 5.2.3.1 Sprint Planning 3
+Nuestro Tercer Sprint #3 comienza el 30/06/2024 y tiene como finalidad resolver los comentarios recibidos del Sprint 2, realizar el BackEnd, asímismo hacer los servicios necesarios según nuestras User Stories
+
+| Sprint | Date       | Time  | Location                          | Prepared By | Attendes                                                           |
+|--------|------------|-------|-----------------------------------|-------------|--------------------------------------------------------------------|
+| 3    | 30/05/2024 | 17:00 | Reunión Virtual mediante Discord | Marco Mendez| - Carlos Ochoa, Jorge Orrego, Mathias Javier, Marco Mendez, Alejandro                            
+
+| Sprint 3 Goal                                        | Velocity | Sum of Story Points |
+|------------------------------------------------------|----------|---------------------|
+| Resolución de comentarios recibidos en el Sprint 2  | 15       | 15                 |
+| Realizar el Back End de la web application utilizando Java | 65 | 65              |
+| Creación de Servicios  y implementación con Azure y Dockers    |20 | 20|                     
+
+#### 5.2.3.2 Sprint Backlog 3
+
+Utilizamos la aplicación Trello para poder dar seguimiento a nuestro Backlog:
+<img src="assets/images/trello-Sprint3.jpg" alt="Trello Sprint 3" style="width:100%;">
+
+
+| Historia de Usuario | Title                                   | Id   | Title                           | Description                                               | Estimation (Hours) | Assigned To | Status (ToDo/InProcess/ToReview/Done) |
+|---------------------|-----------------------------------------|------|---------------------------------|-----------------------------------------------------------|--------------------|-------------|--------------------------------------|
+| HU20                | Acceder a recursos de referencia        | TK20 | Organización y Base de datos    | Diseñar la estructura y base de datos de recursos          | 6                 | Marco       | To-Do                                |
+|                     |                                         | TK22 | UI de categorías y pruebas      | Diseñar UI de categorías y realizar pruebas                | 6                 | Mathias     | To-Do                                |
+|                     |                                         | TK24 | Actualización y notificaciones  | Implementar y notificar actualizaciones                    | 6                  | Jorge       | To-Do                                |
+|                     |                                         | TK26 | Sistema y pruebas de actualización | Desarrollar y probar el sistema de actualización            | 6                 | Carlos      | To-Do                                |
+| HU21                | Participar en sesiones de preguntas y respuestas en vivo | TK28 | Planificación y calendario     | Planificación de sesiones y creación de calendario         | 6                 | Jorge     | To-Do                                |
+|                     |                                         | TK30 | Registro y reclutamiento        | Registro de usuarios y reclutamiento de expertos           | 6                | Marco      | To-Do                                |
+|                     |                                         | TK32 | UI y sistema de moderación      | Diseñar UI y desarrollar sistema de moderación             | 6                 | Jorge       | To-Do                                |
+|                     |                                         | TK34 | Pruebas de sesiones             | Realizar pruebas de sesiones                               | 6                  | Alejandro       | To-Do                                |
+| HU22                | Acceder a cursos avanzados              | TK35 | Desarrollo y estructura de cursos | Desarrollar contenido y estructurar cursos                  | 8                 | Alejandro       | To-Do                                |
+|                     |                                         | TK37 | Material y flexibilidad         | Crear material y garantizar flexibilidad                   | 7                | Marco       | To-Do                                |
+|                     |                                         | TK39 | Seguimiento y pruebas de flexibilidad | Implementar seguimiento y realizar pruebas de flexibilidad | 9                  | Marco      | To-Do                                |
+| HU23                | Recibir recomendaciones personalizadas  | TK41 | Algoritmo y recolección de datos | Desarrollar algoritmo y recolectar datos                   | 6                 | Alejandro      | To-Do                                |
+|                     |                                         | TK43 | Integración y preferencias      | Integrar recomendaciones y configurar preferencias         | 6                | Marco      | To-Do                                |
+|                     |                                         | TK45 | Adaptación y pruebas            | Adaptar el algoritmo y realizar pruebas                    | 8                | Carlos       | To-Do                                |
+| HU24                | Acceder a material de estudio descargable | TK47 | Preparación y actualización     | Preparar y actualizar el material                          | 4                | Carlos   | To-Do                                |
+|                     |                                         | TK48 | Funcionalidad y formatos        | Desarrollar funcionalidad de descarga en múltiples formatos | 4                | Marco      | To-Do                                |
+|                     |                                         | TK51 | Sincronización y pruebas        | Implementar sincronización y realizar pruebas              | 5                | Jorge       | To-Do                                |
+| HU25                | Participar en desafíos de programación  | TK53 | Diseño y evaluación             | Diseñar desafíos y desarrollar sistema de evaluación       | 6                 | Alejandro      | To-Do                                |
+|                     |                                         | TK54 | Plataforma y ranking            | Desarrollar plataforma y sistema de ranking                | 6                | Jorge         | To-Do                                |
+|                     |                                         | TK57 | Pruebas de desafíos             | Realizar pruebas de desafíos                               | 5                 | Marco     | To-Do                                |
+| HU26                | Acceder a material en varios idiomas    | TK58 | Traducción y pruebas            | Traducir materiales y realizar pruebas                     | 8                | Mathias       | To-Do                                |
+|                     |                                         | TK59 | UI para selección de idioma     | Diseñar UI para selección de idioma                        | 7                  | Mathias       | To-Do                                |
+| HU27                | Acceder a recursos para personas con discapacidad | TK61 | Subtítulos y audio descripción | Implementar subtítulos y audio descripción                 | 6                 | Marco      | To-Do                                |
+|                     |                                         | TK63 | Lectura fácil y pruebas         | Desarrollar lectura fácil y realizar pruebas de accesibilidad | 11                 | Mathias       | To-Do                                |
+| HU28                | Participar en eventos y conferencias virtuales | TK65 | Planificación y transmisión     | Planificación de eventos y configuración de transmisión en vivo | 6            | Alejandro   | To-Do                                |
+|                     |                                         | TK67 | Interacción y pruebas           | Desarrollar interacción y realizar pruebas                 | 8                 | Carlos     | To-Do                                |
+| HU29                | Acceder a recursos sobre tecnologías emergentes | TK69 | Desarrollo de contenido y plataforma | Desarrollar contenido y plataforma                         | 7                 | Jorge    | To-Do                                |
+|                     |                                         | TK71 | Proyectos prácticos             | Desarrollar proyectos prácticos                            | 7                  | Alejandro     | To-Do                                |
+
+#### 5.2.3.3 Development Evidence for Sprint Review
+
+| Repository | Branch | Commit Message | Commit ID |
+|------------|--------|----------------|-----------|
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | e9313eb |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | fix: data structures changed | e9e9663 |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | chore: transformers added | 022b56c |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | chore: rest services added | 0458e3c |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | chore: queries added | cd4cf44 |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | chore: added SignIn and SignUp Commands | cd50e4d |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | fix: Membership moved to valueobjects directory | 032b500 |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | chore: adding valueobjects, models (Membership, User) | 22b1c7c |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | chore: added shared context. | 902f482 |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | fix: persistence directories | 4135db8 |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | chore: persistence added | e0a16e2 |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | chore: added dependencies | eabd3e6 |
+| [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | chore: initial commit | a4dfb98 |
+
+#### 5.2.3.4 Testing Suite Evidence for Sprint Review
+
+| Repository   | Branch  |  Commited on (Date)|
+|------|-----------------------------------|----------------------------------------|
+| https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report | upc-pre-202401-si729-SW58-FastLearners-report/main                  | 28/04/2024 |
+
+#### 5.2.3.5 Execution Evidence for Sprint Review
+
+Se desarrollaron los web services correspondientes al backend de la aplicación web.
+
+#### 5.2.3.6 Services Documentation Evidence for Sprint Review
+
+Se configuro el backend de la aplicación.
+<img src="assets/images/backend1.jpg" alt="Backend run image" style="width:100%;">
+<img src="assets/images/backend2.jpg" alt="Backend run image" style="width:100%;">
+<img src="assets/images/backend3.jpg" alt="Backend run image" style="width:100%;">
+
+#### 5.2.3.7 Software Deployment Evidence for Sprint Review
+
+Se configuro la base de datos en la nube de azure.
+<img src="assets/images/confAzure1.jpg" alt="Azure conf" style="width:100%;">
+<img src="assets/images/confAzure2.jpg" alt="Azure conf" style="width:100%;">
+
+Se configuro Firebase para el deployment
+<img src="assets/images/firebaseDe.jpg" alt="Firebase" style="width:100%;">
+
+La configuración de la fake api en JSON SERVER: 
+https://my-json-server.typicode.com/JorgeOrrego1201/FastLearners-json-server-OpenSource 
+<img src="assets/images/FakeApi.jpg" alt="Fake API json Server" style="width:100%;">
+
+#### 5.2.3.8 Team Collaboration Insights during Sprint
+
+| Alumno | Actividad |
+|--------|-----------|
+| Javier Murillo, Mathias| Reporte (5.3 y 5.4) |
+| Orrego Noriega, Jorge David | Desarrollo del Backend |
+| Ochoa Colonio, Carlos Alberto | Desarrollo del Backend |
+| Pachas Chavez, Alejandro Alberto | Desarrollo del Backend |
+| Mendez Rosales, Marco Aurelio | Reporte (5.2.3.3 al 5.2.3.8) |
+
+<img src="assets/images/CommitsReporte.png" alt="Commits Reporte" style="width:100%;">
+
+<img src="assets/images/CommitsBack.png" alt="Commits Backend" style="width:100%;">
+
+## 5.3. Validation Interviews
+### 5.3.1. Diseño de Entrevistas
+
+Para poder hacer una validacion de nuestras entrevistas se empleará los siguientes recursos:
+
+**Landing Page:**
+<img src="assets/images/DeploymentLandingPage.png" alt="Deployment Landing Page" style="width:100%;">
+
+**FrontEnd Web Application:**
+<img src="assets/images/WebApp.png" alt="Deployment Web Application" style="width:100%;">
+
+**User Flows a validar en el Landing Page:**
+
+f. User Flow Diagram F: Suscribirse a un plan
+
+**User Flows a validar en el Frontend Web Application**
+
+a. User Flow Diagram A: Iniciar Sesion <br>
+b. User Flow Diagram B: Visualizar Cuenta <br>
+c. User Flow Diagram C: Revisar el foro <br>
+d. User Flow Diagram D: Revisar los repositorios <br> 
+e. User Flow Diagram E: Revisar los recursos multimedia <br>
+f. User Flow Diagram F: Suscribirse a un plan <br>
+
+**Preguntas que se realizaran a los entrevistados:**
+
+a. ¿Despues de ver nuestra Landing Page, te dio curiosidad nuestro producto? <br>
+b. ¿Lograste visualizar el inicio de sesion en la pagina web de nuestra aplicacion? ¿Te parecio sencillo? <br>
+c. ¿Lograste visualizar tu cuenta en la pagina web de nuestra aplicacion? ¿Te parece una interfaz amigable? <br>
+d. ¿Lograste revisar el foro? ¿Te llamo la atencion? <br>
+e. ¿Lograste revisar los repositorios? ¿Alguno de tu interes? <br>
+d. ¿Lograste revisar los recursos multimedia? ¿Te parece una buena herramienta de estudio? <br>
+f. Para finalizar ¿Cual es el mayor atractivo de nuestro producto para ti? <br>
+
+### 5.3.2. Registro de Entrevistas
+
+Realizamos 5 entrevistas que van dirigidas a nuestro publico objetivo, en estas entrevistas les mostramos el recorrido por nuestra web application y de nuestra landing page a nuestros entrevistados:
+
+**Entrevistado N°1** 
+
+<img src="assets/Entrevista-Matias.png" alt="Entrevistado-1" style="width:100%;">
+
+Este esta entrevista pudimos contactar con Matias Castillo, el es un entusiasta por la tecnologia y todo lo que la abarca y siempre ha querido aprender a programar en ciertos lenguajes como son Pynthon y C++, gracias a ello, nuestro producto es perfecto para el ya que exploremos junto a el Lading Page y nuestro Web Application. Luego que Matias interactue con todas las opciones y servicios que le brindamos a nuestros usuarios, nos comento, que la usabilidad del producto era muy sencilla para el usuario. Tambien nos comento que le parece una gran idea que personas experimentadas puedan compartir su propio contenido. Y como recomendacion nos dejo que estuvieramos al tanto del contenido que subian los usuarios ya que no siempre puede ser correcto y/o puede inflingir los valores que tratamos de cubrir como startup.
+
+Link de la entrevista: https://drive.google.com/file/d/1ArjPJXhLUtZHgyKwFRUHrooNC2LvIAHp/view?usp=sharing
+
+**Entrevistado N°2**
+
+<img src="assets/Entrevista-Sebastian.png" alt="Entrevistado-2" style="width:100%;">
+
+Como segundo entrevistado tenemos a Sebastian Brito, el es un desarrollador web, encargado del frontend. Junto a el haremos un recorrido por nuestro Landing Page y Web Application. Al terminar su recorrido nos comentó que le encanta la idea de poder compartir sus conocimientos con desarrolladores inexpertos y que le parece la mejor manera de aprender. Tambien nos deja como retroalimentacion el que hay que cuidar la estetica de nuestro producto, ya que, eso es lo que llamará a más usuarios, al igual que la facilidad de carga y descarga de contenido. 
+
+Link de la entrevista: https://drive.google.com/file/d/1XnirZZcQ25nao01stX8PxXhqaUnrYGHn/view?usp=sharing
+
+**Entrevistado N°3**
+
+<img src="assets/Entrevista-Jimena.png" alt="Entrevistado-3" style="width:100%;">
+
+En la entrevista realizada tenemos como invitada a Grecia Zegarra, junto a ella realizaremos un recorrido completo por nuestra Landing Page y Web Application, en el cual podremos ver todas las funcionalidades y servicios que ofrecemos. Grecia nos menciona que ella ha empezado hace poco en la programacion y que no ha encontrado informacion personalizada a su forma de aprendizaje. Al terminar nuestro recorrido, nos dejo como observacion 3 puntos muy importante a tomar en cuenta: el primero, le parecio una super idea poder tener mas de un metodo de aprendizaje, ya sea leyendo, esuchando o viendo. Segundo, le gustaria que no descuidaramos actualizar los repositorios y materiales de estudio, ya que, estos estan en constante evolucion. Y por ultimo le gustaria poder tener una seccion de lista de reproduccion para los materiales multimedia. Puntos clave que tomaremos en cuenta en futuras actualizaciones. 
+
+Link de la entrevista: https://drive.google.com/file/d/1DpZR9GTdJcQeqV3wS9yTTcA0qmnxq78l/view?usp=sharing
+
+**Entrevistado N°4** 
+
+<img src="assets/Entrevista-Andres.png" alt="Entrevistado-4" style="width:100%;">
+
+Como cuarta entrevista tenemos a Andres Cieza, el nos comenta que trabaja hace 2 años en el sector de desarrollo de software, y le gustaria poder compartir con los jovenes programadores y/o estudiantes a fines, todo el material que le ayudo para llegar hasta donde el ha llegado. Para esto le daremos un recorrido por nuestra Landing Page y nuestro Web Application. Terminado el recorrido, Agustin nos comenta lo siguiente: Primero le parece que la interfaz es sencilla y facil de entender y segunda y ultima observacion, es que, tengamos cuidado por medio de un filtro lo que se subirá como contenido, ya que, puede que la informacion sea fraudulenta. Una observacion que tomaremos en cuenta muy cuidadosamente. 
+
+Link de la entrevista: https://drive.google.com/file/d/1s3dQOLK8QHu5BgqZ1SoO7oqhR77ZGOxD/view?usp=sharing
+
+**Entrevistado N°5**
+
+<img src="assets/Entrevista-Rodrigo.png" alt="Entrevistado-5" style="width:100%;">
+
+Y para finalizar con nuestras entrevistas tenemos a Rodrigo Castillo, nos comenta que es su primer año en la carrera de Ingenieria de Software, y que le gustaria avanzar por su cuenta con algunos temas de programacion. Por ello, le daremos un recorrido por nuestra Landing Page y nuestra Web Application. Al finalizar nuestro recorrido, no comenta que los servicios que le brindamos a nuestros usuarios le parecen excelente, al igual que la manera de aprender con material que le sirvio a expertos y de igual modo la interfaz y el manejo del producto, es sencillo y visualmente accesible para todos.
+
+Link de la entrevista: https://drive.google.com/file/d/1PVSELwTP4fMPeZpe6obTzGPJTBSoM0yu/view?usp=sharing
+
+### 5.3.3. Evaluaciones segun heuristicas
+
+**Site o App a evaluar:** FastLearners
+
+**Meta:** Encontrar los problemas que existen dentro de nuestra aplicacion web de FastLearners
+
+**Como:** Utilizando la Lista Heuristica de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
+
+**Tareas a evaluar:**
+
+1. Iniciar sesion en la aplicacion
+2. Visualizar los datos de la cuenta usuario
+3. Visualizar archivos multimedia
+4. Visualizar repositorios
+5. Visualizar el foro estudiantil
+
+**No estan incluidas en esta version de la evaluacion las siguientes tareas:**
+
+1. Seccion de compra de suscripciones
+2. Subir contenido
+3. Visualizar contenido subido
+4. Editar cuenta usuario
+
+**Escala de Severidad:**
+
+Los errores seran puntuados tomando en cuenta la siguiente escala de severidad
+
+|Nivel|Nivel de descripcion|
+|-----|--------------------|
+|  1  |Problema superficial: puede ser facilemente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo|
+|  2  |Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil desuperar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase|
+|  3  |Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta|
+|  4  |Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento|
+
+**Tabla Resumen (Problemas):**
+
+|#|Problema|Escala de severidad|Herustica/Principio violada(o)|
+|-|--------|-------------------|------------------------------|
+|1| Problema con la carga de contenido por parte del usuario en la seccion "Subir contenido" | 4 | Usability: Usabilidad y control del usuario |
+|2| Problema con la visualizacion del contenido cargado por parte del usuario en la seccion "Ver contenido subido" | 4 | Usability: Usabilidad y control del usuario |
+|3| Falta de imagenes de referencia para el usuario en la seccion "Material multimedia" | 1 | Inclusive Design: Proporciona experiencias comparables |
+|4| Problema con el boton "¿Olvidaste tu contraseña?" en la seccion "Iniciar sesion" | 2 | Usability: Usabilidd y control del usuario |
+
+**Descripccion de problemas:**
+
+**Problema N°1:** 
+
+Título: Problema con la carga de contenido por parte del usuario en la seccion "Subir contenido".
+
+Severidad: 4
+
+Heuristica violada: Usability: Usabilidad y control del usuario
+
+Descripción: 
+
+Cuando el usuario quiere cargar su contenido en la plataforma, no se genera ninguna subida visual ni carga de archivos disponible para que el usuario pueda usar esta funcionalidad, esto limitando la experiencia por completo de parte del mismo usuario.
+
+<img src="assets/images/Subircontenido.png" alt="Subida de contenido" style="width:100%;">
+
+Recomendacion: 
+
+Para lograr solucionar este problema, recomiendo por un lado crear una vista para la carga de contenido, con titulo, descripcion y tipo de contenido, podría haber una imagen referenciar (opcional). Y por otro lado ver por parte del json que la subida de contenido se guarde para que no quede en blanco la subida. 
+
+**Problema N°2:**
+
+Título: Problema con la visualizacion del contenido cargado por parte del usuario en la seccion "Ver contenido subido".
+
+Severidad: 4
+
+Heuristica violada: Usability: Usabilidad y control del usuario
+
+Problema: 
+
+Cuando el usuario quiere visualizar su contenido cargado en la plataforma, no se genera ninguna seccion de visualizacion y/o edicion de archivos disponible para que el usuario pueda usar esta funcionalidad.
+
+<img src="assets/images/Editarcontenido.png" alt="Visualizacion y edicion de contenido" style="width:100%;">
+
+Recomendacion:
+
+Para lograr solucionar este problema, recomiendo por un lado crear una vista para la visualizacion y edicion de contenido. Y por otro lado ver por parte del json que en el archivo si se haya guardado correctamente el contenido úblicado por el mismo usuario.
+
+**Problema N°3:**
+
+Título: Falta de imagenes de referencia para el usuario en la seccion "Material multimedia".
+
+Severidad: 1
+
+Heuristica violada: Inclusive Design: Proporciona experiencias comparables
+
+Problema: 
+
+Al ingresar a la seccion de material multimedia, el usuario no tiene imagenes referenciales para poder guiarse o entrar mas confiado al contenido, esto haciendo que algunos usuarios no ingresen al contenido publicado.
+
+<img src="assets/images/ImgRef.png" alt="Imagenes referenciales" style="width:100%;">
+
+Recomendacion:
+
+Para lograr solucionar el problema del usuario, se deberia generar una seccion en el apartado de "subir contenido" para que puedan agregar imagenes referenciales, esto dando mas confianza y tranquilidad al usuario y de igual manera generando mayor estetica en la plataforma. 
+
+**Problema N°4:**
+
+Título: Problema con el boton "¿Olvidaste tu contraseña?" en la seccion "Iniciar sesion".
+
+Severidad: 2
+
+Heuristica violada: Usability: Usabilidad y control del usuario
+
+Problema:
+
+Al iniciar sesion, existe un boton para los usuarios si es que llegaron a olvidar su contraseeña y este no te genera ninguna ayuda al problema de olvidar tu contraseña
+
+<img src="assets/images/OlvContra.png" alt="¿Olvidaste tu contraseña?" style="width:100%;">
+
+Recomendacion:
+
+Para lograr solucionar el problema del usuario, se deberia generar una vista en la cual el usuario ingrese su correo electronico o su numero telefonico para que le envien un codigo o link de recuperacion de contraseña, de esta manera solucionando el problema  
+
+## 5.4. Video About-the-Product
+
+<img src="assets/images/About-the-product.png" alt="Video About-The-Product" style="width:100%;">
+
+**Enlace al video en Youtube:** https://www.youtube.com/watch?v=zAfdsqz8-tQ <br>
+**Enlace al video en Teams:** https://upcedupe.sharepoint.com/:v:/s/FastLearners/EV8wnnrni0BOvOF1KZbSdkUBb3CB1v6UfqUvuXmEUc40TA?e=VTGxEc
 
 # Conclusiones y recomendaciones.
 
-## Conclusiones (TB1)
+## Conclusiones (rellenar específicamente para el TF)
 
 **Conclusiones específicas**
 
@@ -1144,10 +1607,6 @@ Web Application (FrontEnd):
 * Logramos validar de manera eficaz la necesidad de nuestros usuarios con entrevistas a programadores e ingenieros de software, quienes mostraron interés en la plataforma y sus funcionalidades. &nbsp;
 * Hubo cierta dificultad para desarrollar el plan de negocios que pueda ser estable, dado que primero tenemos que asegurar el bienestar económico de la startup. &nbsp;
 * Creado un equipo de desarrollo con las habilidades y experiencia necesarias para llevar a cabo el proyecto. &nbsp;
-
-**Próximos pasos**
-
-* Completar el desarrollo de la plataforma (funcionalidades restantes e integración con herramientas de terceros). &nbsp;
 
 # Bibliografía
 
