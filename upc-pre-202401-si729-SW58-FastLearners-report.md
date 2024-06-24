@@ -1599,14 +1599,31 @@ Para lograr solucionar el problema del usuario, se deberia generar una vista en 
 
 # Conclusiones y recomendaciones.
 
-## Conclusiones (rellenar específicamente para el TF)
+## Conclusiones
 
-**Conclusiones específicas**
+1. Necesidad del mercado: La investigación realizada demostró una clara demanda en el mercado de tecnología educativa, destacando la necesidad de plataformas de aprendizaje colaborativo para profesionales técnicos. &nbsp;
 
-* La plataforma se encuentra en etapa temprana de desarrollo (prototipo funcional para crear repositorios, subir archivos y gestionar usuarios). &nbsp;
-* Logramos validar de manera eficaz la necesidad de nuestros usuarios con entrevistas a programadores e ingenieros de software, quienes mostraron interés en la plataforma y sus funcionalidades. &nbsp;
-* Hubo cierta dificultad para desarrollar el plan de negocios que pueda ser estable, dado que primero tenemos que asegurar el bienestar económico de la startup. &nbsp;
-* Creado un equipo de desarrollo con las habilidades y experiencia necesarias para llevar a cabo el proyecto. &nbsp;
+2. Contribución al campo de la educación tecnológica: FastLearners contribuye significativamente al campo de la educación tecnológica al ofrecer un espacio colaborativo que combina teoría y práctica a través de repositorios y herramientas compartidas. &nbsp;
+
+3. Interés del usuario: Los usuarios mostraron un alto interés en las funcionalidades propuestas, particularmente en las áreas de colaboración y acceso a recursos educativos exclusivos, lo que refuerza el valor del modelo de negocio freemium de la plataforma. &nbsp;
+
+4. Desarrollo tecnológico: El equipo de desarrollo logró implementar soluciones técnicas avanzadas que facilitan la gestión eficaz de contenidos y la interacción del usuario, asegurando una experiencia fluida y enriquecedora. &nbsp;
+
+5. Retos enfrentados: El proyecto enfrentó desafíos en términos de escalabilidad y gestión de datos, que fueron abordados con la implementación de tecnologías adecuadas y arquitectura escalable. &nbsp;
+
+6. Feedback del usuario: El feedback de los usuarios durante las pruebas del prototipo fue crucial para iterar y mejorar las características de la plataforma, asegurando que las funcionalidades cumplieran con las expectativas del usuario. &nbsp;
+
+7. Impacto educativo: FastLearners tiene el potencial de impactar positivamente en la educación de programadores e ingenieros de software, proporcionando un recurso valioso para el aprendizaje continuo y el desarrollo profesional. &nbsp;
+
+8. Sostenibilidad del proyecto: A pesar de los desafíos iniciales relacionados con la financiación y el modelo de negocio, el proyecto demostró su sostenibilidad a largo plazo con un enfoque en la monetización de servicios premium y la expansión de la base de usuarios. &nbsp;
+
+9. Contribuciones al conocimiento común: El proyecto contribuyó al conocimiento común en la comunidad de desarrollo de software al compartir abiertamente los resultados del aprendizaje y las mejoras en la plataforma. &nbsp;
+
+10. Planes futuros: Se planificaron futuras expansiones de características, incluyendo herramientas de análisis de datos avanzadas y personalización del aprendizaje, para mejorar aún más la eficacia y la accesibilidad de la plataforma. &nbsp;
+
+## Video About The Team
+
+**Enlace al video en Youtube:** 
 
 # Bibliografía
 
@@ -1617,3 +1634,10 @@ McKinsey & Company. (s.f.). Demand for online education is growing: Are provider
 The Brookings Institution. (s.f.). Realizing the promise: How can education technology improve learning for all? Recuperado de https://www.brookings.edu/articles/realizing-the-promise-how-can-education-technology-improve-learning-for-all/
 
 # Anexos
+
+Video About The Product:
+**Enlace al video en Youtube:** https://www.youtube.com/watch?v=zAfdsqz8-tQ <br>
+**Enlace al video en Teams:** https://upcedupe.sharepoint.com/:v:/s/FastLearners/EV8wnnrni0BOvOF1KZbSdkUBb3CB1v6UfqUvuXmEUc40TA?e=VTGxEc
+
+Video About The Team:
+**Enlace al video en Youtube:**
