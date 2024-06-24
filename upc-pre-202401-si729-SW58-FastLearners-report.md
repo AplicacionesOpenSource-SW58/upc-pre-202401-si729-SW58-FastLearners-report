@@ -1288,7 +1288,7 @@ Nuestro Tercer Sprint #3 comienza el 30/06/2024 y tiene como finalidad resolver 
 
 | Sprint | Date       | Time  | Location                          | Prepared By | Attendes                                                           |
 |--------|------------|-------|-----------------------------------|-------------|--------------------------------------------------------------------|
-| 3    | 30/05/2024 | 17:00 | Reunión Virtual mediante Discord | Marco Mendez| - Carlos Ochoa, Jorge Orrego, Mathias Javier, Marco Mendez, Alejandro                            
+| 3    | 30/05/2024 | 17:00 | Reunión Virtual mediante Discord | Marco Mendez| - Carlos Ochoa, Jorge Orrego, Mathias Javier, Marco Mendez, Alejandro Pachas |                          
 
 | Sprint 3 Goal                                        | Velocity | Sum of Story Points |
 |------------------------------------------------------|----------|---------------------|
@@ -1399,16 +1399,17 @@ https://my-json-server.typicode.com/JorgeOrrego1201/FastLearners-json-server-Ope
 
 #### 5.2.4.1 Sprint Planning 4
 
-
 | Sprint | Date       | Time  | Location                          | Prepared By | Attendes                                                           |
 |--------|------------|-------|-----------------------------------|-------------|--------------------------------------------------------------------|
-|     |  |  | | |   |                          
+| 3    | 18/06/2024 | 22:00 | Reunión Virtual mediante Discord | Jorge Orrego | Carlos Ochoa, Jorge Orrego, Mathias Javier, Marco Mendez, Alejandro Pachas |    
+
 
 | Sprint 3 Goal                                        | Velocity | Sum of Story Points |
 |------------------------------------------------------|----------|---------------------|
-|   | 15       | 15                 |
-|  | 65 | 65              |
-|     |20 | 20|                     
+| Resolución de comentarios recibidos en el Sprint 3   | 15       | 15                  |
+| Terminar de conectar el backend con el frontend      | 65       | 65                  |
+| Desplegar últimas versiones del frontend y backend   | 20        | 20                 |          
+
 
 #### 5.2.4.2 Sprint Backlog 4
 
