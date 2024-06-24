@@ -1395,6 +1395,62 @@ https://my-json-server.typicode.com/JorgeOrrego1201/FastLearners-json-server-Ope
 
 <img src="assets/images/CommitsBack.png" alt="Commits Backend" style="width:100%;">
 
+### 5.2.4 Sprint 4
+
+#### 5.2.4.1 Sprint Planning 4
+
+
+| Sprint | Date       | Time  | Location                          | Prepared By | Attendes                                                           |
+|--------|------------|-------|-----------------------------------|-------------|--------------------------------------------------------------------|
+|     |  |  | | |   |                          
+
+| Sprint 3 Goal                                        | Velocity | Sum of Story Points |
+|------------------------------------------------------|----------|---------------------|
+|   | 15       | 15                 |
+|  | 65 | 65              |
+|     |20 | 20|                     
+
+#### 5.2.4.2 Sprint Backlog 4
+
+
+| Historia de Usuario | Title                                   | Id   | Title                           | Description                                               | Estimation (Hours) | Assigned To | Status (ToDo/InProcess/ToReview/Done) |
+|---------------------|-----------------------------------------|------|---------------------------------|-----------------------------------------------------------|--------------------|-------------|--------------------------------------|
+
+
+#### 5.2.4.3 Development Evidence for Sprint Review
+
+| Repository | Branch | Commit Message | Commit ID |
+|------------|--------|----------------|-----------|
+
+#### 5.2.4.4 Testing Suite Evidence for Sprint Review
+
+| Repository   | Branch  |  Commited on (Date)|
+|------|-----------------------------------|----------------------------------------|
+
+
+#### 5.2.4.5 Execution Evidence for Sprint Review
+
+Se desarrollaron los web services correspondientes al backend de la aplicación web.
+
+#### 5.2.4.6 Services Documentation Evidence for Sprint Review
+
+
+
+#### 5.2.4.7 Software Deployment Evidence for Sprint Review
+
+
+
+#### 5.2.4.8 Team Collaboration Insights during Sprint
+
+| Alumno | Actividad |
+|--------|-----------|
+| Javier Murillo, Mathias| Reporte (5.3 y 5.4) |
+| Orrego Noriega, Jorge David | Desarrollo del Backend |
+| Ochoa Colonio, Carlos Alberto | Desarrollo del Backend |
+| Pachas Chavez, Alejandro Alberto | Desarrollo del Backend |
+| Mendez Rosales, Marco Aurelio | Reporte (5.2.3.3 al 5.2.3.8) |
+
+
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 
@@ -1586,7 +1642,7 @@ Al iniciar sesion, existe un boton para los usuarios si es que llegaron a olvida
 
 <img src="assets/images/OlvContra.png" alt="¿Olvidaste tu contraseña?" style="width:100%;">
 
-Recomendacion:
+Recomendación:
 
 Para lograr solucionar el problema del usuario, se deberia generar una vista en la cual el usuario ingrese su correo electronico o su numero telefonico para que le envien un codigo o link de recuperacion de contraseña, de esta manera solucionando el problema  
 
@@ -1595,7 +1651,7 @@ Para lograr solucionar el problema del usuario, se deberia generar una vista en 
 <img src="assets/images/About-the-product.png" alt="Video About-The-Product" style="width:100%;">
 
 **Enlace al video en Youtube:** https://www.youtube.com/watch?v=zAfdsqz8-tQ <br>
-**Enlace al video en Teams:** https://upcedupe.sharepoint.com/:v:/s/FastLearners/EV8wnnrni0BOvOF1KZbSdkUBb3CB1v6UfqUvuXmEUc40TA?e=VTGxEc
+**Enlace al video en Microsoft Stream::** https://upcedupe.sharepoint.com/:v:/s/FastLearners/EV8wnnrni0BOvOF1KZbSdkUBb3CB1v6UfqUvuXmEUc40TA?e=VTGxEc
 
 # Conclusiones y recomendaciones.
 
@@ -1623,7 +1679,11 @@ Para lograr solucionar el problema del usuario, se deberia generar una vista en 
 
 ## Video About The Team
 
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/78bcbe7a-38c5-4d6e-b8e0-2edb80a5d9ec)
+
 **Enlace al video en Youtube:** https://youtu.be/3ICXxvJwTz4
+
+**Enlace al video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EXOzwrj_BLxGhDE3Kf9UiMwB0rAR61PoCM0rE0-JWA3I8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=yKCgeL 
 
 # Bibliografía
 
@@ -1637,7 +1697,8 @@ The Brookings Institution. (s.f.). Realizing the promise: How can education tech
 
 Video About The Product: <br>
 **Enlace al video en Youtube:** https://www.youtube.com/watch?v=zAfdsqz8-tQ <br>
-**Enlace al video en Teams:** https://upcedupe.sharepoint.com/:v:/s/FastLearners/EV8wnnrni0BOvOF1KZbSdkUBb3CB1v6UfqUvuXmEUc40TA?e=VTGxEc
+**Enlace al video en Microsoft Stream:** https://upcedupe.sharepoint.com/:v:/s/FastLearners/EV8wnnrni0BOvOF1KZbSdkUBb3CB1v6UfqUvuXmEUc40TA?e=VTGxEc
 
 Video About The Team: <br>
-**Enlace al video en Youtube:** https://youtu.be/3ICXxvJwTz4
+**Enlace al video en Youtube:** https://youtu.be/3ICXxvJwTz4 <br>
+**Enlace al video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EXOzwrj_BLxGhDE3Kf9UiMwB0rAR61PoCM0rE0-JWA3I8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=yKCgeL 
