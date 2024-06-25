@@ -1501,6 +1501,7 @@ Del HU23 al HU30, todas las tasks son para expandir y mejorar los servicios de F
 #### 5.2.4.3 Development Evidence for Sprint Review 4 <a name ="5.2.4.3.">
 
 | Repository | Branch | Commit Message | Commit ID |
+|------------|--------|----------------|-----------|
 | https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices | main | chore: domain.peristance, domain.model.queries, and domain.services created | a5eeeaa |
 | https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices | main | chore: removing User overrides | 7c42109 |
 | https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices | main | chore: editing application.properties | 22b4d12 |
