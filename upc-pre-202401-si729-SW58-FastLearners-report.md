@@ -47,8 +47,10 @@
 
 **Commits del Informe TF:**
 
-![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/b5a7efa5-d0f7-40d6-a842-524f02b163b9)
-![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/49ebf8b9-3277-45bd-88ed-f80f56a4a578)
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/afa5a311-23d8-4566-a18b-e2015127c64a)
+
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/bb2714ea-6b09-4127-9189-176cd5d4ba2f)
+
 
 Link del repositorio: https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/tree/main 
 
