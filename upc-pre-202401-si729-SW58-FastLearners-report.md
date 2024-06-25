@@ -89,6 +89,7 @@ Link del repositorio: https://github.com/AplicacionesOpenSource-SW58/upc-pre-202
       2.3.3. [User Journey Mapping](#2.3.3.)<br>
       2.3.4. [Empathy Mapping](#2.3.4.)<br>
       2.3.5. [As-is Scenario Mapping](#2.3.5.)<br>
+   2.4. [Ubiquitous Language](#2.4.) <br>
 3. [Capítulo III: Requirements Specification](#cap3)<br>
    3.1. [To-Be Scenario Mapping](#3.1.)<br>
    3.2. [User Stories](#3.2.)<br>
@@ -192,12 +193,11 @@ Nuestra visión es convertirnos en el principal recurso y comunidad en línea pa
 #### 1.1.2. Perfiles de integrantes del equipo <a name ="1.1.2.">
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-| 
-|Javier Murillo, Mathias <img src="assets/pictures profiles/Mathias Javier Murillo.jpg" alt="Imagen del compañero" style="width:40%">|u202212096|Ingenieria de software|C++, SQL, React, Python, Javascript|
-|Orrego Noriega, Jorge David <img src="assets/pictures profiles/JorgeOrrego.png" alt="Imagen del compañero" style="width:60%">|u201921734|Ingenieria de software|C++, Python, SQL y Java|
-|Pachas Chavez, Alejandro Alberto <img src="assets/pictures profiles/AlejandroPachas.jpeg" alt="Imagen del compañero" style="width:60%">|u201917598|Ingenieria de software|C++, React, Laravel,HTML5, CSS3, Javascript, SQL, Docker|
-|Ochoa Colonio, Carlos Alberto <img src="assets/pictures profiles/CarlosOchoa.jpg" alt="Imagen del compañero" style="width:60%">|u202315945|Ingenieria de software|C++, Python, creativo y amigable|
-|Mendez Rosales, Marco Aurelio <img src = "assets/pictures profiles/marco.png" alt="Imagen del compañero" style="width:60%">|u202018273|Ingenieria de software|C++, Python, SQL, Azure, Trabajador|
-<!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
+|Javier Murillo, Mathias <br> <img src="assets/pictures profiles/Mathias Javier Murillo.jpg" alt="Imagen del compañero" style="width:40%">|u202212096|Ingenieria de software|C++, SQL, React, Python, Javascript|
+|Orrego Noriega, Jorge David <br> <img src="assets/pictures profiles/JorgeOrrego.png" alt="Imagen del compañero" style="width:60%">|u201921734|Ingenieria de software|C++, Python, SQL y Java|
+|Pachas Chavez, Alejandro Alberto <br> <img src="assets/pictures profiles/AlejandroPachas.jpeg" alt="Imagen del compañero" style="width:60%">|u201917598|Ingenieria de software|C++, React, Laravel,HTML5, CSS3, Javascript, SQL, Docker|
+|Ochoa Colonio, Carlos Alberto <br> <img src="assets/pictures profiles/CarlosOchoa.jpg" alt="Imagen del compañero" style="width:60%">|u202315945|Ingenieria de software|C++, Python, creativo y amigable|
+|Mendez Rosales, Marco Aurelio <br> <img src = "assets/pictures profiles/marco.png" alt="Imagen del compañero" style="width:60%">|u202018273|Ingenieria de software|C++, Python, SQL, Azure, Trabajador|
 
 ## 1.2. Solution Profile <a name ="1.2.">
 
@@ -1435,18 +1435,40 @@ https://my-json-server.typicode.com/JorgeOrrego1201/FastLearners-json-server-Ope
 | 3    | 18/06/2024 | 22:00 | Reunión Virtual mediante Discord | Jorge Orrego | Carlos Ochoa, Jorge Orrego, Mathias Javier, Marco Mendez, Alejandro Pachas |    
 
 
-| Sprint 3 Goal                                        | Velocity | Sum of Story Points |
+| Sprint 4 Goal                                        | Velocity | Sum of Story Points |
 |------------------------------------------------------|----------|---------------------|
 | Resolución de comentarios recibidos en el Sprint 3   | 15       | 15                  |
 | Terminar de conectar el backend con el frontend      | 65       | 65                  |
-| Desplegar últimas versiones del frontend y backend   | 20        | 20                 |          
+| Desplegar últimas versiones del frontend y backend   | 10       | 10                 |
+| Terminar de subsanar tasks no realizadas en anteriores sprints  | 10        | 10     |
 
 
 #### 5.2.4.2 Sprint Backlog 4 <a name ="5.2.4.2.">
 
 
+En ese Sprint Backlog hemos puestos las tasks que quedaron pendientes de anteriores sprints y las que habiamos previsto completar para el Sprint 4: 
+
+
 | Historia de Usuario | Title                                   | Id   | Title                           | Description                                               | Estimation (Hours) | Assigned To | Status (ToDo/InProcess/ToReview/Done) |
 |---------------------|-----------------------------------------|------|---------------------------------|-----------------------------------------------------------|--------------------|-------------|--------------------------------------|
+| HU02 | Registrarme rápidamente | T05 | Desarrollo de Sistema de Registro | Se desarrolla un sistema login | 4 | Pachas Chavez, Alejandro Alberto | Done |
+| HU02 | Registrarme rápidamente | T06 | Integración Backend Registro | Se realiza el Back-end | 6 | Mendez Rosales, Marco Aurelio | Done |
+| HU03 | Recibir correo de bienvenida | T07 | Envío Automático de Correo de Bienvenida | Se le envia un correo automatico al usuario nuevo que se ha registrado | 3 | Javier Murillo, Mathias |In Process |
+| HU03 | Recibir correo de bienvenida | T08 | Plantilla de Correo de Bienvenida | Se realiza el diseño mejorado del correo de bienvenida | 3 | Ochoa Colonio, Carlos Alberto | In Process |
+| HU04 | Buscar cursos y recursos | T09 | Funcionalidad de Búsqueda de Cursos | Se implementa el sistema para buscar cursos | 8 | Javier Murillo, Mathias | In Process |
+| HU04 | Buscar cursos y recursos | T10 | Diseño de Interfaz de Búsqueda | Se realiza el diseño para el sistema de búsqueda | 6 | Ochoa Colonio, Carlos Alberto | Done |
+| HU10 | Acceder a ejemplos de código y proyectos | T11 | Creación de Ejemplos de Código | Se crean ejemplos de código para llenar los repositorios | 5 | Mendez Rosales, Marco Aurelio | Done |
+| HU10 | Acceder a ejemplos de código y proyectos | T12 | Documentación de Ejemplos de Código | Se crea el readme para entender como funciona cada código | 6 | Pachas Chavez, Alejandro Alberto | Done |
+| HU11 | Acceder a ejemplos de código y proyectos           | TK11 | Segmento de ejemplos                              | Crear segmento para que el usuario pueda acceder a ejemplos de código y proyectos | 3                  | Marco Mendez       | Done                                  |
+| HU12 | Recibir retroalimentación sobre mi código           | TK12 | Segmento de retroalimentación sobre el código     | Crear segmento en el que el usuario pueda recibir retroalimentación sobre su código | 4                  | Carlos Ochoa       | Done                                  |
+| HU13 | Acceder a comunidad en línea                       | TK13 | Segmento de comunidad                             | Crear segmento en el que el usuario pueda compartir con su comunidad             | 5                  | Mathias            | Done                                  |
+| HU14 | Acceder a recursos avanzados de desarrollo móvil   | TK14 | Segmento de cursos avanzados                      | Crear segmento para que el usuario pueda acceder a recursos avanzados.           | 6                  | Alejandro          | Done                                  |
+| HU15 | Colaborar en proyectos de código abierto           | TK15 | Segmento de colaboración en línea                 | Crear segmento para que el usuario pueda colaborar en proyectos de código abierto | 5                  | Jorge Orrego       | Done                                  |
+| HU16 | Mantenerme actualizado sobre nuevas tecnologías    | TK16 | Segmento de noticias                              | Crear segmento para que el usuario pueda acceder a noticias sobre nuevas tecnologías | 5                  | Marco Mendez       | Done                                  |
+| HU17 | Recibir retroalimentación sobre mi arquitectura... | TK17 | Segmento de retroalimentación                     | Crear segmento para que el usuario pueda recibir y observar retroalimentación sobre su arquitectura de diseño | 5                  | Marco Mendez       | Done                                  |
+| HU18 | Acceder a herramientas de análisis de rendimie... | TK18 | Segmento de acceso a herramientas de análisis     | Crear segmento para que el usuario pueda acceder a una herramienta de análisis de rendimiento y calidad de código | 5                  | Jorge Orrego       | Done                                  |
+| HU19 | Realizar proyectos prácticos                      | TK19 | Segmento de creación de proyectos prácticos      | Crear segmento para que el usuario pueda practicar creando proyectos prácticos   | 5                  | Alejandro          | Done                                  |
+| HU20 | Acceder a recursos de referencia                  | TK20 | Segmento de recursos de referencia                | Crear segmento para que el usuario pueda acceder a recursos de referencia        | 5                  | Mathias, Carlos Ochoa | Done          |
 | HU23                | Recibir recomendaciones personalizadas  | TK41 | Algoritmo y recolección de datos | Desarrollar algoritmo y recolectar datos                   | 6                 | Alejandro      | To-Do                                |
 |                     |                                         | TK43 | Integración y preferencias      | Integrar recomendaciones y configurar preferencias         | 6                | Marco      | To-Do                                |
 |                     |                                         | TK45 | Adaptación y pruebas            | Adaptar el algoritmo y realizar pruebas                    | 8                | Carlos       | To-Do                                |
@@ -1465,6 +1487,10 @@ https://my-json-server.typicode.com/JorgeOrrego1201/FastLearners-json-server-Ope
 | HU29                | Acceder a recursos sobre tecnologías emergentes | TK69 | Desarrollo de contenido y plataforma | Desarrollar contenido y plataforma                         | 7                 | Jorge    | To-Do                                |
 |                     |                                         | TK71 | Proyectos prácticos             | Desarrollar proyectos prácticos                            | 7                  | Alejandro     | To-Do                                |
 | HU30               | Colaborar en proyectos prácticos con otros usuarios | TK72 | Desarrollo de herramientas ade colaboración | Desarrollar herramientas de colaboración asíncrona                         | 7                 | Jorge    | To-Do                                |
+
+
+Del HU23 al HU30, todas las tasks son para expandir y mejorar los servicios de FastLearners, mas bien no son necesarias para su funcionamiento base. Se tenía planeado poder completarlas en este sprint, pero por un tema de tiempo y de alcance no se pudo realizar. 
+
 
 #### 5.2.4.3 Development Evidence for Sprint Review 4 <a name ="5.2.4.3.">
 
