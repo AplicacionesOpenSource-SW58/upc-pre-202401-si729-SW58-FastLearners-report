@@ -1689,8 +1689,12 @@ Para lograr solucionar el problema del usuario, se deberia generar una vista en 
 
 <img src="assets/images/About-the-product.png" alt="Video About-The-Product" style="width:100%;">
 
-**Enlace al video en Youtube:** https://www.youtube.com/watch?v=zAfdsqz8-tQ <br>
+En el video About the Product se muestra la funcionalidad y características principales de nuestra aplicación y el modelo de negocio que se va a aplicar para generar ganancias. Además, se brinda un testimonio de un usuario que calificó de buena manera la interacción con nuestra plataforma. 
+
+**Enlace al video en Youtube:** https://www.youtube.com/watch?v=zAfdsqz8-tQ 
+
 **Enlace al video en Microsoft Stream::** https://upcedupe.sharepoint.com/:v:/s/FastLearners/EV8wnnrni0BOvOF1KZbSdkUBb3CB1v6UfqUvuXmEUc40TA?e=VTGxEc
+
 
 # Conclusiones y recomendaciones.
 
@@ -1719,6 +1723,8 @@ Para lograr solucionar el problema del usuario, se deberia generar una vista en 
 ## Video About The Team
 
 ![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/78bcbe7a-38c5-4d6e-b8e0-2edb80a5d9ec)
+
+En el video de About the Team hemos mostrado y descrito cómo nos hemos comunicado y organizado como un equipo de trabajo durante el desarrollo de la plataforma FastLearners. En los primeros minutos nuestro compañero Jorge Orrego describe qué herramientas hemos utilizado para comunicarnos y coordinar y en la siguiente parte del video cada miembro del equipo dio un testimonio sobre su experiencia y aporte al trabajar en este proyecto, además de contar cómo lograron los objetivos del curso. 
 
 **Enlace al video en Youtube:** https://youtu.be/3ICXxvJwTz4
 
