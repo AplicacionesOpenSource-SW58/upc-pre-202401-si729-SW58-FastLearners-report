@@ -834,15 +834,21 @@ El objetivo del Domain Driven Design (DDD) es alcanzar una comprensión mutua de
 1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
 se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que encapsula palabras clave en los procesos para poder diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock (gestion) y otro enfocado en los proveedores (suministros)) Se hace como un brainstorm y se ve en que pueden conectarse o comunicarse (se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis).
-<img src="assets/images/Context_Diagram.png" alt="ContextDiagram" style="width:90%">
-   
+
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/c246dd5c-bb2f-4ff4-9e9b-ba3201c7acda)
+
+
 ### 4.6.2. Software Architecture Container Diagrams. <a name ="4.6.2.">
 1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP) 
-<img src="assets/images/Container_diagram.png" alt="ContainerDiagram" style="width:90%">
+
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/ea291d19-154c-4c69-b49f-304851975504)
+
 
 ### 4.6.3. Software Architecture Components Diagrams. <a name ="4.6.3.">
 1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
-<img src="assets/images/Component_diagram.png" alt="ComponentDiagram" style="width:90%">
+
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/af8b6358-ee2d-4c68-84ac-11012a290b1a)
+
 
 ## 4.7. Software Object-Oriented Design. <a name ="4.7.">
 ### 4.7.1. Class Diagrams. <a name ="4.7.1.">
