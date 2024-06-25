@@ -1536,7 +1536,7 @@ f. Para finalizar ¿Cual es el mayor atractivo de nuestro producto para ti? <br>
 Realizamos 5 entrevistas que van dirigidas a nuestro publico objetivo, en estas entrevistas les mostramos el recorrido por nuestra web application y de nuestra landing page a nuestros entrevistados:
 
 Link de la entrevista en Youtube: https://youtu.be/uGFhHBZSZ0A <br>
-Link de la entrevista en Microsoft Teams: https://upcedupe.sharepoint.com/:v:/s/FastLearners/ETEMMpPsWWNJsr0EeE_BUIoBYVKOK91n1KIKGvfo4YX6sw?e=jwqXdN
+Link de la entrevista en Microsoft Stream: https://upcedupe.sharepoint.com/:v:/s/FastLearners/ETEMMpPsWWNJsr0EeE_BUIoBYVKOK91n1KIKGvfo4YX6sw?e=jwqXdN
 
 **Entrevistado N°1** 
 
@@ -1753,6 +1753,11 @@ The Brookings Institution. (s.f.). Realizing the promise: How can education tech
 **Video Exposición TB2:**
 
 **Video Exposición TF:**
+
+
+**Video de las Entrevistas de validación:**
+* Link de la entrevista en Youtube: https://youtu.be/uGFhHBZSZ0A 
+* Link de la entrevista en Microsoft Stream: https://upcedupe.sharepoint.com/:v:/s/FastLearners/ETEMMpPsWWNJsr0EeE_BUIoBYVKOK91n1KIKGvfo4YX6sw?e=jwqXdN
 
 **Video About The Product:**
 
