@@ -1559,9 +1559,9 @@ Link del despliegue: https://fast-learners-web-services-open-source.zeabur.app/s
 
 Repositorio Informe: 
 
-![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/6c89f72e-26c5-4fd3-88da-5fb4fec8f1d0)
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/5ab5eec7-5ce2-45ad-b05c-3dd352475282)
 
-![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/41b35306-70ae-4de9-a7d9-2f72eba7e0b7)
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/7bde86aa-20a8-4ba8-8fe3-f99e933078e0)
 
 
 Repositorio Landing Page: 
@@ -1576,7 +1576,7 @@ Repositorio Frontend:
 
 Repositorio Backend: 
 
-![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/20105143-d289-4391-a7d0-ea025c0f472b)
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/8654626c-befb-4be5-9d21-4e8d89fc8e99)
 
 
 ## 5.3. Validation Interviews <a name ="5.3.">
