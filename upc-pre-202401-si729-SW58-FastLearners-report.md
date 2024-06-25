@@ -135,6 +135,24 @@ Link del repositorio: https://github.com/AplicacionesOpenSource-SW58/upc-pre-202
          5.2.1.3. [Development Evidence for Sprint Review](#development-evidence-for-sprint-review)<br>
          5.2.1.4. [Testing Suite Evidence for Sprint Review](#testing-suite-evidence-for-sprint-review)<br>
          5.2.1.5. [Execution Evidence for Sprint Review](#execution-evidence-for-sprint-review)<br>
+      5.2.2. [Sprint 2](#sprint-2)<br>
+         5.2.1.1. [Sprint Planning 2](#sprint-planning-2)<br>
+         5.2.1.2. [Sprint Backlog 2](#sprint-backlog-2)<br>
+         5.2.1.3. [Development Evidence for Sprint Review](#development-evidence-for-sprint-review-2)<br>
+         5.2.1.4. [Testing Suite Evidence for Sprint Review](#testing-suite-evidence-for-sprint-review-2)<br>
+         5.2.1.5. [Execution Evidence for Sprint Review](#execution-evidence-for-sprint-review-2)<br>
+      5.2.3. [Sprint 3](#sprint-3)<br>
+         5.2.1.1. [Sprint Planning 3](#sprint-planning-3)<br>
+         5.2.1.2. [Sprint Backlog 3](#sprint-backlog-3)<br>
+         5.2.1.3. [Development Evidence for Sprint Review](#development-evidence-for-sprint-review-3)<br>
+         5.2.1.4. [Testing Suite Evidence for Sprint Review](#testing-suite-evidence-for-sprint-review-3)<br>
+         5.2.1.5. [Execution Evidence for Sprint Review](#execution-evidence-for-sprint-review-3)<br>
+      5.2.4. [Sprint 4](#sprint-4)<br>
+         5.2.1.1. [Sprint Planning 4](#sprint-planning-4)<br>
+         5.2.1.2. [Sprint Backlog 4](#sprint-backlog-4)<br>
+         5.2.1.3. [Development Evidence for Sprint Review](#development-evidence-for-sprint-review-4)<br>
+         5.2.1.4. [Testing Suite Evidence for Sprint Review](#testing-suite-evidence-for-sprint-review-4)<br>
+         5.2.1.5. [Execution Evidence for Sprint Review](#execution-evidence-for-sprint-review-4)<br>
       5.3. [Validation Interviews](#validation-interviews)<br>
          5.3.1. [Diseño de Entrevistas](#diseño-de-entrevistas)<br>
          5.3.2. [Registro de Entrevistas](#registro-de-entrevistas)<br>
@@ -1157,7 +1175,7 @@ Nuestro Segundo Sprint #2 comienza el 15/04/2024 y tiene como finalidad resolver
 | Creación de Servicios Base                                                            |                     
 
 
-#### 5.2.2.2 Sprint Backlog
+#### 5.2.2.2 Sprint Backlog 2
 En nuestro segundo Sprint Backlog, logramos completar la landing page, el producto base del front end de la web application. Además de crear segmentos base.
 
 | Id   | Title                                               | Id   | Title                                              | Description                                                                      | Estimation (Hours) | Assigned To        | Status (ToDo/In Process/ToReview/Done) |
@@ -1173,7 +1191,7 @@ En nuestro segundo Sprint Backlog, logramos completar la landing page, el produc
 | HU19 | Realizar proyectos prácticos                      | TK19 | Segmento de creación de proyectos prácticos      | Crear segmento para que el usuario pueda practicar creando proyectos prácticos   | 5                  | Alejandro          | To Do                                  |
 | HU20 | Acceder a recursos de referencia                  | TK20 | Segmento de recursos de referencia                | Crear segmento para que el usuario pueda acceder a recursos de referencia        | 5                  | Mathias, Carlos Ochoa | To Do          |
 
-#### 5.2.2.3 Development Evidence for Sprint Review
+#### 5.2.2.3 Development Evidence for Sprint Review 2
 
 En esta parte se muestran los commits realizados durante el segundo sprint.
 
@@ -1194,7 +1212,7 @@ En esta parte se muestran los commits realizados durante el segundo sprint.
 | https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 9a3700b | Actualizar Readme | Actualizar Readme | 29/04/2024 |
 | https://github.com/AplicacionesOpenSource-SW58/FastLearners-Frontend-Web-App | FastLearners-Frontend-Web-App | 6ebaf5e | Se añadio Json Server | Se añadio Json Server | 29/04/2024 |
 
-#### 5.2.2.4 Testing Suite Evidence for Sprint Review
+#### 5.2.2.4 Testing Suite Evidence for Sprint Review 2
 
 Incluimos el código de los .feature en lenguaje Gherkin en el directorio features/, cada Feature se relaciona a un User Story de nuestro Sprint 1.
 
@@ -1203,7 +1221,7 @@ Incluimos el código de los .feature en lenguaje Gherkin en el directorio featur
 | https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report | upc-pre-202401-si729-SW58-FastLearners-report/main                  | 28/04/2024 | 
 
 
-#### 5.2.2.5.Execution Evidence for Sprint Review
+#### 5.2.2.5.Execution Evidence for Sprint Review 2
 
 En el sprint 2 se alcanzo un desarrollo completo de la implementacion del despliegue del landing page. La cual muestra diversos sectores donde el usuario puede enconrar informacion importante sobre nuestro producto y de nuestra Start Up, por otro lado se realizo un desarrollo parcial de la aplicacion web, la cual permite que el usuario navegue por ciertas opciones que ofrecemos. A continuacion algunas evidencias:
 
@@ -1224,11 +1242,11 @@ US04:
 <img src="assets/images/Landing4" alt="Commits" style="width:100%;">
 
 
-#### 5.2.2.6.Execution Evidence for Sprint Review:
+#### 5.2.2.6.Execution Evidence for Sprint Review 2
 
 Durante el sprint 2 unicamente se planifico que el sprint conformaria el desarrollo de la landing page y el front-end, por ello no llevamos a cabo algun desarrollo de una API, pero que mas adelante si se llevará a cabo para que nuestros usuarios tengan acceso al contenido completo de nuestro producto.
 
-#### 5.2.2.7.Software Deployment Evidence for Sprint Review:
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review 2
 
 En este sprint hemos desplegado la landing page actualizada de nuestra aplicación web junto al frontend por distintas plataformas. 
 
@@ -1258,7 +1276,7 @@ Desplegamos el frontend por medio de Firebase:
 
 Link para visualizar el frontend: https://fastlearners-opensource.web.app/home
 
-#### 5.2.2.8.Team Collaboration Insights during Sprint.
+#### 5.2.2.8.Team Collaboration Insights during Sprint 2
 
 | Alumno | Actividad |
 |--------|-----------|
@@ -1328,7 +1346,7 @@ Utilizamos la aplicación Trello para poder dar seguimiento a nuestro Backlog:
 | HU29                | Acceder a recursos sobre tecnologías emergentes | TK69 | Desarrollo de contenido y plataforma | Desarrollar contenido y plataforma                         | 7                 | Jorge    | To-Do                                |
 |                     |                                         | TK71 | Proyectos prácticos             | Desarrollar proyectos prácticos                            | 7                  | Alejandro     | To-Do                                |
 
-#### 5.2.3.3 Development Evidence for Sprint Review
+#### 5.2.3.3 Development Evidence for Sprint Review 3
 
 | Repository | Branch | Commit Message | Commit ID |
 |------------|--------|----------------|-----------|
@@ -1346,24 +1364,24 @@ Utilizamos la aplicación Trello para poder dar seguimiento a nuestro Backlog:
 | [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | chore: added dependencies | eabd3e6 |
 | [https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices](https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices) | Merge branch 'main' of github.com:AplicacionesOpenSource-SW58/FastLearners-WebServices | chore: initial commit | a4dfb98 |
 
-#### 5.2.3.4 Testing Suite Evidence for Sprint Review
+#### 5.2.3.4 Testing Suite Evidence for Sprint Review 3
 
 | Repository   | Branch  |  Commited on (Date)|
 |------|-----------------------------------|----------------------------------------|
 | https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report | upc-pre-202401-si729-SW58-FastLearners-report/main                  | 28/04/2024 |
 
-#### 5.2.3.5 Execution Evidence for Sprint Review
+#### 5.2.3.5 Execution Evidence for Sprint Review 3
 
 Se desarrollaron los web services correspondientes al backend de la aplicación web.
 
-#### 5.2.3.6 Services Documentation Evidence for Sprint Review
+#### 5.2.3.6 Services Documentation Evidence for Sprint Review 3
 
 Se configuro el backend de la aplicación.
 <img src="assets/images/backend1.jpg" alt="Backend run image" style="width:100%;">
 <img src="assets/images/backend2.jpg" alt="Backend run image" style="width:100%;">
 <img src="assets/images/backend3.jpg" alt="Backend run image" style="width:100%;">
 
-#### 5.2.3.7 Software Deployment Evidence for Sprint Review
+#### 5.2.3.7 Software Deployment Evidence for Sprint Review 3
 
 Se configuro la base de datos en la nube de azure.
 <img src="assets/images/confAzure1.jpg" alt="Azure conf" style="width:100%;">
@@ -1376,7 +1394,7 @@ La configuración de la fake api en JSON SERVER:
 https://my-json-server.typicode.com/JorgeOrrego1201/FastLearners-json-server-OpenSource 
 <img src="assets/images/FakeApi.jpg" alt="Fake API json Server" style="width:100%;">
 
-#### 5.2.3.8 Team Collaboration Insights during Sprint
+#### 5.2.3.8 Team Collaboration Insights during Sprint 3
 
 | Alumno | Actividad |
 |--------|-----------|
@@ -1430,26 +1448,26 @@ https://my-json-server.typicode.com/JorgeOrrego1201/FastLearners-json-server-Ope
 |                     |                                         | TK71 | Proyectos prácticos             | Desarrollar proyectos prácticos                            | 7                  | Alejandro     | To-Do                                |
 | HU30               | Colaborar en proyectos prácticos con otros usuarios | TK72 | Desarrollo de herramientas ade colaboración | Desarrollar herramientas de colaboración asíncrona                         | 7                 | Jorge    | To-Do                                |
 
-#### 5.2.4.3 Development Evidence for Sprint Review
+#### 5.2.4.3 Development Evidence for Sprint Review 4
 
 | Repository | Branch | Commit Message | Commit ID |
 |------------|--------|----------------|-----------|
 
-#### 5.2.4.4 Testing Suite Evidence for Sprint Review
+#### 5.2.4.4 Testing Suite Evidence for Sprint Review 4
 
 | Repository   | Branch  |  Commited on (Date)|
 |------|-----------------------------------|----------------------------------------|
 
 
-#### 5.2.4.5 Execution Evidence for Sprint Review
+#### 5.2.4.5 Execution Evidence for Sprint Review 4
 
 Se desarrollaron los web services correspondientes al backend de la aplicación web.
 
-#### 5.2.4.6 Services Documentation Evidence for Sprint Review
+#### 5.2.4.6 Services Documentation Evidence for Sprint Review 4
 
 
 
-#### 5.2.4.7 Software Deployment Evidence for Sprint Review
+#### 5.2.4.7 Software Deployment Evidence for Sprint Review 4
 
 **Despliegue del frontend con Firebase:** 
 
@@ -1465,7 +1483,7 @@ Link del despliegue: https://fastlearners-opensource.web.app/home
 
 Link del despliegue: https://fast-learners-os.azurewebsites.net/swagger-ui/index.html#/Users/getAllUsers
 
-#### 5.2.4.8 Team Collaboration Insights during Sprint
+#### 5.2.4.8 Team Collaboration Insights during Sprint 4
 
 | Alumno | Actividad |
 |--------|-----------|
