@@ -22,7 +22,7 @@
 | 0.0 | 25/03/2024 | Grupo 4 |Se crea el documento |
 | 1.0 | 02/04/2024 | Grupo 4 | Inicio del sprint 1|
 | 1.1 | 04/04/2024 | Grupo 4 | Se agrega el capítulo 1: Introducción|
-| 1.2 | 06/04/2024 | Grupo 4 | Se agrega el capítulo 2: Requirements Elicitation & Analyis|
+| 1.2 | 06/04/2024 | Grupo 4 | Se agrega el capítulo 2: Requirements Elic****itation & Analyis|
 | 1.3 | 06/04/2024 | Grupo 4 | Se agrega el capítulo 3:Requirements Specification|
 | 1.4 | 7/04/2024 | Grupo 4 | Se agrega el capítulo 4: Product Design|
 | 1.5 | 7/04/2024 | Grupo 4 | Se inicia el capítulo 5: Product Implementation, Validation & Deployment|
@@ -823,15 +823,15 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 Un diagrama de clases es una representación visual de las clases de un sistema de software y las relaciones entre ellas. 
 Se agregaron distintos patrones, entre ellos:
 1. Patrón Singleton:
- NotificationManager: Esta clase emplea el patrón Singleton, como se indica por la instancia estática notificationManager: instance. El constructor es privado o protegido para evitar la instanciación directa, asegurando que solo exista una instancia de NotificationManager.
+ NotificationManager Esta clase emplea el patrón Singleton, como se indica por la instancia estática notificationManager: instance. El constructor es privado o protegido para evitar la instanciación directa, asegurando que solo exista una instancia de NotificationManager.
 2.  Patrón Observer:
- NotificationManager y User: El NotificationManager mantiene una lista de observadores (Usuarios) y proporciona métodos para agregar o eliminar observadores (addObserver, removeObserver). Los usuarios pueden suscribirse a las notificaciones, y cuando se envía una notificación, todos los observadores son notificados (notifyObservers).
+ otificationManager y User El NotificationManager mantiene una lista de observadores (Usuarios) y proporciona métodos para agregar o eliminar observadores (addObserver, removeObserver). Los usuarios pueden suscribirse a las notificaciones, y cuando se envía una notificación, todos los observadores son notificados (notifyObservers).
 3.  Patrón Factory Method:
- MembershipFactory y sus subclases: El diagrama incluye varias clases de fábrica (MembershipFactory, BasicMembershipFactory, RegularMembershipFactory, PremiumMembershipFactory) responsables de crear diferentes tipos de membresías. Cada clase de fábrica tiene un método createMembership para instanciar tipos específicos de membresías.
+ MembershipFactory y sus subclases El diagrama incluye varias clases de fábrica (MembershipFactory, BasicMembershipFactory, RegularMembershipFactory, PremiumMembershipFactory) responsables de crear diferentes tipos de membresías. Cada clase de fábrica tiene un método createMembership para instanciar tipos específicos de membresías.
 4.  Patrón Strategy:
- PaymentStrategy y sus subclases: La interfaz PaymentStrategy es implementada por CreditCardPayment. Esto permite que el sistema use diferentes métodos de pago de manera intercambiable. El método pay en la interfaz PaymentStrategy define la estructura del algoritmo, y las subclases proporcionan implementaciones específicas.
+ PaymentStrategy y sus subclases La interfaz PaymentStrategy es implementada por CreditCardPayment. Esto permite que el sistema use diferentes métodos de pago de manera intercambiable. El método pay en la interfaz PaymentStrategy define la estructura del algoritmo, y las subclases proporcionan implementaciones específicas.
 5.  Patrón Command:
- Command, UploadContentCommand, DeleteContentCommand, CommandManager: El patrón Command se utiliza para encapsular solicitudes como objetos, permitiendo la parametrización de clientes con colas, solicitudes y operaciones. UploadContentCommand y DeleteContentCommand extienden la clase Command, implementando los métodos execute y undo. El CommandManager mantiene una pila de comandos para soportar operaciones como ejecutar y deshacer comandos (executeCommand, undoCommand).
+ Command, UploadContentCommand, DeleteContentCommand, CommandManager El patrón Command se utiliza para encapsular solicitudes como objetos, permitiendo la parametrización de clientes con colas, solicitudes y operaciones. UploadContentCommand y DeleteContentCommand extienden la clase Command, implementando los métodos execute y undo. El CommandManager mantiene una pila de comandos para soportar operaciones como ejecutar y deshacer comandos (executeCommand, undoCommand).
 6.  Patrón Composite:
  Content y Question: La clase Content contiene una lista de preguntas (questions: List<Question>), permitiendo que los objetos individuales (Preguntas) se traten de manera uniforme. Esta estructura forma una jerarquía parte-todo, lo cual es característico del patrón Composite.
 <img src="assets/images/clasestf.jpg" alt="clases" style="width:90%">
