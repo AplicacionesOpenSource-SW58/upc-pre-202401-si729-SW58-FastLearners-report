@@ -45,18 +45,10 @@
 
 # Project Report Collaboration Insights
 
-**Commits del Informe TB2:**
+**Commits del Informe TF:**
 
-<img src="assets/images/Commits TB1v2.png" alt="Commits TB1v2" style="width:100%;">
-
-![REPOSITORIO FASTLEARNERS](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report)
-
-En el caso de Alejandro, sí trabajó pero hizo commits desde una cuenta que no estaba agregada a la organización. 
-
-
-**Commits del Informe TB2:**
-
-Poner aquí la parte de insights del repo de github del informe
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/b5a7efa5-d0f7-40d6-a842-524f02b163b9)
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/49ebf8b9-3277-45bd-88ed-f80f56a4a578)
 
 # Student Outcome
 
