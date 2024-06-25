@@ -1734,6 +1734,12 @@ The Brookings Institution. (s.f.). Realizing the promise: How can education tech
 
 # Anexos
 
+**Enlace de la landing page:** https://aplicacionesopensource-sw58.github.io/AplicacionesOpenSource-SW58-Landing-Page-FastLearners/
+
+**Enlace del frontend de la aplicación:** https://fastlearners-opensource.web.app/home
+
+**Enlace del backend de la aplicación:**: https://fast-learners-os.azurewebsites.net/swagger-ui/index.html
+
 **Video Exposición TB1:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EbcoPjGAcNpNv_Ba8GKQV44Bl82FkApmIy2Hf-ygFxP6kQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cTyACF 
 
 **Video Exposición TP:**
