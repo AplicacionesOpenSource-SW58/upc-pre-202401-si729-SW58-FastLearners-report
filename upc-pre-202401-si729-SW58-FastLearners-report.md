@@ -1732,11 +1732,23 @@ En el video de About the Team hemos mostrado y descrito cómo nos hemos comunica
 
 # Bibliografía
 
+Angular Cookbook. (2021). Packt Publishing.
+
+Bampakos, A. (2020). Learning Angular - Third Edition (P. Deeleman, Ed.; 3rd edition). Packt Publishing.
+
+Kotaru, V. Keerti. author. (2020). Angular for Material Design Leverage Angular Material and TypeScript to Build a Rich User Interface for Web Apps  (1st ed. 2020.). Apress. https://doi.org/10.1007/978-1-4842-5434-9
+
 McKinsey & Company. (s.f.). New global data reveal education technology's impact on learning. Recuperado de https://www.mckinsey.com/industries/education/our-insights/new-global-data-reveal-education-technologys-impact-on-learning
 
 McKinsey & Company. (s.f.). Demand for online education is growing: Are providers ready? Recuperado de https://www.mckinsey.com/industries/education/our-insights/demand-for-online-education-is-growing-are-providers-ready
 
+Modern API Development with Spring and Spring Boot. (2021). Packt Publishing.
+
+Nair, Vijay. author. (2019). Practical Domain-Driven Design in Enterprise Java Using Jakarta EE, Eclipse MicroProfile, Spring Boot, and the Axon Framework  (1st ed. 2019.). Apress. https://doi.org/10.1007/978-1-4842-4543-9
+
 The Brookings Institution. (s.f.). Realizing the promise: How can education technology improve learning for all? Recuperado de https://www.brookings.edu/articles/realizing-the-promise-how-can-education-technology-improve-learning-for-all/
+
+Schildt, H. (2022). Java : a beginner’s guide  (Ninth edition.). McGraw Hill.
 
 # Anexos
 
