@@ -1768,6 +1768,54 @@ The Brookings Institution. (s.f.). Realizing the promise: How can education tech
 
 Schildt, H. (2022). Java : a beginner’s guide  (Ninth edition.). McGraw Hill.
 
+Velázquez, C. (2020). El gran libro de Angular compressed. Ubam. https://www.academia.edu/42671049/El_gran_libro_de_Angular_compressed
+
+GunterMueller. (s. f.). Books-3/Effective Java (3rd Edition).pdf at master · GunterMueller/Books-3. GitHub. https://github.com/GunterMueller/Books-3/blob/master/Effective%20Java%20(3rd%20Edition).pdf
+
+Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (s. f.). Design Patterns: Elements of Reusable Object-Oriented Software. O’Reilly Online Learning. https://www.oreilly.com/library/view/design-patterns-elements/0201633612/
+
+Means, G. (s. f.). Node for Front-End Developers. O’Reilly Online Learning. https://www.oreilly.com/library/view/node-for-front-end/9781449329112/
+
+Flanagan, D. (2020). JavaScript: The Definitive Guide (7th ed.). O'Reilly Media. Disponible en https://www.oreilly.com/library/view/javascript-the-definitive/9781491952023/
+
+Freeman, E., & Robson, E. (2019). Head First HTML and CSS: A Learner's Guide to Creating Standards-Based Web Pages (2nd ed.). O'Reilly Media. Disponible en https://www.oreilly.com/library/view/head-first-html/9781491950180/
+
+Osmani, A. (2018). Learning JavaScript Design Patterns (2nd ed.). O'Reilly Media. Disponible en https://www.oreilly.com/library/view/learning-javascript-design/9781449334840/
+
+Mardan, A. (2018). Node.js By Example (2nd ed.). Packt Publishing. Disponible en https://www.packtpub.com/product/nodejs-by-example/9781788626859
+
+Duckett, J. (2014). HTML and CSS: Design and Build Websites. Wiley. Disponible en https://www.wiley.com/en-us/HTML+and+CSS%3A+Design+and+Build+Websites-p-9781118008188
+
+Cederholm, D. (2012). CSS3 for Web Designers. A Book Apart. Disponible en https://abookapart.com/products/css3-for-web-designers
+
+Ejsmont, A. (2014). Web Scalability for Startup Engineers. Apress. Disponible en https://link.springer.com/book/10.1007/978-1-4842-0547-7
+
+Eich, B. (2011). JavaScript: The Good Parts. O'Reilly Media. Disponible en https://www.oreilly.com/library/view/javascript-the-good/9780596517748/
+
+Krasner, D., & Pope, S. T. (1988). A Cookbook for Using the Model-View-Controller User Interface Paradigm in Smalltalk-80. Journal of Object-Oriented Programming. Disponible en https://dl.acm.org/doi/10.5555/62383.62384
+
+Shammas, N. (2018). Node.js 8 the Right Way: Practical, Server-Side JavaScript That Scales. Pragmatic Bookshelf. Disponible en https://pragprog.com/titles/jwnode2/node-js-8-the-right-way/
+
+Crockford, D. (2008). JavaScript: The Good Parts. O'Reilly Media. Disponible en https://www.oreilly.com/library/view/javascript-the-good/9780596517748/
+
+Resig, J., & Bibeault, B. (2013). Secrets of the JavaScript Ninja (2nd ed.). Manning Publications. Disponible en https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition
+
+Eloquent JavaScript: A Modern Introduction to Programming* (3rd ed.). No Starch Press. Disponible en https://eloquentjavascript.net/
+
+Katz, Y., & Sirota, J. (2021). You Don’t Know JS Yet: Scope & Closures (2nd ed.). O'Reilly Media. Disponible en https://www.oreilly.com/library/view/you-dont-know/9781492083740/
+
+Simpson, K. (2017). You Don’t Know JS: Async & Performance. O'Reilly Media. Disponible en https://www.oreilly.com/library/view/you-dont-know/9781491904237/
+
+Murray, S. (2017). Responsive Web Design with HTML5 and CSS3 (3rd ed.). Packt Publishing. Disponible en https://www.packtpub.com/product/responsive-web-design-with-html5-and-css3-third-edition/9781787123458
+
+Marcotte, E. (2011). Responsive Web Design. A Book Apart. Disponible en https://abookapart.com/products/responsive-web-design
+
+Simpson, K. (2015). You Don’t Know JS: ES6 & Beyond. O'Reilly Media. Disponible en https://www.oreilly.com/library/view/you-dont-know/9781491905241/
+
+Wilson, E. (2018). Learning React: Modern Patterns for Developing React Apps. O'Reilly Media. Disponible en https://www.oreilly.com/library/view/learning-react/9781491954614/
+
+Sholtz, T. (2019). Pro Node.js for Developers: Learn to Build Powerful RESTful Web Applications with Node.js. Apress. Disponible en https://link.springer.com/book/10.1007/978-1-4842-5188-7
+
 # Anexos
 
 **Enlace de la landing page:** https://aplicacionesopensource-sw58.github.io/AplicacionesOpenSource-SW58-Landing-Page-FastLearners/
