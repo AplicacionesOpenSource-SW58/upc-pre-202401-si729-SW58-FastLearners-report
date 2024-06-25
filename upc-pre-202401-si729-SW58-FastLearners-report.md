@@ -1501,8 +1501,15 @@ Del HU23 al HU30, todas las tasks son para expandir y mejorar los servicios de F
 #### 5.2.4.3 Development Evidence for Sprint Review 4 <a name ="5.2.4.3.">
 
 | Repository | Branch | Commit Message | Commit ID |
-|------------|--------|----------------|-----------|
-|            |        |                |           |  
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices | main | chore: domain.peristance, domain.model.queries, and domain.services created | a5eeeaa |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices | main | chore: removing User overrides | 7c42109 |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices | main | chore: editing application.properties | 22b4d12 |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices | main | chore: [UserCommandServiceImpl] now implements UserCommandService | 9d33c8d |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices | main | chore: 'type' attribute name changed to 'membership' | 7429e75 |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices | main | chore: security config added | 155b9e3 |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices | main | chore: adding password to User aggregate | fe91146 |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices | main | chore: editing files to allow password input on POST request | ce97a4a |
+| https://github.com/AplicacionesOpenSource-SW58/FastLearners-WebServices | main | fix: address type chaged to 'email' | 204a184 |
 
 #### 5.2.4.4 Testing Suite Evidence for Sprint Review 4 <a name ="5.2.4.4.">
 
