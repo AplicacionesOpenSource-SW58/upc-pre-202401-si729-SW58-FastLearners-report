@@ -974,7 +974,7 @@ Membership representa la clase del tipo de membresía.
 ### 4.8.1. Database Diagram.
 Un diagrama de base de datos es una herramienta visual que representa la estructura y relaciones de una base de datos. Consta de tablas (entidades), donde cada tabla tiene columnas (atributos) que representan los diferentes tipos de datos que almacena.
 
-<img src="assets/images/dbtf.jpg" alt="DatabaseDiagram" style="width:90%">
+<img src="assets/images/dbfinal.jpeg" alt="DatabaseDiagram" style="width:90%">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
