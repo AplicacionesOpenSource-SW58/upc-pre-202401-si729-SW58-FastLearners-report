@@ -990,7 +990,8 @@ Membership representa la clase del tipo de membresía.
 | Atributo  | Descripción                              |
 |-----------|------------------------------------------|
 | Basic     | Representa la membresía básica           |
-| Pro       | Representa la membresía Pro              |
+| Regular    | Representa la membresía Regular              |
+| Pro | Representa la membresía Pro      |
 
 ## 4.8. Database Design. <a name ="4.8.">
 ### 4.8.1. Database Diagram. <a name ="4.8.1.">
