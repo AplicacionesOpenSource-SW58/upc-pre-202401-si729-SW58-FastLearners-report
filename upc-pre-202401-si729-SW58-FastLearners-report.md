@@ -1530,7 +1530,7 @@ Se desarrollaron los web services correspondientes al backend de la aplicación 
 
 **Despliegue del frontend con Firebase:** 
 
-![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/43eed098-59bf-4811-a598-5034952ca56e)
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/27ae65fd-9822-4df8-a942-895c614b36b6)
 
 ![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/23df01a9-5fab-4149-a55d-4d3d5853c07d)
 
