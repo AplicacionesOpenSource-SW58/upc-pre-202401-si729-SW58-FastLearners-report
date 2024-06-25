@@ -1910,7 +1910,7 @@ Sholtz, T. (2019). Pro Node.js for Developers: Learn to Build Powerful RESTful W
 
 **Video Exposición TP:** https://upcedupe.sharepoint.com/:v:/s/FastLearners/EXsj6Qjvsh1Jra_b-FiEjHgBCbfKvyXarV6sY5QbhUqwrA?e=iIWZtH 
 
-**Video Exposición TF:**
+**Video Exposición TF:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EcBzLMxFKORHgoxsr3Q-YdoB-JTUK6vHzdwvg_Qyf7szEw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=R7siOv 
 
 
 **Video de las Entrevistas de validación:**
