@@ -12,7 +12,7 @@
 - Javier Murillo, Mathias - u202022211
 - Orrego Noriega, Jorge David - u201921734
 - Ochoa Colonio, Carlos Alberto - u202315945
-- Pachas Chavez, Alejandro Alberto - u201917598
+- Pachas Chavez, Alejandro Alberto - u201917598**
 - Mendez Rosales, Marco Aurelio - u202018273
 
 ---
@@ -834,7 +834,7 @@ Se agregaron distintos patrones, entre ellos:
  Command, UploadContentCommand, DeleteContentCommand, CommandManager: El patrón Command se utiliza para encapsular solicitudes como objetos, permitiendo la parametrización de clientes con colas, solicitudes y operaciones. UploadContentCommand y DeleteContentCommand extienden la clase Command, implementando los métodos execute y undo. El CommandManager mantiene una pila de comandos para soportar operaciones como ejecutar y deshacer comandos (executeCommand, undoCommand).
 6.  Patrón Composite:
  Content y Question: La clase Content contiene una lista de preguntas (questions: List<Question>), permitiendo que los objetos individuales (Preguntas) se traten de manera uniforme. Esta estructura forma una jerarquía parte-todo, lo cual es característico del patrón Composite.
-<img src="assets/images/class_diagramv2.png" alt="ClassDiagram" style="width:90%">
+<img src="assets/images/clasestf.jpg" alt="clases" style="width:90%">
 ### 4.7.2. Class Dictionary.
 Para el diccionario de clases, se presentan las más importantes
 
@@ -963,7 +963,7 @@ Membership representa la clase del tipo de membresía.
 ### 4.8.1. Database Diagram.
 Un diagrama de base de datos es una herramienta visual que representa la estructura y relaciones de una base de datos. Consta de tablas (entidades), donde cada tabla tiene columnas (atributos) que representan los diferentes tipos de datos que almacena.
 
-<img src="assets/images/db.png" alt="DatabaseDiagram" style="width:90%">
+<img src="assets/images/dbtf.jpg" alt="DatabaseDiagram" style="width:90%">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
