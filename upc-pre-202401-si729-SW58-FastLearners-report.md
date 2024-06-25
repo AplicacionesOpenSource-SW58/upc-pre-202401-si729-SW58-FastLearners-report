@@ -1528,11 +1528,15 @@ Se desarrollaron los web services correspondientes al backend de la aplicación 
 
 Link del despliegue: https://fastlearners-opensource.web.app/home
 
-**Despliegue del backend con Azure:** 
+**Despliegue del backend con Zeabur:** 
 
-![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/fa8cb283-bd23-4ed5-98a4-fb4bf1e96018)
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/9534b227-20af-4fda-9f8b-cb6e4ce96268)
 
-Link del despliegue: https://fast-learners-os.azurewebsites.net/swagger-ui/index.html#/Users/getAllUsers
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/606c01e8-1175-477c-82cd-421f9d404a87)
+
+Cambiamos de provedor de Azure a Zeabur por la facilidad de despliegue que nos ofrece y porque tuvimos dificultades a la hora de desplegar los web services dockerizados en Azure.  
+
+Link del despliegue: https://fast-learners-web-services-open-source.zeabur.app/swagger-ui/index.html#/
 
 #### 5.2.4.8 Team Collaboration Insights during Sprint 4 <a name ="5.2.4.8.">
 
@@ -1873,7 +1877,7 @@ Sholtz, T. (2019). Pro Node.js for Developers: Learn to Build Powerful RESTful W
 
 **Enlace del frontend de la aplicación:** https://fastlearners-opensource.web.app/home
 
-**Enlace del backend de la aplicación:**: https://fast-learners-os.azurewebsites.net/swagger-ui/index.html
+**Enlace del backend de la aplicación:**: https://fast-learners-web-services-open-source.zeabur.app/swagger-ui/index.html#/ 
 
 **Video Exposición TB1:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EbcoPjGAcNpNv_Ba8GKQV44Bl82FkApmIy2Hf-ygFxP6kQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cTyACF 
 
