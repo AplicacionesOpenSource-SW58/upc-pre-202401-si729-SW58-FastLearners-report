@@ -1691,9 +1691,9 @@ Para lograr solucionar el problema del usuario, se deberia generar una vista en 
 
 En el video About the Product se muestra la funcionalidad y características principales de nuestra aplicación y el modelo de negocio que se va a aplicar para generar ganancias. Además, se brinda un testimonio de un usuario que calificó de buena manera la interacción con nuestra plataforma. 
 
-**Enlace al video en Youtube:** https://www.youtube.com/watch?v=zAfdsqz8-tQ 
+**Enlace al video en Youtube:** https://youtu.be/PIG-qQVoQck 
 
-**Enlace al video en Microsoft Stream::** https://upcedupe.sharepoint.com/:v:/s/FastLearners/EV8wnnrni0BOvOF1KZbSdkUBb3CB1v6UfqUvuXmEUc40TA?e=VTGxEc
+**Enlace al video en Microsoft Stream::** https://upcedupe.sharepoint.com/:v:/s/FastLearners/EUljcc3Vd4FDqh7uC9WuPkwBgM3V18pEmhZqCMytbGwATA?e=npGX9v
 
 
 # Conclusiones y recomendaciones.
@@ -1748,9 +1748,7 @@ The Brookings Institution. (s.f.). Realizing the promise: How can education tech
 
 **Video Exposición TB1:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EbcoPjGAcNpNv_Ba8GKQV44Bl82FkApmIy2Hf-ygFxP6kQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cTyACF 
 
-**Video Exposición TP:**
-
-**Video Exposición TB2:**
+**Video Exposición TP:** https://upcedupe.sharepoint.com/:v:/s/FastLearners/EXsj6Qjvsh1Jra_b-FiEjHgBCbfKvyXarV6sY5QbhUqwrA?e=iIWZtH 
 
 **Video Exposición TF:**
 
@@ -1761,9 +1759,8 @@ The Brookings Institution. (s.f.). Realizing the promise: How can education tech
 
 **Video About The Product:**
 
-* Enlace al video en Youtube: https://www.youtube.com/watch?v=zAfdsqz8-tQ 
-* Enlace al video en Microsoft Stream: https://upcedupe.sharepoint.com/:v:/s/FastLearners/EV8wnnrni0BOvOF1KZbSdkUBb3CB1v6UfqUvuXmEUc40TA?e=VTGxEc
-
+* Enlace al video en Youtube: https://youtu.be/PIG-qQVoQck
+* Enlace al video en Microsoft Stream: https://upcedupe.sharepoint.com/:v:/s/FastLearners/EUljcc3Vd4FDqh7uC9WuPkwBgM3V18pEmhZqCMytbGwATA?e=npGX9v 
 **Video About The Team:**
 
 * Enlace al video en Youtube: https://youtu.be/3ICXxvJwTz4 <br>
