@@ -868,7 +868,9 @@ Se agregaron distintos patrones, entre ellos:
  Command, UploadContentCommand, DeleteContentCommand, CommandManager El patrón Command se utiliza para encapsular solicitudes como objetos, permitiendo la parametrización de clientes con colas, solicitudes y operaciones. UploadContentCommand y DeleteContentCommand extienden la clase Command, implementando los métodos execute y undo. El CommandManager mantiene una pila de comandos para soportar operaciones como ejecutar y deshacer comandos (executeCommand, undoCommand).
 6.  Patrón Composite:
  Content y Question: La clase Content contiene una lista de preguntas (questions: List<Question>), permitiendo que los objetos individuales (Preguntas) se traten de manera uniforme. Esta estructura forma una jerarquía parte-todo, lo cual es característico del patrón Composite.
-<img src="assets/images/clasestf.jpg" alt="clases" style="width:90%">
+
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/a6383a97-cf0d-4151-99ce-983710d7b062)
+
 
 ### 4.7.2. Class Dictionary. <a name ="4.7.2.">
 Para el diccionario de clases, se presentan las más importantes
