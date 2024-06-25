@@ -1761,6 +1761,7 @@ The Brookings Institution. (s.f.). Realizing the promise: How can education tech
 
 * Enlace al video en Youtube: https://youtu.be/PIG-qQVoQck
 * Enlace al video en Microsoft Stream: https://upcedupe.sharepoint.com/:v:/s/FastLearners/EUljcc3Vd4FDqh7uC9WuPkwBgM3V18pEmhZqCMytbGwATA?e=npGX9v 
+
 **Video About The Team:**
 
 * Enlace al video en Youtube: https://youtu.be/3ICXxvJwTz4 <br>
