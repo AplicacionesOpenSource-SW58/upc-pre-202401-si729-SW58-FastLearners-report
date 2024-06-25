@@ -130,29 +130,41 @@ Link del repositorio: https://github.com/AplicacionesOpenSource-SW58/upc-pre-202
       5.1.4. [Software Deployment Configuration](#5.1.4.)<br>
    5.2. [Landing Page, Services & Applications Implementation](#5.2.)<br>
       5.2.1. [Sprint 1](#5.2.1.)<br>
-         5.2.1.1. [Sprint Planning 1](#sprint-planning-1)<br>
-         5.2.1.2. [Sprint Backlog 1](#sprint-backlog-1)<br>
-         5.2.1.3. [Development Evidence for Sprint Review](#development-evidence-for-sprint-review)<br>
-         5.2.1.4. [Testing Suite Evidence for Sprint Review](#testing-suite-evidence-for-sprint-review)<br>
-         5.2.1.5. [Execution Evidence for Sprint Review](#execution-evidence-for-sprint-review)<br>
+         5.2.1.1. [Sprint Planning 1](#5.2.1.1.)<br>
+         5.2.1.2. [Sprint Backlog 1](#5.2.1.2.)<br>
+         5.2.1.3. [Development Evidence for Sprint Review](#5.2.1.3.)<br>
+         5.2.1.4. [Testing Suite Evidence for Sprint Review](#5.2.1.4.)<br>
+         5.2.1.5. [Execution Evidence for Sprint Review](#5.2.1.5.)<br>
+         5.2.1.6. [Services Documentation Evidence for Sprint Review.](#5.2.1.6.)<br>
+         5.2.1.7. [Software Deployment Evidence for Sprint Review.](#5.2.1.7.)<br>
+         5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.1.8.)<br>
       5.2.2. [Sprint 2](#5.2.2.)<br>
-         5.2.2.1. [Sprint Planning 2](#sprint-planning-2)<br>
-         5.2.2.2. [Sprint Backlog 2](#sprint-backlog-2)<br>
-         5.2.2.3. [Development Evidence for Sprint Review](#development-evidence-for-sprint-review-2)<br>
-         5.2.2.4. [Testing Suite Evidence for Sprint Review](#testing-suite-evidence-for-sprint-review-2)<br>
-         5.2.2.5. [Execution Evidence for Sprint Review](#execution-evidence-for-sprint-review-2)<br>
+         5.2.2.1. [Sprint Planning 2](#5.2.2.1.)<br>
+         5.2.2.2. [Sprint Backlog 2](#5.2.2.2.)<br>
+         5.2.2.3. [Development Evidence for Sprint Review](#5.2.2.3.)<br>
+         5.2.2.4. [Testing Suite Evidence for Sprint Review](#5.2.2.4.)<br>
+         5.2.2.5. [Execution Evidence for Sprint Review](#5.2.2.5.)<br>
+         5.2.2.6. [Services Documentation Evidence for Sprint Review.](#5.2.2.6.)<br>
+         5.2.2.7. [Software Deployment Evidence for Sprint Review.](#5.2.2.7.)<br>
+         5.2.2.8. [Team Collaboration Insights during Sprint.](#5.2.2.8.)<br>
       5.2.3. [Sprint 3](#5.2.3.)<br>
-         5.2.3.1. [Sprint Planning 3](#sprint-planning-3)<br>
-         5.2.3.2. [Sprint Backlog 3](#sprint-backlog-3)<br>
-         5.2.3.3. [Development Evidence for Sprint Review](#development-evidence-for-sprint-review-3)<br>
-         5.2.3.4. [Testing Suite Evidence for Sprint Review](#testing-suite-evidence-for-sprint-review-3)<br>
-         5.2.3.5. [Execution Evidence for Sprint Review](#execution-evidence-for-sprint-review-3)<br>
+         5.2.3.1. [Sprint Planning 3](#5.2.3.1.)<br>
+         5.2.3.2. [Sprint Backlog 3](#5.2.3.2.)<br>
+         5.2.3.3. [Development Evidence for Sprint Review](#5.2.3.3.)<br>
+         5.2.3.4. [Testing Suite Evidence for Sprint Review](#5.2.3.4.)<br>
+         5.2.3.5. [Execution Evidence for Sprint Review](#5.2.3.5.)<br>
+         5.2.3.6. [Services Documentation Evidence for Sprint Review.](#5.2.3.6.)<br>
+         5.2.3.7. [Software Deployment Evidence for Sprint Review.](#5.2.3.7.)<br>
+         5.2.3.8. [Team Collaboration Insights during Sprint.](#5.2.3.8.)<br>
       5.2.4. [Sprint 4](#5.2.4.)<br>
-         5.2.4.1. [Sprint Planning 4](#sprint-planning-4)<br>
-         5.2.4.2. [Sprint Backlog 4](#sprint-backlog-4)<br>
-         5.2.4.3. [Development Evidence for Sprint Review](#development-evidence-for-sprint-review-4)<br>
-         5.2.4.4. [Testing Suite Evidence for Sprint Review](#testing-suite-evidence-for-sprint-review-4)<br>
-         5.2.4.5. [Execution Evidence for Sprint Review](#execution-evidence-for-sprint-review-4)<br>
+         5.2.4.1. [Sprint Planning 4](#5.2.4.1.)<br>
+         5.2.4.2. [Sprint Backlog 4](#5.2.4.2.)<br>
+         5.2.4.3. [Development Evidence for Sprint Review](#5.2.4.3.)<br>
+         5.2.4.4. [Testing Suite Evidence for Sprint Review](#5.2.4.4.)<br>
+         5.2.4.5. [Execution Evidence for Sprint Review](#5.2.4.5.)<br>
+         5.2.4.6. [Services Documentation Evidence for Sprint Review.](#5.2.4.6.)<br>
+         5.2.4.7. [Software Deployment Evidence for Sprint Review.](#5.2.4.7.)<br>
+         5.2.4.8. [Team Collaboration Insights during Sprint.](#5.2.4.8.)<br>
       5.3. [Validation Interviews](#5.3.)<br>
          5.3.1. [Diseño de Entrevistas](#5.3.1.)<br>
          5.3.2. [Registro de Entrevistas](#5.3.2.)<br>
