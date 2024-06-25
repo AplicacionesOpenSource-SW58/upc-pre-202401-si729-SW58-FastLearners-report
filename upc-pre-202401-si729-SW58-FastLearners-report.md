@@ -50,6 +50,8 @@
 ![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/b5a7efa5-d0f7-40d6-a842-524f02b163b9)
 ![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/49ebf8b9-3277-45bd-88ed-f80f56a4a578)
 
+Link del repositorio: https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/tree/main 
+
 # Student Outcome
 
 **ABET – EAC - Student Outcome 3:** Capacidad de comunicarse efectivamente con un rango de audiencias.
@@ -546,7 +548,7 @@ Hemos decidido utilizar un búho sentado en un libro dado que este animal es un 
 
 <img src="assets/images/ColorPalette.png" alt="Logo de la empresa" style="width:50%;">
 
-**Enlace:** [Color Palette](https://coolors.co/495867-577399-bdd5ea-f7f7ff-fe5f55)
+**Enlace:** https://coolors.co/495867-577399-bdd5ea-f7f7ff-fe5f55
 
 **Colores principales:**
 
@@ -740,8 +742,7 @@ Configuración de cuenta (Docentes):
 **User Goal 6: Crear un repositorio (Alumno)**
 <img src="assets/images/capituloIV/UserGoal6.png" alt="WebApp WF" style="width:100%;">
 
-
-[URL del Lucid Chart](https://lucid.app/lucidchart/b1e318d4-eac0-4585-b525-7186b4613849/edit?viewport_loc=-9133%2C-2321%2C5759%2C1972%2C0_0&invitationId=inv_ec7ffff4-88dd-43ee-a6b4-9304ec2e9720)
+URL del Lucid Chart: https://lucid.app/lucidchart/b1e318d4-eac0-4585-b525-7186b4613849/edit?viewport_loc=-9133%2C-2321%2C5759%2C1972%2C0_0&invitationId=inv_ec7ffff4-88dd-43ee-a6b4-9304ec2e9720
 
 ### 4.4.3. Web Applications Mock-ups.
 
@@ -791,7 +792,7 @@ Hemos desarrollado nuestro prototipo en la plataforma Figma:
 
 <img src="assets/images/capituloIV/Prototipo.png" alt="Prototipo" style="width:100%;">
 
-[URL del Prototipo](https://www.figma.com/proto/FjmNDVBcJHJAcdpC2si6uA/FastLearners-Landing-Page?page-id=0%3A1&type=design&node-id=10-658&viewport=749%2C-998%2C0.12&t=6fT1ovWasdWZVJ37-1&scaling=min-zoom&starting-point-node-id=10%3A658&show-proto-sidebar=1&mode=design)
+URL del Prototipo: https://www.figma.com/proto/FjmNDVBcJHJAcdpC2si6uA/FastLearners-Landing-Page?page-id=0%3A1&type=design&node-id=10-658&viewport=749%2C-998%2C0.12&t=6fT1ovWasdWZVJ37-1&scaling=min-zoom&starting-point-node-id=10%3A658&show-proto-sidebar=1&mode=design
 
 ## 4.6. Domain-Driven Software Architecture.
 El objetivo del Domain Driven Design (DDD) es alcanzar una comprensión mutua del ámbito del problema, fomentando una visión compartida del dominio en cuestión. Al adoptar un enfoque diferente, DDD facilita una colaboración más efectiva entre los desarrolladores y los expertos en el dominio, al tiempo que promueve el uso de un lenguaje común. Además de esto, DDD implica la aplicación de una serie de procedimientos, patrones y diagramas de arquitectura para alinear el software con el dominio y fortalecer su enfoque.
@@ -968,19 +969,19 @@ Un diagrama de base de datos es una herramienta visual que representa la estruct
    2. Vertabelo: Plataforma basada en creacion, gestion y realizacion de graficos para organizar las herencias y dependencias de nuestros programas y/o bases de datos. Como en nuestro caso fue implementada para realizar         nuestros Class Diagrams y nuestra Database Diagrams. Ruta de referencia <https://vertabelo.com/>
    3. Figma: Plataforma de elaboracion de prototipos y edicion grafica, que usamos principalmente para nuestra Landing Page y Web Aplication, tanto para los Wireframes y los Mock-ups, al igual que para nuestros Wireflow         Diagrams. Ruta de referencia: <https://www.figma.com/>
 ### Software Development
-   1. JetBrains WebStorm: Entorno de desarrollo especializado al desarrollo web, usando accesos mas simples de prubas en diferentes navegadores web, como Chrome, Microsoft Edge, Safari y Mozilla Firefox. Usar este IDE nos agrega un valor para el desarrollo de nuestro proyecto dado que nos brinda la posibilidad de experimentar como funciona nuestro desarrollo en diferentes plataformas , al igual que soporte en la edicion del       codigo en los lenguajes de programacion soportados por este mismo. Ruta de referencia <https://www.jetbrains.com/es-es/webstorm/>
-   2. HTML5: Este lenguaje de etiquetado para paginas web, tambien conocido como HyperText Markup Language. Es empleado para nuestro desarrollo del proyecto para la implementacion del contenido de la aplicacion. Ruta de referencia: <https://www.w3schools.com/html/> 
-   3. CSS: Este lenguaje va de la mano con HTML5 dandonos la opcion de personalizacion de estilos, tambien es conocido como Cascading Style Sheets. Ruta de referencia: <https://developer.mozilla.org/es/docs/Web/CSS>
-   4. JavaScript: Lenguaje de programacion interpretado y orientado a objetos. Se usará para elaborar la interfaz de usuario. Ruta de referencia: <https://developer.mozilla.org/es/docs/Web/JavaScript>
+   1. JetBrains WebStorm: Entorno de desarrollo especializado al desarrollo web, usando accesos mas simples de prubas en diferentes navegadores web, como Chrome, Microsoft Edge, Safari y Mozilla Firefox. Usar este IDE nos agrega un valor para el desarrollo de nuestro proyecto dado que nos brinda la posibilidad de experimentar como funciona nuestro desarrollo en diferentes plataformas , al igual que soporte en la edicion del       codigo en los lenguajes de programacion soportados por este mismo. Ruta de referencia https://www.jetbrains.com/es-es/webstorm/
+   2. HTML5: Este lenguaje de etiquetado para paginas web, tambien conocido como HyperText Markup Language. Es empleado para nuestro desarrollo del proyecto para la implementacion del contenido de la aplicacion. Ruta de referencia: https://www.w3schools.com/html/
+   3. CSS: Este lenguaje va de la mano con HTML5 dandonos la opcion de personalizacion de estilos, tambien es conocido como Cascading Style Sheets. Ruta de referencia: https://developer.mozilla.org/es/docs/Web/CSS
+   4. JavaScript: Lenguaje de programacion interpretado y orientado a objetos. Se usará para elaborar la interfaz de usuario. Ruta de referencia: https://developer.mozilla.org/es/docs/Web/JavaScript
 ### Software Deployment
-   1. Git: Software de control de versiones, pensado en ayudar a la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicacion. Los miembros del equipo accederán por medio de linea de  comandos en su consola. Ruta de referencia: <https://git-scm.com/>
+   1. Git: Software de control de versiones, pensado en ayudar a la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicacion. Los miembros del equipo accederán por medio de linea de  comandos en su consola. Ruta de referencia: https://git-scm.com/
 ### Software Documentation and Project Management
-   1. Github: Plataforma en la cual podemos alojar nuestros proyectos utilizando el control de versiones de Git todo por medio de repositorios. Esto nos facilitará la colaboracion en tiempo real y la revision de    nuestros aportes al proyecto por parte de cada miembro del equipo. Ruta de referencia <https://github.com/>
+   1. Github: Plataforma en la cual podemos alojar nuestros proyectos utilizando el control de versiones de Git todo por medio de repositorios. Esto nos facilitará la colaboracion en tiempo real y la revision de    nuestros aportes al proyecto por parte de cada miembro del equipo. Ruta de referencia https://github.com/
 ### 5.1.2. Source Code Management.
 El proyecto mantiene las convenciones de flujo establecido por el modelo GitFlow para el control de versiones usando GitHub como plataforma y sistema de control de versiones. Será compartido los URLs de nuestros repositorios en GitHub para nuestra Landing Page y seguirá siendo implementado en nuestros demás productos de nuesto proyecto.
 ### Repositorio de GitHub:
-URL para acceder a nuestra organizacion de GitHub <https://github.com/AplicacionesOpenSource-SW58> <br>
-URL para acceder a nuestra Landing Page <https://github.com/AplicacionesOpenSource-SW58/Landing-Page-FastLearners>
+URL para acceder a nuestra organizacion de GitHub https://github.com/AplicacionesOpenSource-SW58 <br>
+URL para acceder a nuestra Landing Page https://github.com/AplicacionesOpenSource-SW58/AplicacionesOpenSource-SW58-Landing-Page-FastLearners
 ### 5.1.3. Source Code Style Guide & Conventions.
 Que usamos con css (en caso usemos software para SASS)
 supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
@@ -1125,7 +1126,7 @@ Para este Sprint 1, hemos desplegado el landing page, como se dijo anteriormente
 <img src="assets/images/SeccionSobreNosotros_001.png" alt="SobreNosotros" style="width:100%;">
 <img src="assets/images/SeccionConoceMas_001.png" alt="ConoceMas" style="width:100%;">
 <img src="assets/images/SeccionPlanesYSuscripciones_001.png" alt="PlanesYSuscripciones" style="width:100%;">
-Enlace para visualizar la landing page: <https://aplicacionesopensource-sw58.github.io/AplicacionesOpenSource-SW58-Landing-Page-FastLearners/>
+Enlace para visualizar la landing page: https://aplicacionesopensource-sw58.github.io/AplicacionesOpenSource-SW58-Landing-Page-FastLearners/
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
@@ -1139,7 +1140,8 @@ Enlace para visualizar la landing page: <https://aplicacionesopensource-sw58.git
 
 <img src="assets/images/Commits.png" alt="Commits" style="width:100%;">
 
-![Ver todos los commits en GitHub](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/commits/main/)
+Ver todos los commits en GitHub: https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/commits/main/
+
 ### 5.2.2 Sprint 2
 #### 5.2.2.1 Sprint Planning 2
 Nuestro Segundo Sprint #2 comienza el 15/04/2024 y tiene como finalidad resolver los comentarios recibidos del Sprint 1, realizar el FrontEnd.
@@ -1254,7 +1256,7 @@ Desplegamos el frontend por medio de Firebase:
 
 ![imagen](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/584c5954-88b3-4f0e-ab16-15e4d32eb133)
 
-Link para visualizar el frontend: [https://fastlearners-e07b8.web.app/](https://fastlearners-opensource.web.app/home)
+Link para visualizar el frontend: https://fastlearners-opensource.web.app/home
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
