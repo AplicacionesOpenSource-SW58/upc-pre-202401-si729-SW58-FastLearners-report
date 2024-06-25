@@ -1496,12 +1496,13 @@ Del HU23 al HU30, todas las tasks son para expandir y mejorar los servicios de F
 
 | Repository | Branch | Commit Message | Commit ID |
 |------------|--------|----------------|-----------|
+|            |        |                |           |  
 
 #### 5.2.4.4 Testing Suite Evidence for Sprint Review 4 <a name ="5.2.4.4.">
 
 | Repository   | Branch  |  Commited on (Date)|
 |------|-----------------------------------|----------------------------------------|
-
+| https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report | upc-pre-202401-si729-SW58-FastLearners-report/main | 28/04/2024 |
 
 #### 5.2.4.5 Execution Evidence for Sprint Review 4 <a name ="5.2.4.5.">
 
@@ -1531,11 +1532,11 @@ Link del despliegue: https://fast-learners-os.azurewebsites.net/swagger-ui/index
 
 | Alumno | Actividad |
 |--------|-----------|
-| Javier Murillo, Mathias| Reporte (5.3 y 5.4) |
-| Orrego Noriega, Jorge David | Desarrollo y despliegue del Frontend |
-| Ochoa Colonio, Carlos Alberto | Desarrollo del Backend |
-| Pachas Chavez, Alejandro Alberto | Desarrollo del Backend |
-| Mendez Rosales, Marco Aurelio | Reporte (5.2.4.3 al 5.2.4.8) |
+| Javier Murillo, Mathias| Reporte (5.3 y 5.4), Desarrollo del Frontend |
+| Orrego Noriega, Jorge David | Desarrollo y despliegue del Frontend, Reporte |
+| Ochoa Colonio, Carlos Alberto | Desarrollo del Backend y Frontend |
+| Pachas Chavez, Alejandro Alberto | Desarrollo del Backend y Frontend|
+| Mendez Rosales, Marco Aurelio | Reporte (5.2.4.3 al 5.2.4.8) y desarrollo del Backend |
 
 Repositorio Informe: 
 
