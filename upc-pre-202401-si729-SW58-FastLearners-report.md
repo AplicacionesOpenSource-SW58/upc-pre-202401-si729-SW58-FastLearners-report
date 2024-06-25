@@ -1734,10 +1734,20 @@ The Brookings Institution. (s.f.). Realizing the promise: How can education tech
 
 # Anexos
 
-Video About The Product: <br>
-**Enlace al video en Youtube:** https://www.youtube.com/watch?v=zAfdsqz8-tQ <br>
-**Enlace al video en Microsoft Stream:** https://upcedupe.sharepoint.com/:v:/s/FastLearners/EV8wnnrni0BOvOF1KZbSdkUBb3CB1v6UfqUvuXmEUc40TA?e=VTGxEc
+**Video Exposición TB1:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EbcoPjGAcNpNv_Ba8GKQV44Bl82FkApmIy2Hf-ygFxP6kQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cTyACF 
 
-Video About The Team: <br>
-**Enlace al video en Youtube:** https://youtu.be/3ICXxvJwTz4 <br>
-**Enlace al video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EXOzwrj_BLxGhDE3Kf9UiMwB0rAR61PoCM0rE0-JWA3I8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=yKCgeL 
+**Video Exposición TP:**
+
+**Video Exposición TB2:**
+
+**Video Exposición TF:**
+
+**Video About The Product:**
+
+* Enlace al video en Youtube: https://www.youtube.com/watch?v=zAfdsqz8-tQ 
+* Enlace al video en Microsoft Stream: https://upcedupe.sharepoint.com/:v:/s/FastLearners/EV8wnnrni0BOvOF1KZbSdkUBb3CB1v6UfqUvuXmEUc40TA?e=VTGxEc
+
+**Video About The Team:**
+
+* Enlace al video en Youtube: https://youtu.be/3ICXxvJwTz4 <br>
+* Enlace al video en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EXOzwrj_BLxGhDE3Kf9UiMwB0rAR61PoCM0rE0-JWA3I8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=yKCgeL 
