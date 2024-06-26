@@ -1529,21 +1529,21 @@ Se desarrollaron los web services correspondientes al backend de la aplicación 
  
 #### 5.2.4.6 Services Documentation Evidence for Sprint Review 4 <a name ="5.2.4.6.">
 
-![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/blob/d9d90a556aba41e4c5aedff678b43c2370f2e030/assets/images/001.png)
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/8cb24279-d387-40c9-83d9-f35c171cc36b)
 
-![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/blob/d297b37ce678e6c0c69fded58f5fc239ba0aad36/assets/images/002.png)
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/d0aa80d5-c8a4-46e9-a45b-860eaedc5e02)
 
-![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/blob/d297b37ce678e6c0c69fded58f5fc239ba0aad36/assets/images/003.png)
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/a0e17e1e-acec-4c24-aeee-ed296afaa6de)
 
-![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/blob/d297b37ce678e6c0c69fded58f5fc239ba0aad36/assets/images/004.png)
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/ead67b62-7df5-43d2-97b0-efbcbe067828)
 
-![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/blob/d297b37ce678e6c0c69fded58f5fc239ba0aad36/assets/images/005.png)
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/fec5d1dc-1e73-404b-811c-d8b1f6755f2f)
 
-![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/blob/d297b37ce678e6c0c69fded58f5fc239ba0aad36/assets/images/006.png)
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/3006c114-2842-457b-a101-03949a31840d)
 
-![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/blob/d297b37ce678e6c0c69fded58f5fc239ba0aad36/assets/images/007.png)
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/3b185e38-6d7b-4edd-a840-1e1064e41bec)
 
-![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/blob/d297b37ce678e6c0c69fded58f5fc239ba0aad36/assets/images/008.png)
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/20efbda4-7025-4355-ba2c-b21c3631e620)
 
 #### 5.2.4.7 Software Deployment Evidence for Sprint Review 4 <a name ="5.2.4.7.">
 
