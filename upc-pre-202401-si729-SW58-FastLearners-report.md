@@ -859,8 +859,7 @@ Se agregaron distintos patrones, entre ellos:
 1.  Patrón Composite:
  Content y Question: La clase Content contiene una lista de preguntas (questions: List<Question>), permitiendo que los objetos individuales (Preguntas) se traten de manera uniforme. Esta estructura forma una jerarquía parte-todo, lo cual es característico del patrón Composite.
 
-![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/a6383a97-cf0d-4151-99ce-983710d7b062)
-
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/b04d863e-b0dc-4986-a1a6-a695653381d5)
 
 ### 4.7.2. Class Dictionary. <a name ="4.7.2.">
 Para el diccionario de clases, se presentan las más importantes
@@ -967,7 +966,8 @@ Membership representa la clase del tipo de membresía.
 ### 4.8.1. Database Diagram. <a name ="4.8.1.">
 Un diagrama de base de datos es una herramienta visual que representa la estructura y relaciones de una base de datos. Consta de tablas (entidades), donde cada tabla tiene columnas (atributos) que representan los diferentes tipos de datos que almacena.
 
-<img src="assets/images/dbfinal.jpeg" alt="DatabaseDiagram" style="width:90%">
+![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/27c2c842-ca70-40e9-9001-65bb9d4af7a6)
+
 
 # Capítulo V: Product Implementation, Validation & Deployment <a name ="cap5">
 
