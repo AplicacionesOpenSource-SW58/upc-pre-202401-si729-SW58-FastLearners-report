@@ -91,7 +91,7 @@ Link del repositorio: https://github.com/AplicacionesOpenSource-SW58/upc-pre-202
       2.3.3. [User Journey Mapping](#2.3.3.)<br>
       2.3.4. [Empathy Mapping](#2.3.4.)<br>
       2.3.5. [As-is Scenario Mapping](#2.3.5.)<br>
-   2.4. [Ubiquitous Language](#2.4.) <br>
+   2.4. [Ubiquitous Language](#2.4.) <br>****
 3. [Capítulo III: Requirements Specification](#cap3)<br>
    3.1. [To-Be Scenario Mapping](#3.1.)<br>
    3.2. [User Stories](#3.2.)<br>
@@ -856,17 +856,7 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 ### 4.7.1. Class Diagrams. <a name ="4.7.1.">
 Un diagrama de clases es una representación visual de las clases de un sistema de software y las relaciones entre ellas. 
 Se agregaron distintos patrones, entre ellos:
-1. Patrón Singleton:
- NotificationManager Esta clase emplea el patrón Singleton, como se indica por la instancia estática notificationManager: instance. El constructor es privado o protegido para evitar la instanciación directa, asegurando que solo exista una instancia de NotificationManager.
-2.  Patrón Observer:
- otificationManager y User El NotificationManager mantiene una lista de observadores (Usuarios) y proporciona métodos para agregar o eliminar observadores (addObserver, removeObserver). Los usuarios pueden suscribirse a las notificaciones, y cuando se envía una notificación, todos los observadores son notificados (notifyObservers).
-3.  Patrón Factory Method:
- MembershipFactory y sus subclases El diagrama incluye varias clases de fábrica (MembershipFactory, BasicMembershipFactory, RegularMembershipFactory, PremiumMembershipFactory) responsables de crear diferentes tipos de membresías. Cada clase de fábrica tiene un método createMembership para instanciar tipos específicos de membresías.
-4.  Patrón Strategy:
- PaymentStrategy y sus subclases La interfaz PaymentStrategy es implementada por CreditCardPayment. Esto permite que el sistema use diferentes métodos de pago de manera intercambiable. El método pay en la interfaz PaymentStrategy define la estructura del algoritmo, y las subclases proporcionan implementaciones específicas.
-5.  Patrón Command:
- Command, UploadContentCommand, DeleteContentCommand, CommandManager El patrón Command se utiliza para encapsular solicitudes como objetos, permitiendo la parametrización de clientes con colas, solicitudes y operaciones. UploadContentCommand y DeleteContentCommand extienden la clase Command, implementando los métodos execute y undo. El CommandManager mantiene una pila de comandos para soportar operaciones como ejecutar y deshacer comandos (executeCommand, undoCommand).
-6.  Patrón Composite:
+1.  Patrón Composite:
  Content y Question: La clase Content contiene una lista de preguntas (questions: List<Question>), permitiendo que los objetos individuales (Preguntas) se traten de manera uniforme. Esta estructura forma una jerarquía parte-todo, lo cual es característico del patrón Composite.
 
 ![image](https://github.com/AplicacionesOpenSource-SW58/upc-pre-202401-si729-SW58-FastLearners-report/assets/89089577/a6383a97-cf0d-4151-99ce-983710d7b062)
@@ -941,33 +931,9 @@ Question representa la clase de pregunta sobre un contenido específico.
 | editQuestion(in newBody:String)     | void - Edita el cuerpo de la pregunta con el nuevo contenido proporcionado |
 | addAnswer(in answer:Answer)         | void - Agrega una respuesta a la pregunta                         |
 
-### NotificationManager
 
-NotificationManager representa la clase de control de las notificaciones.
 
-| Atributo       | Descripción                                                          |
-|----------------|----------------------------------------------------------------------|
-| notification   | Notification - Objeto de tipo Notification que representa la notificación |
-| author         | User - Usuario (objeto de tipo User) que creó la notificación       |
-| creationDate   | date - Fecha de creación de la notificación                         |
 
-#### Métodos
-
-| Método                                | Descripción                                                      |
-|--------------------------------------|------------------------------------------------------------------|
-| sendNotification()                   | void - Envía la notificación                                    |
-| createNotification(in User, in title, in content, in date) | void - Crea una notificación con los parámetros especificados |
-
-### Notification
-
-Notification representa la clase de notificaciones.
-
-| Atributo       | Descripción                                            |
-|----------------|--------------------------------------------------------|
-| id             | int - Identificador único de la notificación          |
-| title          | string - Título de la notificación                     |
-| content        | string - Contenido o mensaje de la notificación       |
-| date           | date - Fecha de la notificación                        |
 
 ### PaymentCard
 
